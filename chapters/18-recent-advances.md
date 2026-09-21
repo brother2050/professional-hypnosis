@@ -445,6 +445,8 @@ Dehaene和Changeux提出的GWT认为意识内容是通过全局广播实现的�
 
 ## 延伸阅读
 
+> 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
+
 - Jiang, H., et al. (2024). Brain stimulation and hypnosis: Updated meta-analysis. *Neuroscience & Biobehavioral Reviews*, 152, 105-122.
 - Terhune, D.B., et al. (2024). Hypnotic suggestion: A predictive coding framework. *Psychological Bulletin*, 150(3), 215-245.
 - Landry, M., et al. (2024). High-density EEG signatures of hypnosis induction. *NeuroImage*, 285, 120-135.

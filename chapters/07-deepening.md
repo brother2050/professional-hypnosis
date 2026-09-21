@@ -219,6 +219,8 @@
 
 ## 延伸阅读
 
+> 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
+
 - Erickson, M.H. (1952). Deep hypnosis and its induction. In L.M. LeCron (Ed.), *Experimental Hypnosis*. Macmillan.
 - Kroger, W.S. (2008). *Clinical and Experimental Hypnosis* (2nd ed.). Lippincott Williams & Wilkins.
 - Yapko, M.D. (2012). *Trancework* (4th ed.). Routledge.

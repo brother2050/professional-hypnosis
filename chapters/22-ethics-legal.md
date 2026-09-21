@@ -332,6 +332,8 @@
 
 ## 延伸阅读
 
+> 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
+
 - Lynn, S.J., et al. (2020). *Hypnosis, Imagination, and Human Potential*. Routledge.
 - APA. (2017). *Ethical Principles of Psychologists and Code of Conduct*.
 - Alladin, A. (2016). *Cognitive Hypnotherapy*. Springer.

@@ -1,3 +1,7 @@
+> ⚠️ **安全警示**：本章所述技术必须由具备专业资质的催眠治疗师在督导下实施。不具备专业资质的读者不应尝试对他人使用这些技术。自我催眠练习前请阅读[安全须知](../DISCLAIMER.md#二安全警示)。
+
+---
+
 # 第12章 催眠镇痛与疼痛管理
 
 ## 12.1 催眠镇痛的历史与证据
@@ -314,6 +318,8 @@
 ---
 
 ## 延伸阅读
+
+> 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
 
 - Patterson, D.R., & Jensen, M.P. (2003). Hypnosis and clinical pain. *Psychological Bulletin*, 129(4), 495-521.
 - Jensen, M.P., et al. (2019). Hypnosis for chronic pain management. *American Psychologist*, 74(2), 187-198.

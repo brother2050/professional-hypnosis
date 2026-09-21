@@ -240,6 +240,8 @@
 
 ## 延伸阅读
 
+> 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
+
 - Hilgard, E.R. (1991). A neodissociation theory of hypnosis. In S.J. Lynn & J.W. Rhue (Eds.), *Theories of Hypnosis*. Guilford Press.
 - Lynn, S.J., et al. (2020). *Hypnosis, Imagination, and Human Potential*. Routledge.
 - Kirsch, I. (2011). The altered state issue: Dead or alive? *International Journal of Clinical and Experimental Hypnosis*, 59(3), 350-362.

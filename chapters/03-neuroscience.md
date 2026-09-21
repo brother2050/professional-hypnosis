@@ -239,6 +239,8 @@ ACC 是催眠神经机制研究中被关注最多的脑区之一。
 
 ## 延伸阅读
 
+> 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
+
 - Jiang, H., et al. (2017). Brain stimulation and hypnosis: A systematic review. *Neuroscience & Biobehavioral Reviews*, 78, 115-130.
 - Hoeft, F., et al. (2012). Functional brain basis of hypnotizability. *Archives of General Psychiatry*, 69(10), 1064-1072.
 - Oakley, D.A., & Halligan, P.W. (2013). Hypnotic suggestion: Opportunities for cognitive neuroscience. *Nature Reviews Neuroscience*, 14(8), 565-576.

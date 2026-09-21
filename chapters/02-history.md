@@ -211,6 +211,8 @@
 
 ## 延伸阅读
 
+> 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
+
 - Crabtree, A. (1993). *From Mesmer to Freud: Magnetic Sleep and the Roots of Psychological Healing*. Yale University Press.
 - Gauld, A. (1992). *A History of Hypnotism*. Cambridge University Press.
 - Rosen, G. (1959). *Mesmerism and Surgery: A Strange Chapter in the History of Anesthesia*. Journal of the History of Medicine.
@@ -340,7 +342,9 @@ Lynn等（2025, *American Psychologist*, 80(3), 312-335）的结论是，现代�
 
 ---
 
-## 延伸阅读（补充）
+## 延伸阅读
+
+> 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。（补充）
 
 **新近出版：**
 - Jensen, M.P., et al. (2023). Reassessing Mesmerism. *History of Psychology*, 26(2), 145-168.

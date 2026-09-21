@@ -266,6 +266,8 @@
 
 ## 延伸阅读
 
+> 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
+
 - Hilgard, E.R. (1965). *Hypnotic Susceptibility*. Harcourt, Brace & World.
 - Woody, E.Z., & Sadler, P. (2008). Dissociation theories of hypnosis. In M.R. Nash & A.J. Barnier (Eds.), *The Oxford Handbook of Hypnosis*. Oxford University Press.
 - Lynn, S.J., et al. (2020). *Hypnosis, Imagination, and Human Potential*. Routledge.
@@ -410,7 +412,9 @@ Hobson等（2025）在《Trends in Cognitive Sciences》提出了催眠的预测
 
 ---
 
-## 延伸阅读（补充）
+## 延伸阅读
+
+> 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。（补充）
 
 **新近研究：**
 - Terhune, D.B., et al. (2023). Multimodal neuroimaging prediction of hypnotic susceptibility. *Biological Psychiatry*, 94(12), 1023-1033.

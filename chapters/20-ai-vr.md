@@ -237,6 +237,8 @@
 
 ## 延伸阅读
 
+> 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
+
 - Rochet, N., et al. (2022). Tele-hypnosis for chronic pain. *Pain Medicine*, 23(5), 901-910.
 - Torem, M. (2021). Tele-hypnosis: Best practices. *American Journal of Clinical Hypnosis*, 63(3), 256-268.
 - Maples-Keller, J.L., et al. (2017). The use of virtual reality technology in the treatment of anxiety disorders. *Current Psychiatry Reports*, 19(7), 41.

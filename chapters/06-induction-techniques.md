@@ -336,6 +336,8 @@
 
 ## 延伸阅读
 
+> 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
+
 - Elman, D. (1964). *Hypnotherapy*. Westwood Publishing.
 - Erickson, M.H., Rossi, E.L., & Rossi, S.I. (1976). *Hypnotic Realities*. Irvington.
 - Yapko, M.D. (2012). *Trancework: An Introduction to the Practice of Clinical Hypnosis* (4th ed.). Routledge.

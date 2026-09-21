@@ -1,3 +1,7 @@
+> ⚠️ **安全警示**：本章所述技术必须由具备专业资质的催眠治疗师在督导下实施。不具备专业资质的读者不应尝试对他人使用这些技术。自我催眠练习前请阅读[安全须知](../DISCLAIMER.md#二安全警示)。
+
+---
+
 # 第13章 焦虑、恐惧与创伤处理
 
 ## 13.1 催眠在焦虑障碍中的应用
@@ -285,6 +289,8 @@
 ---
 
 ## 延伸阅读
+
+> 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
 
 - Valentine, K.E., et al. (2019). The efficacy of hypnosis for treating anxiety. *International Journal of Clinical and Experimental Hypnosis*, 67(1), 1-25.
 - Milling, L.S., et al. (2021). Hypnosis for the treatment of anxiety disorders. *Journal of Clinical Psychology*, 77(5), 1134-1151.

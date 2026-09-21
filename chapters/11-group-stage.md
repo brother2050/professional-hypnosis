@@ -785,6 +785,8 @@
 
 ## 延伸阅读
 
+> 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
+
 - Yapko, M.D. (2012). *Trancework: An Introduction to the Practice of Clinical Hypnosis* (4th ed.). Routledge.
 - Kein, G. (2013). *Hypnosis: The Original Therapy*. Omni Hypnosis Training Center.
 - Milling, L.S., et al. (2021). Hypnosis for the treatment of anxiety disorders: A meta-analysis. *Journal of Anxiety Disorders*, 78, 102354.
