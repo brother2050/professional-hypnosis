@@ -71,14 +71,21 @@
 | 催眠脚本库 | 完整可用脚本 | `scripts/` |
 | 训练练习册 | 系统化训练方案 | `exercises/` |
 
-### 附录
-| 附录 | 内容 | 文件 |
+### 附录与专业工具
+| 编号 | 内容 | 文件 |
 |------|------|------|
-| A | 催眠感受性量表 | `appendix/a-scales.md` |
+| A | 催眠感受性量表（已修正） | `appendix/a-scales.md` |
 | B | 常用催眠术语表 | `appendix/b-glossary.md` |
-| C | 催眠研究核心文献 | `references/core-papers.md` |
+| C | 核心文献（APA格式，已核实） | `references/core-papers.md` |
 | D | 专业机构与认证体系 | `appendix/d-certifications.md` |
 | E | 催眠师督导指南 | `appendix/e-supervision.md` |
+| F | 研究最新进展速览 | `appendix/f-research-overview.md` |
+| **G** | **⚠️ 高风险技术安全手册** | `appendix/g-safety-manual.md` |
+| **H** | **催眠与其他疗法比较** | `appendix/h-therapy-comparison.md` |
+| **I** | **治疗困境与失败案例** | `appendix/i-failure-difficulties.md` |
+| — | 实用工具（知情同意书、评估量表等） | `appendix/practical-tools.md` |
+| — | 治疗协议模板集 | `appendix/treatment-protocols.md` |
+| — | 文献核实状态 | `references/verification-status.md` |
 
 ---
 
