@@ -86,6 +86,9 @@
 | — | 实用工具（知情同意书、评估量表等） | `appendix/practical-tools.md` |
 | — | 治疗协议模板集 | `appendix/treatment-protocols.md` |
 | — | 文献核实状态 | `references/verification-status.md` |
+| **K** | **中国文化背景下的催眠实践** | `appendix/k-chinese-context.md` |
+| **J** | **主题交叉引用索引** | `appendix/j-cross-reference.md` |
+| **L** | **全书索引** | `appendix/l-index.md` |
 
 ---
 
