@@ -89,6 +89,9 @@
 | **K** | **中国文化背景下的催眠实践** | `appendix/k-chinese-context.md` |
 | **J** | **主题交叉引用索引** | `appendix/j-cross-reference.md` |
 | **L** | **全书索引** | `appendix/l-index.md` |
+| **M** | **临床快速参考手册** | `appendix/m-clinical-quickref.md` |
+| **N** | **研究方法与循证实践指南** | `appendix/n-research-methods.md` |
+| **O** | **全书学习指南** | `appendix/o-study-guide.md` |
 
 ---
 
