@@ -242,4 +242,148 @@
 
 ---
 
+## 新增术语：AI催眠、神经反馈与神经技术（按字母排序）
+
+> 以下术语为第二版新增，按英文首字母 A–Z 排序，涵盖AI催眠、神经反馈、预测编码、脑机接口等新兴交叉领域。
+
+**Affective Computing（情感计算）**
+通过算法识别、解读并响应人类情绪状态的计算技术。
+
+**AI-Assisted Hypnosis（AI辅助催眠）**
+借助人工智能工具（如对话式AI、自适应脚本生成）辅助实施的催眠流程，人类治疗师保留最终责任。
+
+**Alpha Neurofeedback（α波神经反馈）**
+以8–13Hz α波为训练靶标的神经反馈，常用于放松与焦虑调节。
+
+**Artificial Neural Network（人工神经网络）**
+受生物神经系统启发的机器学习模型，用于模式识别与预测。
+
+**Biofeedback（生物反馈）**
+将心率、皮电、肌电等生理信号实时反馈给个体以学习自我调节的技术总称。
+
+**Brain-Computer Interface（脑机接口，BCI）**
+在大脑与外部设备之间建立直接通信通路的技术，绕过常规神经肌肉通道。
+
+**Closed-Loop Stimulation（闭环刺激）**
+根据实时神经生理信号自动调节刺激参数的干预模式。
+
+**Cognitive Decoding（认知解码）**
+利用机器学习从神经活动模式中还原认知内容或意图的技术。
+
+**Computational Psychiatry（计算精神病学）**
+用数学模型（如预测编码模型）解释精神症状与治疗机制的交叉学科。
+
+**Connectome（连接组）**
+大脑结构与功能连接的完整图谱，用于理解催眠反应的神经网络基础。
+
+**Cortical Excitability（皮层兴奋性）**
+皮层神经元对外界刺激的反应性水平，与暗示感受性相关。
+
+**Deep Learning（深度学习）**
+基于多层神经网络的机器学习方法，用于脑电信号分类与催眠深度估计。
+
+**Default Mode Network（默认模式网络，DMN）**
+静息态活跃的脑网络，其活动变化与催眠恍惚深度密切相关。
+
+**Digital Phenotyping（数字表型）**
+通过手机、可穿戴设备等被动采集行为与生理数据以刻画心理状态的方法。
+
+**Digital Therapeutics（数字疗法，DTx）**
+经临床验证、由软件驱动的治疗干预，包括数字化催眠与放松程序。
+
+**EEG Neurofeedback（脑电神经反馈）**
+以脑电信号为反馈媒介的神经反馈训练，是催眠研究中最常用的形式。
+
+**Embodied Cognition（具身认知）**
+强调认知依赖身体与感觉运动系统的理论取向，为催眠体验提供解释框架。
+
+**Entrainment（夹带作用）**
+外部节律（声、光、电刺激）使脑振荡频率与其同步的现象。
+
+**fMRI Neurofeedback（功能磁共振神经反馈）**
+以实时脑区血氧信号为反馈的神经反馈，可靶向调节特定脑区活动。
+
+**Frequency Following Response（频率跟随反应，FFR）**
+脑干与皮层对周期性声刺激产生的同步电反应，是节律性诱导的机制之一。
+
+**Generative AI（生成式人工智能）**
+可生成文本、语音与图像的AI模型，用于个性化催眠脚本与语音导引的构建。
+
+**Heart Rate Variability Biofeedback（心率变异性生物反馈，HRV-BF）**
+以呼吸性窦性心律不齐为靶的生物反馈，常与催眠联合用于压力管理。
+
+**Human-in-the-Loop AI（人机协同人工智能）**
+AI提供建议、人类做最终决策的协作模式，是AI辅助催眠的安全底线原则。
+
+**Hypnotic Susceptibility Prediction（催眠易感性预测）**
+基于问卷、神经指标或行为数据预测个体催眠反应水平的建模方法。
+
+**Large Language Model（大语言模型，LLM）**
+基于海量文本训练的生成式AI，可用于催眠脚本撰写、个案整理与督导辅助。
+
+**Machine Learning（机器学习）**
+从数据中自动学习规律并做出预测的方法，广泛用于神经信号分析。
+
+**Magnetoencephalography（脑磁图，MEG）**
+测量神经电流所致磁场的高时间分辨率脑成像技术。
+
+**Mirror Neuron System（镜像神经元系统）**
+在观察他人动作时同步放电的神经元网络，与模仿和共情式暗示相关。
+
+**Neuroadaptive System（神经自适应系统）**
+依据用户实时神经状态自动调整内容或难度的交互系统。
+
+**Neurofeedback（神经反馈）**
+将脑电、fMRI等神经信号实时反馈给个体，学习自我调节脑活动的操作性条件反射技术。
+
+**Neuroimaging（神经影像）**
+观测脑结构与功能的技术总称（fMRI、EEG、MEG、PET等）。
+
+**Neuronal Oscillation（神经振荡）**
+神经元群体的节律性同步活动，按频段分为δ、θ、α、β、γ波。
+
+**Neurophenomenology（神经现象学）**
+将第一人称体验报告与神经数据相结合的意识研究方法。
+
+**Neuroplasticity（神经可塑性）**
+神经系统在结构与功能上随经验改变的能力，是暗示产生长程效应的基础。
+
+**Precision Medicine（精准医疗）**
+依据个体生物与行为特征定制干预方案的医疗模式，如按神经表型选择催眠方案。
+
+**Predictive Coding（预测编码）**
+大脑以先验预测不断推断感觉输入、仅传递预测误差的信息处理框架。
+
+**Predictive Processing（预测加工）**
+预测编码的扩展理论，将知觉、行动与催眠视为预测误差最小化过程。
+
+**Real-Time fMRI（实时功能磁共振成像）**
+即时处理并反馈fMRI信号的技术，是神经反馈研究的重要平台。
+
+**Sensorimotor Rhythm（感觉运动节律，SMR）**
+感觉运动皮层12–15Hz节律，其增强训练与放松、专注及疼痛调节相关。
+
+**Steady-State Visually Evoked Potential（稳态视觉诱发电位，SSVEP）**
+对高频闪光产生的稳定脑电响应，常用于视觉夹带与BCI控制。
+
+**Theta Neurofeedback（θ波神经反馈）**
+以4–8Hz θ波为靶标的训练，常用于内在探索与创伤相关工作的辅助。
+
+**Transcranial Direct Current Stimulation（经颅直流电刺激，tDCS）**
+以微弱直流电调节皮层兴奋性的非侵入性脑刺激技术。
+
+**Transcranial Magnetic Stimulation（经颅磁刺激，TMS）**
+以脉冲磁场无创调节皮层活动的技术，与催眠联合用于疼痛与抑郁研究。
+
+**Virtual Reality Exposure（虚拟现实暴露，VRE）**
+在虚拟场景中进行的暴露疗法，可与催眠诱导结合提升沉浸与依从性。
+
+**VR-Guided Hypnosis（虚拟现实引导催眠）**
+以VR环境提供沉浸式诱导场景的催眠形式，用于疼痛管理与牙科焦虑。
+
+**Wearable Neurotechnology（可穿戴神经技术）**
+轻量化、可日常佩戴的脑电或生理采集设备，支持居家神经反馈训练。
+
+---
+
 [← 返回目录](../README.md)
