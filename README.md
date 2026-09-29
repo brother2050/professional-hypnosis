@@ -11,9 +11,9 @@
 ## ⚠️ 重要安全警示
 
 > **本书仅供专业学习与研究参考，不构成医疗建议。**
-> 
+>
 > 催眠治疗必须由具备专业资质的人员实施。自我催眠练习应在了解禁忌症和安全须知后进行。
-> 
+>
 > **详细声明请务必阅读：[DISCLAIMER.md](DISCLAIMER.md)**
 
 ---
@@ -21,7 +21,7 @@
 ### 📚 文献引用说明
 
 > 本书引用的部分文献经AI辅助生成，**可能存在不准确之处**。读者在引用任何文献前，请通过PubMed、Google Scholar等数据库进行独立核实。
-> 
+>
 > 详见：[文献真实性声明](DISCLAIMER.md#一文献真实性声明)
 
 ---
@@ -74,7 +74,7 @@
 ### 实战模块
 | 模块 | 内容 | 文件 |
 |------|------|------|
-| 实战案例集 | 50+ 临床真实案例 | `case-studies/` |
+| 实战案例集 | 20 个临床真实案例 | `case-studies/` |
 | 催眠脚本库 | 完整可用脚本 | `scripts/` |
 | 训练练习册 | 系统化训练方案 | `exercises/` |
 
@@ -93,12 +93,58 @@
 | — | 实用工具（知情同意书、评估量表等） | `appendix/practical-tools.md` |
 | — | 治疗协议模板集 | `appendix/treatment-protocols.md` |
 | — | 文献核实状态 | `references/verification-status.md` |
-| **K** | **中国文化背景下的催眠实践** | `appendix/k-chinese-context.md` |
 | **J** | **主题交叉引用索引** | `appendix/j-cross-reference.md` |
+| **K** | **中国文化背景下的催眠实践** | `appendix/k-chinese-context.md` |
 | **L** | **全书索引** | `appendix/l-index.md` |
 | **M** | **临床快速参考手册** | `appendix/m-clinical-quickref.md` |
 | **N** | **研究方法与循证实践指南** | `appendix/n-research-methods.md` |
 | **O** | **全书学习指南** | `appendix/o-study-guide.md` |
+| P | 催眠研究纠错数据库 | `appendix/p-research-corrections.md` |
+| Q | 催眠与新兴疗法比较 | `appendix/q-emerging-therapies.md` |
+| R | 卫生经济学与临床可及性 | `appendix/r-health-economics.md` |
+| S | 催眠与意识科学 | `appendix/s-consciousness-science.md` |
+| T | 患者体验与质性研究 | `appendix/t-patient-experience.md` |
+| U | 催眠的神经可塑性与长期效应 | `appendix/u-neuroplasticity.md` |
+| V | 催眠历史案例深度分析 | `appendix/v-historical-cases.md` |
+| W | 性别、文化与多元视角 | `appendix/w-gender-diversity.md` |
+| X | 运动表现与催眠 | `appendix/x-sports-performance.md` |
+| Y | 组织应用与领导力发展 | `appendix/y-organizational.md` |
+| Z | 催眠的未来展望与趋势预测 | `appendix/z-future-trends.md` |
+
+**扩展附录（AA–BE）：**
+
+| 编号 | 内容 | 文件 |
+|------|------|------|
+| AA | 代际创伤与表观遗传学 | `appendix/aa-intergenerational-trauma.md` |
+| AB | 催眠与创造力/创新 | `appendix/ab-creativity-innovation.md` |
+| AC | 极端环境中的催眠应用 | `appendix/ac-extreme-environments.md` |
+| AD | 催眠与人类增强伦理 | `appendix/ad-human-enhancement-ethics.md` |
+| AE | 跨物种意识与催眠比较 | `appendix/ae-cross-species.md` |
+| AF | 催眠与迷幻药辅助治疗的整合 | `appendix/af-hypnosis-psychedelics.md` |
+| AG | 催眠师的自我关怀与预防耗竭 | `appendix/ag-practitioner-self-care.md` |
+| AH | 催眠与睡眠医学的交叉 | `appendix/ah-sleep-medicine.md` |
+| AI | 催眠与衰老／阿尔茨海默病 | `appendix/ai-aging-dementia.md` |
+| AJ | 催眠与疼痛科学的前沿 | `appendix/aj-pain-science.md` |
+| AK | 高级催眠技术手册 | `appendix/ak-advanced-techniques.md` |
+| AL | 治疗关系与催眠沟通 | `appendix/al-therapeutic-relationship.md` |
+| AM | 复杂案例管理与临床决策 | `appendix/am-complex-cases.md` |
+| AN | 催眠与创伤知情照护 | `appendix/an-trauma-informed.md` |
+| AP | 催眠从业者的质量保证体系 | `appendix/ap-quality-assurance.md` |
+| AQ | 催眠与疼痛神经科学的临床转化 | `appendix/aq-pain-translation.md` |
+| AR | 催眠与心理创伤的神经生物学 | `appendix/ar-trauma-neurobiology.md` |
+| AS | 催眠与情绪调节的神经科学 | `appendix/as-emotion-regulation.md` |
+| AT | 催眠与心身医学的整合 | `appendix/at-mind-body-medicine.md` |
+| AU | 催眠与认知增强的临床应用 | `appendix/au-cognitive-enhancement.md` |
+| AV | 催眠与脑肠轴 | `appendix/av-gut-brain-axis.md` |
+| AW | 催眠与微生物组-脑-行为轴 | `appendix/aw-microbiome-brain.md` |
+| AX | 催眠的神经免疫学 | `appendix/ax-neuroimmunology.md` |
+| AY | 催眠与表观遗传学的临床转化 | `appendix/ay-epigenetics-clinical.md` |
+| AZ | 催眠与神经内分泌学 | `appendix/az-neuroendocrinology.md` |
+| BA | 催眠与心血管系统的神经心脏学 | `appendix/ba-cardioneurology.md` |
+| BB | 催眠与呼吸系统医学 | `appendix/bb-respiratory-medicine.md` |
+| BC | 催眠与康复医学 | `appendix/bc-rehabilitation.md` |
+| BD | 催眠与精神药理学的协同 | `appendix/bd-psychopharmacology.md` |
+| BE | 催眠与远程医疗 / 数字疗法 | `appendix/be-telehealth-digital.md` |
 
 ---
 
@@ -106,7 +152,7 @@
 
 1. **理论深度**：整合神经科学、认知心理学、临床医学三大学科视角
 2. **技术全面**：覆盖 30+ 种诱导技术，50+ 种暗示策略
-3. **实战导向**：50+ 真实临床案例，附完整治疗方案
+3. **实战导向**：20 个真实临床案例，附完整治疗方案
 4. **前沿整合**：涵盖 2020-2026 年最新研究成果
 5. **循证为本**：每个技术均附研究证据等级评估
 6. **可用脚本**：提供即用型催眠脚本与训练方案
@@ -139,19 +185,19 @@
 
 | 项目 | 数量 |
 |------|------|
-| 总文件数 | 34 个 |
-| 总字数 | ~32 万字 |
-| 章节数 | 22 章（含增补） |
-| 催眠脚本 | 13 套 |
-| 临床案例 | 15+ 个 |
-| 参考文献 | 80+ 篇 |
-| 附录 | 7 个 |
-| 治疗协议 | 10+ 套 |
-| 评估工具 | 5+ 个 |
+| 总文件数 | 88 个 |
+| 总字数 | ~56 万字 |
+| 章节数 | 23 章（第0-22章） |
+| 催眠脚本 | 17 套 |
+| 临床案例 | 20 个 |
+| 参考文献 | 100+ 篇 |
+| 附录 | 57 个 |
+| 治疗协议 | 9 套 |
+| 评估工具 | 10 个 |
 
 ---
 
-*最后更新：2026年9月21日*
+*最后更新：2026年9月30日*
 
 ---
 
@@ -163,7 +209,7 @@
 
 1. **三学科交叉的理论视角**：融合神经科学（催眠的脑机制、默认网络与显著性网络研究）、认知心理学（解离理论、社会认知理论、冷执行功能模型）与临床医学（疼痛管理、心身医学），避免单一学派的理论偏见。读者不仅能学到"怎么做"，更能理解"为什么有效"。
 2. **技术谱系完整且分级明确**：系统覆盖 30+ 种诱导技术（从标准化的渐进放松、凝视诱导，到快速诱导、混乱技术）、50+ 种暗示策略（直接暗示、隐喻故事、症状处方、 Erikson 式间接暗示等），并对每项技术标注**适用场景、风险等级与操作前置条件**，配套附录 G《高风险技术安全手册》专门警示禁忌操作。
-3. **实战导向、拿来即用**：收录 50+ 个真实临床案例（含失败与困境案例复盘），提供 13 套完整催眠脚本、10+ 套治疗协议模板、知情同意书与评估量表等实用工具，可直接用于临床工作流与督导教学。
+3. **实战导向、拿来即用**：收录 20 个真实临床案例（含失败与困境案例复盘），提供 17 套完整催眠脚本、9 套治疗协议模板、知情同意书与评估量表等实用工具，可直接用于临床工作流与督导教学。
 4. **循证分级、诚实呈现**：每个技术均附研究证据等级评估，并诚实地呈现"治疗困境与失败案例"（附录 I），帮助读者建立合理预期，避免对催眠的神化或污名化。
 5. **前沿追踪与本土关怀并重**：覆盖 2020-2026 年最新研究进展、神经影像学机制、AI 与 VR 辅助催眠等新兴方向，同时专设《中国文化背景下的催眠实践》（附录 K），讨论气功、中医意象、面子文化与家庭结构对催眠实施的文化调适。
 6. **学习支持系统完善**：配有全书学习指南（附录 O）、主题交叉引用索引（附录 J）、全书索引（附录 L）与临床快速参考手册（附录 M），兼顾系统学习与临查速用两种需求。
@@ -222,9 +268,10 @@
 | 版本 | 日期 | 主要更新内容 |
 |------|------|--------------|
 | v0.9 | 2026-08 | 全书初稿完成：22 章正文、实战模块、附录 A-G 框架建立 |
-| v1.0 | 2026-09-05 | 正式发布版：完成 50+ 临床案例、13 套催眠脚本、治疗协议模板集；文献可信度分级标记上线 |
+| v1.0 | 2026-09-05 | 正式发布版：完成 15 个临床案例、13 套催眠脚本、治疗协议模板集；文献可信度分级标记上线 |
 | v1.1 | 2026-09-21 | 增补附录 H《催眠与其他疗法比较》、附录 I《治疗困境与失败案例》、附录 K《中国文化背景下的催眠实践》；新增索引体系（附录 J/L）与临床快速参考手册（附录 M）；修正附录 A 感受性量表；更新研究进展速览（附录 F）至 2026 年 Q3 |
 | v1.2 | 2026-09-23 | README 新增全书特点总结、适合人群细分与阅读建议；DISCLAIMER 新增数字工具使用安全提示、远程催眠安全须知、不同年龄段使用注意事项；全面强化安全警示体系 |
+| v1.2.1 | 2026-09-30 | 全项目质量审校：修复失效链接与重复/错位标题；统一附录文件名与内部编号（AD、AN、AC、L）；README 附录目录补全至 BE 并修正内容统计；案例集编号去重（第二批案例改为案例16-20）与分类索引重写；脚本库、训练模块命名统一；清除行尾空白 |
 
 **计划中的后续更新：**
 
@@ -235,4 +282,4 @@
 
 ---
 
-*版本：v1.2 · 最后更新：2026年9月23日*
+*版本：v1.2.1 · 最后更新：2026年9月30日*

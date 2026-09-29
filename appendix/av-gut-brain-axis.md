@@ -1,4 +1,4 @@
-# 附录 AV：催眠与脑肠轴
+# 附录AV：催眠与脑肠轴
 
 > **关键词**：脑肠轴（Brain-Gut Axis）、肠神经系统（ENS）、迷走神经、肠道微生物组、肠道定向催眠（Gut-Directed Hypnotherapy, GDH）、肠易激综合征（IBS）、炎症性肠病（IBD）、心身医学
 
