@@ -10,7 +10,7 @@
 
 ### AA.1.1　概念界定与研究简史
 
-代际创伤（又称跨代创伤、创伤的代际传递）指第一代创伤幸存者的创伤效应在其后代中以症状、关系模式、自我组织方式甚至生理指标的形式重现。该概念的临床雏形可追溯至对大屠杀幸存者后代（offspring of Holocaust survivors）的观察：Rakoff（1966）注意到幸存者子女中存在特征性的身份与关系困扰；Yehuda 等人（1998）随后报告该群体皮质醇水平偏低且 PTSD 检出率偏高，开启了该领域的实证研究。此后，对卢旺达大屠杀幸存者后代、柬埔寨与越南难民子女、美国原住民寄宿学校幸存者家族、中国"文革"经历者家庭等群体的研究，共同勾勒出代际创伤的跨文化样貌。
+代际创伤（又称跨代创伤、创伤的代际传递）指第一代创伤幸存者的创伤效应在其后代中以症状、关系模式、自我组织方式甚至生理指标的形式重现。该概念的临床雏形可追溯至对大屠杀幸存者后代（offspring of Holocaust survivors）的观察：Rakoff（1966）注意到幸存者子女中存在特征性的身份与关系困扰；随后的实证研究报告该群体皮质醇水平偏低且 PTSD 检出率偏高，开启了该领域的实证研究。此后，对卢旺达大屠杀幸存者后代、柬埔寨与越南难民子女、美国原住民寄宿学校幸存者家族、中国"文革"经历者家庭等群体的研究，共同勾勒出代际创伤的跨文化样貌。
 
 需要在概念上区分三条传递路径，它们常被混同讨论：
 
@@ -122,7 +122,7 @@ IFS 催眠工作的典型流程：在催眠/专注状态下识别承载代际情
 | H3 阻断向下传递 | 代际 | 低（依恋干预研究可类推） | 干预组婴儿应激反应更稳 | 母婴纵向队列 + 依恋评估 |
 | H4 配子表观遗传重编程 | 生殖系 | 极低 | 子代配子标记改变 | 现实中不可行（伦理） |
 
-注：MBI（正念干预）研究已提示心理干预可改变端粒酶活性与炎症基因表达（Black et al., 2013; Creswell et al., 2012），为 H2 提供类比性支持，但催眠针对代际创伤的直接表观遗传研究尚属空白。
+注：MBI（正念干预）研究已提示心理干预可改变炎症相关基因表达（Creswell et al., 2012），为 H2 提供类比性支持，但催眠针对代际创伤的直接表观遗传研究尚属空白。
 
 ---
 
@@ -260,18 +260,17 @@ IFS 催眠工作的典型流程：在催眠/专注状态下识别承载代际情
 
 1. Bowlby, J. (1969/1982). *Attachment and Loss* (Vols. 1–2). Basic Books.
 2. Cottrell, E. C., & Seckl, J. R. (2009). Prenatal stress, glucocorticoids and the programming of adult disease. *Frontiers in Behavioral Neuroscience*, 3, 19.
-3. Creswell, J. D., et al. (2012). Alterations in resting-state functional connectivity link mindfulness meditation with reduced interleukin-6. *Brain, Behavior, and Immunity*, 26(7).
+3. Creswell, J. D., et al. (2012). Mindfulness-Based Stress Reduction training reduces loneliness and pro-inflammatory gene expression in older adults: A small randomized controlled trial. *Brain, Behavior, and Immunity*, 26, 1095–1101.
 4. Dias, B. G., & Ressler, K. J. (2014). Parental olfactory experience influences behavior and neural structure in subsequent generations. *Nature Neuroscience*, 17(1), 89–96.
 5. Fonagy, P., Steele, H., & Steele, M. (1991). Maternal representations of attachment during pregnancy predict infant-mother attachment. *Child Development*, 62(5), 891–905.
 6. Heijmans, B. T., et al. (2008). Persistent epigenetic differences associated with prenatal exposure to famine. *PNAS*, 105(44), 17046–17049.
 7. Main, M., & Hesse, E. (1990). Parents' unresolved traumatic experiences are related to infant disorganized attachment status. In M. Greenberg et al. (Eds.), *Attachment in the Preschool Years*. University of Chicago Press.
-8. Rakoff, V. (1966). A multiple family group as part of an after-care program. *Canadian Psychiatric Association Journal*, 11(Suppl.), S228–S235.
+8. Rakoff, V. (1966). A multiple family group as part of an after-care program. *Canadian Psychiatric Association Journal*.
 9. Schwartz, R. C. (2021). *No Bad Parts: Healing Trauma and Restoring Wholeness with IFS*. Sounds True.
 10. van IJzendoorn, M. H. (1995). Adult attachment representations, parental responsiveness, and infant attachment: A meta-analysis. *Psychological Bulletin*, 117(3), 387–403.
-11. Yehuda, R., et al. (1998). Pituitary-adrenal and autonomic responses to stress in women after sexual and physical abuse in childhood. *JAMA*, 280(2), 140–141.
-12. Yehuda, R., et al. (2016). Holocaust exposure induced intergenerational effects on FKBP5 methylation. *Biological Psychiatry*, 80(5), 372–380.
-13. Yapko, M. D. (2012). *Trancework: An Introduction to the Practice of Clinical Hypnosis* (4th ed.). Routledge.
-14. 国际催眠学会（ISH）伦理委员会（2019）：《催眠实践伦理指南》相关章节：记忆与暗示性。
+11. Yehuda, R., et al. (2016). Holocaust exposure induced intergenerational effects on FKBP5 methylation. *Biological Psychiatry*, 80(5), 372–380.
+12. Yapko, M. D. (2012). *Trancework: An Introduction to the Practice of Clinical Hypnosis* (4th ed.). Routledge.
+13. 国际催眠学会（ISH）伦理委员会：《催眠实践伦理指南》相关章节：记忆与暗示性。（引用前请核实具体版本与年份）
 
 ---
 

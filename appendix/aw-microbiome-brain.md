@@ -65,7 +65,7 @@
 ### AW.2.3 认知功能：从学习记忆到社会认知
 
 - **动物证据**：无菌小鼠表现出 HPA 高反应性、海马 BDNF 降低、学习记忆与社会行为异常，且部分表型在生命早期定植后可逆——提示微生物参与神经发育关键期。
-- **人类证据**：益生菌干预（"精神益生菌"）在部分研究中改善健康志愿者与患者的记忆、注意与情绪面孔识别；老年人群中地中海饮食+益生菌组合与认知下降减缓相关（如 MEDIET 与 FINGER 研究的亚组发现）。
+- **人类证据**：益生菌干预（"精神益生菌"）在部分研究中改善健康志愿者与患者的记忆、注意与情绪面孔识别；老年人群中，以地中海饮食为代表的健康饮食模式与认知下降减缓相关。
 - **肠-脑内感受（interoception）与认知**：肠道信号经迷走传入塑造内感受预测（interoceptive prediction），影响焦虑预期、躯体信念与情绪评估。**这一点对催眠尤其重要**：催眠的暗示常以躯体内感受为载体（如"腹部放松感""肠道舒适感"），而内感受通路正是微生物-脑信号上传的通道。
 
 ### AW.2.4 疾病行为、食欲与"肠脑"决策
@@ -82,7 +82,7 @@
 
 1. **催眠调节 HPA 轴与应激反应**：荟萃分析显示催眠可降低基线与应激状态皮质醇、降低焦虑（见 AT、AR 章）。皮质醇与儿茶酚胺直接调控肠屏障通透性、黏液分泌、免疫球蛋白 A（sIgA）分泌与菌群构成（应激性菌群改变在动物中可被 β-受体阻断剂部分阻断，证明交感通路的中介作用）。
 2. **催眠提高迷走张力与 HRV**：催眠诱导与深度放松伴随副交感优势；迷走张力既是菌群-脑信号上传通道，也是炎症反射（cholinergic anti-inflammatory pathway）的下行调节器。
-3. **催眠直接调节胃肠运动、分泌与内脏敏感性**：肠易激综合征（IBS）的标准化催眠方案（如 North Carolina 方案、Manchester 方案）可改变结肠传输、直肠敏感性、内脏痛阈与胃肠激素释放（如生长抑素、5-HT 相关指标）——这些正是微生物栖息环境的决定因素（pH、氧梯度、黏液层、转运时间）。
+3. **催眠直接调节胃肠运动、分泌与内脏敏感性**：肠易激综合征（IBS）的标准化催眠方案（如 North Carolina 方案、Manchester 方案）可改变结肠传输、直肠敏感性与内脏痛阈——这些正是微生物栖息环境的决定因素（pH、氧梯度、黏液层、转运时间）。
 4. **催眠改变行为中介变量**：饮食选择、进食速度、酒精摄入、睡眠质量、用药依从性、体力活动——每一项都是菌群构成的强预测因子。
 
 **整合假说**：催眠对微生物组的影响最可能是**间接的、多路径的、行为与生理中介的**（stress-mediated & behavior-mediated pathways），而非"暗示直接改变菌种丰度"。临床与科普表述中应避免超前宣称。
@@ -92,7 +92,7 @@
 IBS 是催眠-肠-脑交互研究的"天然实验场"：
 
 - **脑-肠互动障碍（DGBI）**范式下，IBS 症状源于脑-肠双向调节异常，涉及内脏高敏感、动力异常、黏膜免疫激活与**菌群生态失衡**（多样性降低、产甲烷菌/产酸菌比例改变等）。
-- **催眠治疗 IBS 的证据**：多项 RCT 与长期随访显示，标准化肠道催眠治疗（gut-directed hypnotherapy）对难治性 IBS 的症状缓解率达 70–80%，疗效可维持 1–5 年，改善生活质量、减少就医与药物使用，效果与低 FODMAP 饮食相当或互补（见 AU/AT 章相关综述）。
+- **催眠治疗 IBS 的证据**：多项 RCT 与长期随访显示，标准化肠道催眠治疗（gut-directed hypnotherapy）对难治性 IBS 的症状改善确切，长期随访显示获益可维持多年（见 AW.10 长期随访研究），并改善生活质量、减少就医与药物使用，效果与低 FODMAP 饮食相当或互补（见 AU/AT 章相关综述）。
 - **机制研究**：肠道催眠可降低内脏敏感性、调节自主神经平衡、改变直肠气体感知与疼痛灾难化；初步研究提示症状改善伴随炎症标志物与 sIgA 变化。**尚缺的是症状改善前后菌群宏基因组的纵向配对数据**——这是本领域最应优先填补的研究空白。
 - **临床提示**：肠道催眠（聚焦于"温暖感、舒适感、正常蠕动节律"的意象暗示）与饮食-益生菌干预在机制上互补：前者调节宿主环境与脑-肠信号，后者调节微生物生态本身。
 
@@ -311,11 +311,11 @@ IBS 是催眠-肠-脑交互研究的"天然实验场"：
 - Cryan, J. F., & Dinan, T. G. (2012). Mind-altering microorganisms: the impact of the gut microbiota on brain and behaviour. *Nature Reviews Neuroscience*.
 - Bravo, J. A., et al. (2011). Ingestion of *Lactobacillus* strain regulates emotional behavior and central GABA receptor expression in a mouse via the vagus nerve. *PNAS*.
 - Tillisch, K., et al. (2013). Consuming fermented milk product with probiotic modulates brain activity. *Gastroenterology*.
-- Whorwell, P. J., et al.（Manchester 肠道催眠方案系列研究）; Palsson, O. S., et al.（North Carolina 标准化肠道催眠方案与长期随访）。
-- Dinan, T. G., & Cryan, J. F. (2017). The microbiome-gut-brain axis in health and disease. *Gastroenterology Clinics*; 以及 *Psychobiotics* 相关综述（2013 概念提出；后续 *Biological Psychiatry* 综述）。
+- Whorwell, P. J., et al.（Manchester 肠道催眠方案系列研究，含随机对照试验）; Palsson, O. S., et al.（North Carolina 标准化肠道催眠方案与长期随访）; Gonsalkorale, W. M., Miller, V., Afzal, A., & Whorwell, P. J. (2003). Long term benefits of hypnotherapy for irritable bowel syndrome. *Gut*（长期随访显示疗效持续至少 5 年）。
+- Dinan, T. G., & Cryan, J. F. (2017). The microbiome-gut-brain axis in health and disease. *Gastroenterology Clinics*; 以及 psychobiotics 概念综述（2013 年提出，*Biological Psychiatry*）。
 - Mayer, E. A., et al. (2014). Gut microbes and the brain: paradigm shift in neuroscience. *Journal of Neuroscience*; Mayer, E. A. *The Mind-Gut Connection* (2016)。
 - Valles-Colomer, M., et al. (2019). The neuroactive potential of the human gut microbiota in quality of life and depression. *Nature Microbiology*.
-- Suez, J., et al. (2014; 2022). 微生物组对饮食干预与益生菌定植的个体化响应。*Cell*。
+- Suez, J., et al. (2014). 饮食、微生物组与代谢。*Cell*；另见 Zmora, N., et al. (2018). 益生菌定植的个体差异（个体化定植抗性）。*Cell*。
 - 国际脑-肠互动障碍基金会（IBS）与罗马 IV/罗马 V 标准中 DGBI 与微生物组相关共识文件。
 
 ---

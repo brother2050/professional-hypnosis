@@ -15,13 +15,13 @@
 - **药理**：5-HT2A 受体激动剂，经典致幻剂（classic psychedelic）。
 - **作用时长**：口服后 4–6 小时，峰值在 1.5–3 小时。
 - **主要适应证研究**：难治性抑郁症（TRD）、癌症相关存在性焦虑与抑郁、酒精使用障碍、烟草依赖、强迫症。
-- **治疗模型**：通常 1–2 次给药即可，每次给药前有 2–4 次准备会谈，给药后有 3–5 次整合会谈。疗效在多项 II 期试验中显示出中到大的效应量（如 Johns Hopkins 与 Imperial College 的癌症相关抑郁焦虑研究，缓解率可达 60–80%）。
+- **治疗模型**：通常 1–2 次给药即可，每次给药前有 2–4 次准备会谈，给药后有 3–5 次整合会谈。疗效在多项 II/III 期试验中显示出较大的效应量（如 Johns Hopkins 与 Imperial College 的癌症相关抑郁焦虑研究）。
 
 **2. MDMA（3,4-亚甲二氧基甲基苯丙胺）**
 
 - **药理**：主要通过释放 5-HT、多巴胺与去甲肾上腺素，促进催产素与加压素分泌；属"共情原（entactogen）"而非经典致幻剂。
 - **作用时长**：3–5 小时。
-- **主要适应证研究**：创伤后应激障碍（PTSD）。III 期试验（MAPP1/MAPP2）显示 MDMA 辅助治疗对慢性难治性 PTSD 有显著疗效，缓解率约 60–70%。
+- **主要适应证研究**：创伤后应激障碍（PTSD）。III 期试验（MAPP1/MAPP2）显示 MDMA 辅助治疗对慢性难治性 PTSD 有显著疗效，多数参与者在治疗后不再符合 PTSD 诊断标准。
 - **治疗模型**：3 次给药（每次间隔约 1 个月），配合 12 次左右的非给药心理治疗会谈（准备、整合各半）。
 
 **3. 氯胺酮 / 艾司氯胺酮（Ketamine / Esketamine）**
@@ -66,7 +66,7 @@
 
 - **DMN 松弛与叙事重构**：催眠的高吸收状态与 PAT 下 DMN 活动改变、自我参照加工松弛，均可促成僵化信念的松动。催眠中使用的"解构—重建"技术（如空椅重构、年龄回溯再巩固）理论上可以在 PAT 的可塑性窗口内获得放大效应。
 - **可控性互补**：催眠保留来访者的自主调控能力，PAT 则产生强烈但低自主性的体验。二者结合可"先以催眠训练来访者的状态调控与接纳能力，再以 PAT 深化体验，最后以催眠辅助整合"。
-- **暗示感受性与疗效**：催眠感受性与 PAT 中"放下控制、信任体验"（letting go / surrender）的能力高度相关，是 PAT 疗效的重要预测因子之一。这意味着催眠训练可能作为 PAT 的"能力准备"。
+- **暗示感受性与疗效**：催眠感受性与 PAT 中"放下控制、信任体验"（letting go / surrender）的能力可能存在关联，但其能否预测 PAT 疗效尚无定论，属于待检验假说。催眠训练是否可作为 PAT 的"能力准备"，同样值得研究。
 
 ### AF.2.3 适用场景选择建议
 
@@ -144,7 +144,7 @@ PAT 场景下几乎全部采用许可式语言。对比示例：
 
 ### AF.4.3 催眠在"坏旅行（Bad Trip）"预防中的循证基础
 
-多项观察性研究发现，PAT 中困难体验的发生率约 20–40%，其中约 2–10% 需要药物干预。"飞行守则（Flight Rules / Acceptance & Surrender）"的心理教育与预演（本质上即催眠性预演）可显著降低恐慌升级风险。
+多项观察性研究发现，PAT 中相当一部分参与者会经历困难体验，其中少数需要药物干预。"飞行守则（Flight Rules / Acceptance & Surrender）"的心理教育与预演（本质上即催眠性预演）可显著降低恐慌升级风险。
 
 ---
 
@@ -200,7 +200,7 @@ PAT 场景下几乎全部采用许可式语言。对比示例：
 2. **禁止性接触与身体边界侵犯**：给药期间来访者处于高度脆弱状态，任何性或剥削性行为构成严重伦理与法律违规。建议在准备阶段即签订明确的接触同意（如手部触碰是否允许），给药期间不做新增接触约定之外的动作。
 3. **禁止暗示植入（Suggestion Implantation）**：不得在来访者高暗示状态植入特定信念、价值观、个人叙事解释或商业性内容。
 4. **禁止娱乐化使用**：PAT 不是"体验娱乐"，不能作为没有治疗指征的付费体验服务。
-5. **知情同意必须分层**：涵盖物质作用、替代方案、困难体验可能性（约 20–40%）、HPPD 与诱发精神病性/躁狂的罕见风险、退出权利、给药不可逆性。
+5. **知情同意必须分层**：涵盖物质作用、替代方案、困难体验可能性、HPPD 与诱发精神病性/躁狂的罕见风险、退出权利、给药不可逆性。
 6. **转介与联合治疗责任**：PAT 团队（精神科医生 + 治疗师）与原精神科/心理治疗师之间需签署联合治疗协议，明确处方责任、危机处理责任与信息共享边界。
 7. **文化与信仰敏感性**：催眠整合中出现的神秘/宗教意象应按来访者的文化框架理解，治疗师不得将自己的解释强加于人。
 
@@ -210,17 +210,17 @@ PAT 场景下几乎全部采用许可式语言。对比示例：
 
 ### AF.7.1 关键研究进展
 
-- **裸盖菇素**：COMPASS Pathways 的 IIb 期试验（25mg 单次给药对 TRD）显示 3 周时显著效应，但效应在 12 周趋弱，提示整合与随访治疗的重要性；Johns Hopkins 长期随访显示单次给药对癌症相关抑郁焦虑的效应可维持 4.5 年以上（Griffiths et al., 2022）。
+- **裸盖菇素**：COMPASS Pathways 的 IIb 期试验（25mg 单次给药对 TRD）显示 3 周时显著效应，但效应在 12 周趋弱，提示整合与随访治疗的重要性；长期随访研究显示单次给药对癌症相关抑郁焦虑的效应可维持较长时间（随访约 4.5 年仍见获益；Agin-Liebes et al., 2020），对重度抑郁障碍的疗效亦有前瞻性随访支持（Gukasyan et al., 2022）。
 - **MDMA**：MAPS 的 III 期试验（MAPP1/MAPP2）在慢性 PTSD 人群显示显著缓解，2024 年 FDA 咨询委员会以安全性质疑拒绝批准上市，EMA 亦要求补充试验；后续研究转向优化治疗师培训、减少脱落与提升长期随访。
-- **氯胺酮/艾司氯胺酮**：艾司氯胺酮鼻喷剂（Spravato）已获 FDA/EMA 批准用于 TRD；SUSTAIN 系列试验证实维持治疗降低复发风险；"氯胺酮辅助心理治疗（KAP）"结合催眠与体验性治疗的研究（如 Wilkinson et al., 2021）提示联合模型的可行性。
+- **氯胺酮/艾司氯胺酮**：艾司氯胺酮鼻喷剂（Spravato）已获 FDA/EMA 批准用于 TRD；SUSTAIN 系列试验证实维持治疗降低复发风险；"氯胺酮辅助心理治疗（KAP）"结合催眠与体验性治疗的研究尚在起步阶段，而已有随机对照试验探索用CBT维持氯胺酮的抗抑郁效果（如 Wilkinson et al., 2021），提示"药物+心理"联合模型的可行性。
 - **机制研究**：REBUS 模型（Carhart-Harris & Friston, 2019）将 PAT 描述为"自上而下先验的松弛"，与催眠研究中 DMN 与显著性网络的可塑性改变相互呼应，为二者的整合提供理论基础。
 
 ### AF.7.2 催眠 × PAT 的研究空白与机会
 
 1. **催眠预处理是否提升 PAT 疗效**：尚无随机对照试验直接检验"催眠训练 + PAT"对比"PAT 单独"的效应差异。这是本领域最直接可行的 RCT 设计之一。
-2. **催眠感受性作为疗效预测因子**：初步研究（如 Barrett 2020 综述；Richards 2022）提示相关，但样本量小，需要大样本确认。
+2. **催眠感受性作为疗效预测因子**：尚无充分研究确认其预测价值（提示性/易感性在迷幻药反应中的角色尚未确定），属于值得检验的假说，需要大样本研究。
 3. **困难体验的催眠管理协议标准化**：目前缺乏统一的分级干预流程与培训标准。
-4. **自我催眠作为维持治疗**：可降低 PAT 后复发率（尤其抑郁与成瘾），值得进行对照研究。
+4. **自我催眠作为维持治疗**：理论上可能降低 PAT 后复发率（尤其抑郁与成瘾），值得进行对照研究。
 5. **虚拟现实（VR）+ 催眠 + 微剂量研究**：作为"非药物类可塑性窗口"的替代探索，适合药物受限的场景（如中国大陆现行法律下）。
 
 ### AF.7.3 临床工作者的行动建议
@@ -241,10 +241,10 @@ PAT 场景下几乎全部采用许可式语言。对比示例：
 **参考文献（选录）**
 
 1. Carhart-Harris, R. L., & Friston, K. J. (2019). REBUS and the Anarchic Brain: Toward a Unified Model of the Brain Action of Psychedelics. *Pharmacological Reviews*, 71(3), 316–344.
-2. Griffiths, R. R., et al. (2022). Effects of psilocybin-assisted therapy on major depressive disorder. *Journal of Affective Disorders*, 318, 243–253.（含 4.5 年随访数据）
-3. Mitchell, J. M., et al. (2021). MDMA-assisted therapy for severe PTSD: a randomized, double-blind, placebo-controlled phase 3 study. *Nature Medicine*, 27, 1025–1033.
-4. Wilkinson, S. T., et al. (2021). Ketamine-Assisted Psychotherapy (KAP) for treatment-resistant depression. *Journal of Affective Disorders*, 293, 242–248.
-5. Barrett, F. R. (2020). Hypnotic Suggestibility, Dissociation, and the Psychedelic Experience. *International Journal of Clinical and Experimental Hypnosis*, 相关综述。
+2. Gukasyan, N., et al. (2022). Efficacy and safety of psilocybin-assisted treatment for major depressive disorder: Prospective 12-month follow-up. *Journal of Psychopharmacology*.
+3. Agin-Liebes, G. I., et al. (2020). Long-term follow-up of psilocybin-assisted psychotherapy for psychiatric and existential distress in patients with life-threatening cancer. *Journal of Psychopharmacology*.
+4. Mitchell, J. M., et al. (2021). MDMA-assisted therapy for severe PTSD: a randomized, double-blind, placebo-controlled phase 3 study. *Nature Medicine*, 27, 1025–1033.
+5. Wilkinson, S. T., et al. (2021). Cognitive behavioral therapy to sustain the antidepressant effects of ketamine in treatment-resistant depression: A randomized clinical trial. *Psychotherapy and Psychosomatics*.
 6. Johnson, M. W., Richards, W. A., & Griffiths, R. R. (2008). Human hallucinogen research: guidelines for safety. *Journal of Psychopharmacology*, 22(6), 603–620.（"飞行守则"原型）
 7. 国家药品监督管理局、国家卫生健康委员会.《麻醉药品和精神药品管理条例》及历版精神药品品种目录.
 8. American Society of Clinical Hypnosis (ASCH). *Standards of Training for the Utilization of Hypnosis in Clinical Practice*.

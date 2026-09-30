@@ -396,14 +396,14 @@
 
 ## 参考文献提示（供延伸阅读，引用前请核对原文）
 
-1. Armour, J. A.（2007）。*The little brain on the heart*（心脏内在神经系统的综述）。Cleveland Clinic Journal of Medicine 相关论述。
-2. Lehrer, P. M., & Gevirtz, R.（2014）。Heart rate variability biofeedback: how and why does it work? *Frontiers in Psychology*。
-3. McCraty, R., & Zayas, M. A.（2014）。Cardiac coherence, self-regulation, autonomic stability, and psychosocial well-being. *Frontiers in Psychology*。
+1. Armour, J. A.（2008）。Potential clinical relevance of the 'little brain' on the mammalian heart（心脏内在神经系统的综述）。*Experimental Physiology*, 93(2), 165–176。
+2. Lehrer, P. M., & Gevirtz, R.（2014）。Heart rate variability biofeedback: how and why does it work? *Frontiers in Psychology*, 5:756。
+3. McCraty, R., & Zayas, M. A.（2014）。Cardiac coherence, self-regulation, autonomic stability, and psychosocial well-being. *Frontiers in Psychology*, 5:1090。
 4. Benson, H.（1975）。*The Relaxation Response*。William Morrow。
 5. Friedman, M., & Ulmer, D.（1984）。*Type A Behavior and Your Heart*。Fawcett。
-6. Blumenthal, J. A. 等（2005）。Exercise and stress management training in patients with heart failure（心脏康复中的运动与压力管理研究）。
+6. Blumenthal, J. A. 等（2005）。Effects of exercise and stress management training on markers of cardiovascular risk in patients with ischemic heart disease（缺血性心脏病患者运动与压力管理训练的 RCT）。*JAMA*, 293(13), 1626–1634。
 7. Nolan, R. P. 等。心血管疾病中压力管理与自主神经功能的相关研究。
-8. 詹姆斯·霍尔（Hall, J.）等临床催眠心血管应用相关综述。
+8. 临床催眠在心血管场景应用的相关综述。
 
 > ⚠️ 上述文献为延伸阅读线索，条目细节（年份、卷期）以原始出处为准；临床决策请依据最新指南（如AHA/ACC/ESC高血压、心脏康复与心衰指南）。
 

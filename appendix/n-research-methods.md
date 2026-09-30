@@ -153,13 +153,13 @@
 
 | 应用 | 证据等级 | 关键研究 |
 |------|----------|----------|
-| 疼痛管理 | Ia | Patterson & Jensen (2003) |
+| 疼痛管理 | Ia | Patterson & Jensen (2003)；Thompson et al. (2019) |
 | 焦虑障碍 | Ia | Valentine et al. (2019) |
-| IBS | Ia | Whorwell et al. (1988) |
-| 产科疼痛 | Ib | Werner et al. (2013) |
-| PTSD | IIa | Bryant et al. |
-| 抑郁 | IIb | Alladin (2016) |
-| 成瘾 | IIb | Elkins & Rajab (2004) |
+| IBS | Ia | Whorwell et al. (1984)；Gonsalkorale et al. (2003) |
+| 产科疼痛 | Ia | Madden et al. (2016) Cochrane综述（结论：证据尚不明确） |
+| PTSD | IIa | Rotaru & Rusu (2016) 元分析（证据质量有限） |
+| 抑郁 | Ib | Alladin & Alibhai (2007) RCT |
+| 成瘾 | III | 小样本临床研究（证据有限） |
 
 ---
 

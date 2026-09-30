@@ -29,20 +29,14 @@
 **系统综述（Ia级证据）：**
 
 **Valentine et al. (2019) Meta 分析：**
-- 包含 15 项 RCT
-- 催眠治疗焦虑的效应量中等偏大（g = 0.79）
-- 效果在随访期维持
-- 优于等待组和部分主动治疗
+- 纳入 15 项研究（含 17 个实验）
+- 催眠治疗焦虑的效应量中等偏大（g = 0.79，*International Journal of Clinical and Experimental Hypnosis*）
+- 优于等待组/无治疗对照；与其他心理治疗联合时效果更佳
 
-**Golden (2012) 系统综述：**
-- 催眠对考试焦虑效果显著
-- 对社交焦虑有积极效果
-- 对广泛性焦虑效果中等
-
-**Milling et al. (2021)：**
-- 催眠治疗恐惧症效果显著
-- 与 CBT 效果相当
-- 在某些指标上优于放松训练
+**催眠与CBT的联合（催眠增效）：**
+- Kirsch 等（1995）元分析：在CBT基础上加入催眠可进一步提高疗效（至少 d≈0.53）
+- 后续更新元分析（Ramondo et al., 2021）显示催眠增效为小到中等效应，提示"催眠可作为增效模块"而非万能疗法
+- 临床经验提示催眠对考试焦虑、社交焦虑等多种焦虑问题均有帮助，但各亚型的证据强度不一
 
 ### 13.1.3 催眠治疗焦虑的机制
 
@@ -301,10 +295,10 @@
 
 > 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
 
-- Valentine, K.E., et al. (2019). The efficacy of hypnosis for treating anxiety. *International Journal of Clinical and Experimental Hypnosis*, 67(1), 1-25.
-- Milling, L.S., et al. (2021). Hypnosis for the treatment of anxiety disorders. *Journal of Clinical Psychology*, 77(5), 1134-1151.
-- Bryant, R.A. (2012). Hypnosis and cognitive behavior therapy. *International Journal of Clinical and Experimental Hypnosis*, 60(1), 70-81.
-- Spiegel, D. (2007). The mind prepared: Hypnosis in surgery. *Journal of the National Cancer Institute*, 99(22), 1683-1684.
+- Valentine, K.E., et al. (2019). The efficacy of hypnosis for treating anxiety. *International Journal of Clinical and Experimental Hypnosis*, 67(3), 336-363.
+- Milling, L.S., et al. (2021). Hypnosis and the alleviation of clinical pain: A comprehensive meta-analysis. *International Journal of Clinical and Experimental Hypnosis*.
+- Bryant, R.A., et al. The additive benefit of hypnosis and cognitive-behavioral therapy in treating acute stress disorder. *Journal of Consulting and Clinical Psychology*.
+- Spiegel, D. (2007). The mind prepared: Hypnosis in surgery. *Journal of the National Cancer Institute*, 99(17), 1280-1281.
 
 ---
 
@@ -506,22 +500,21 @@
 
 你是安全的...你有能力应对这一切...这种感觉正在过去...它总会过去的..."
 
-## 13.9 循证证据汇总表（2020-2026）
+## 13.9 循证证据汇总表
 
-| 研究 | 年份 | 设计 | 样本量 | 障碍类型 | 主要发现 | 效应量 |
-|------|------|------|--------|----------|----------|--------|
-| Valentine et al. | 2019 | Meta分析 | 15项RCT | 焦虑障碍 | 催眠治疗焦虑效应中等偏大 | g=0.79 |
-| Milling et al. | 2021 | 系统综述 | 多项研究 | 恐惧症 | 催眠与CBT效果相当 | d=0.68 |
-| Bryant et al. | 2022 | RCT | 116 | PTSD | 催眠暴露优于等待组 | d=0.85 |
-| Gruzelier et al. | 2023 | RCT | 90 | 社交焦虑 | 催眠+CBT优于单独CBT | d=0.52 |
-| Kirsch et al. | 2023 | 荟萃分析 | 22项RCT | GAD | 催眠显著降低焦虑症状 | g=0.71 |
-| Heap et al. | 2024 | RCT | 140 | 惊恐障碍 | 催眠治疗显著减少发作频率 | d=0.76 |
-| Lynn et al. | 2024 | 多中心RCT | 200 | PTSD | 催眠暴露不劣于PE疗法 | d=0.62 |
-| Elkins et al. | 2025 | RCT | 85 | GAD | 自我催眠维持长期效果 | d=0.58 |
-| Terhune et al. | 2025 | 神经影像 | 45 | 焦虑障碍 | 催眠调节杏仁核-前额叶连接 | — |
-| Barabasz et al. | 2026 | 系统综述 | 38项研究 | 创伤相关 | 催眠作为创伤辅助治疗有效 | g=0.74 |
+> 📌 本表仅收录可核实的研究。原表中其余条目（Bryant 2022、Gruzelier 2023、Kirsch 2023、Heap 2024、Lynn 2024、Elkins 2025、Terhune 2025、Barabasz 2026及Milling 2021恐惧症行）经检索无法确认真实存在，已连同其效应量一并删除。
+
+| 研究 | 年份 | 设计 | 规模 | 障碍类型 | 主要发现 |
+|------|------|------|------|----------|----------|
+| Valentine et al. | 2019 | Meta分析 | 15项研究（17个实验） | 焦虑（多种） | 催眠治疗焦虑效应中等偏大（g=0.79） |
+| Kirsch et al. | 1995 | Meta分析 | 18项研究 | 焦虑/心理治疗增效 | 催眠联合CBT优于单纯CBT（至少d≈0.53） |
+| Ramondo et al. | 2021 | Meta分析 | 48项治疗后比较 | 心理治疗增效 | 催眠增效为小到中等效应 |
+| Schoenberger et al. | 1997 | RCT | 公开演讲焦虑 | 社交焦虑 | CBT联合催眠优于单纯CBT与等待组 |
+| Alladin & Alibhai | 2007 | RCT | 84例抑郁症 | 抑郁 | 认知催眠治疗与CBT均有效，催眠组效果更优 |
 
 ## 13.10 临床案例增补
+
+> 📌 **说明**：以下案例均为**教学示例**，疗效数字为示意性数据，不代表研究结果或真实个案记录。
 
 ### 案例3：社交焦虑障碍
 
@@ -718,6 +711,8 @@
 
 ## 13.13 临床案例补充
 
+> 📌 **说明**：以下案例均为**教学示例**，疗效数字为示意性数据，不代表研究结果或真实个案记录。
+
 **案例一：车祸后PTSD（34岁男性，MVA后4个月）**
 
 - **评估：** PCL-5量表58分（临床阳性界值31–33）；CAPS-5确诊PTSD；主要症状：驾驶场景闪回、噩梦、回避乘车、高警觉；HADS焦虑15分、抑郁9分；无物质滥用；解离体验量表（DES）12分（低解离风险）。
@@ -738,15 +733,15 @@
 
 ## 13.14 循证证据数据（补充）
 
-| 研究/来源 | 研究设计 | 样本量 | 干预与对照 | 主要结局指标 | 效应量/结论 |
+> 📌 本表仅收录可核实的研究。原表中"Rotaru 2022""Abramowitz 2010""Valentine 2019驾驶恐惧（Am J Clin Hypn）""Milling 2021（Contemp Hypn Integr）""Cardena 2018"等条目经检索无法确认真实存在或与真实文献不符，已删除或替换。
+
+| 研究/来源 | 研究设计 | 规模 | 干预与对照 | 主要结局指标 | 效应量/结论 |
 |---|---|---|---|---|---|
-| Rotaru et al., 2022（系统综述） | 系统综述 | 10+项研究 | 催眠治疗PTSD vs 对照 | PTSD症状 | 多数研究显示显著症状下降；证据质量中等 |
-| Abramowitz et al., 2010（Int J Clin Exp Hypn） | RCT | 广场恐惧症 | 催眠暴露 vs 单纯暴露 | 回避行为、焦虑 | 催眠暴露组脱落率更低，疗效维持更好 |
-| Valentine et al., 2019（Am J Clin Hypn） | 准实验 | 驾驶恐惧MVA后 | 催眠＋暴露 | 驾驶焦虑量表 | 显著改善，效果维持至6个月随访 |
-| Schoenberger et al., 1997（J Consult Clin Psychol） | RCT | 恐高症 | 催眠辅助暴露 vs 放松对照 | 行为回避测试 | 催眠组暴露学习效果增强 |
-| Alladin & Alibhai, 2007（Int J Clin Exp Hypn） | RCT | 84例抑郁症 | 认知催眠治疗 vs 认知疗法 | BDI、HRSD | 催眠组效应量更大（d≈1.4 vs 0.9） |
-| Milling et al., 2021（Contemp Hypn Integr） | Meta分析 | 多项RCT | 催眠＋CBT vs 单纯CBT | 焦虑症状 | 联合方案优于单纯CBT（Hedges' g≈0.6） |
-| Cardena et al., 2018（Eur J Psychotraumatol） | 专家共识/综述 | — | 催眠在创伤治疗中的应用 | 临床指南建议 | 推荐在阶段导向框架内使用催眠 |
+| Rotaru & Rusu, 2016（Int J Clin Exp Hypn） | Meta分析 | 多项研究 | 催眠治疗PTSD vs 对照 | PTSD症状 | 显示催眠可减轻PTSD症状，但纳入研究质量与样本量有限 |
+| Valentine et al., 2019（Int J Clin Exp Hypn） | Meta分析 | 15项研究（17个实验） | 催眠 vs 对照 | 焦虑症状 | 效应量中等偏大（g=0.79） |
+| Schoenberger et al., 1997 | RCT | 公开演讲焦虑 | CBT联合催眠 vs 单纯CBT vs 等待组 | 焦虑、行为回避 | 催眠增效CBT，效果优于等待组 |
+| Alladin & Alibhai, 2007（Int J Clin Exp Hypn） | RCT | 84例抑郁症 | 认知催眠治疗 vs 认知疗法 | BDI、HRSD | 两组均显著改善，催眠组效果更优 |
+| Kirsch et al., 1995（J Consult Clin Psychol） | Meta分析 | 18项研究 | 催眠＋CBT vs 单纯CBT | 焦虑等症状 | 联合方案优于单纯CBT（至少d≈0.53） |
 
 ## 13.15 关键术语中英对照表
 

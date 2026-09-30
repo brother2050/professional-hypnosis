@@ -34,8 +34,8 @@
 ### 17.1.2 成瘾催眠治疗的循证证据
 
 **戒烟：**
-- Elkins & Rajab（2004）在《International Journal of Clinical and Experimental Hypnosis》发表RCT，单次强化催眠戒烟有效率约20-35%
-- Hasan & Pearson（2001）的研究显示催眠戒烟与尼古丁替代疗法效果相当
+- Elkins & Rajab（2004）在《International Journal of Clinical and Experimental Hypnosis》发表了三疗程催眠戒烟的初步临床研究
+- 有随机对照试验比较催眠与尼古丁替代疗法的戒烟效果（Hasan et al., 2014）
 - 高感受性个体效果更好
 - 可作为综合戒烟方案的一部分
 
@@ -43,16 +43,18 @@
 
 **酒精依赖：**
 - 催眠作为辅助治疗有效，但不能替代戒断治疗
-- Potter（2004）在《Alcohol and Alcoholism》发表研究显示催眠可以减少复发率
+- 催眠可用于复发预防与渴求管理，但高质量对照研究仍然有限
 - 需要与医学戒断治疗、心理咨询整合
 
 > ⚠️ **高风险警示：酒精戒断可能危及生命。** 酒精依赖患者必须在医疗机构进行戒断治疗，催眠不能替代医学戒断。严重酒精戒断可导致震颤谵妄（DT），死亡率高达5-15%。催眠治疗师不可建议患者自行停止饮酒或减少饮酒量。催眠仅作为戒断完成后的辅助复发预防手段，且必须在精神科医生或成瘾医学专家的指导下进行。
 
 **体重管理：**
-- Kirsch（1996）在《Journal of Consulting and Clinical Psychology》发表的Meta分析显示催眠增强CBT减肥效果
-- 长期效果优于单独CBT
+- Kirsch（1996）在《Journal of Consulting and Clinical Psychology》发表的Meta再分析显示，在CBT减重方案中加入催眠可增强效果
+- 长期随访中催眠组的优势更明显
 - 对情绪化进食特别有效
-- 平均多减重2-3公斤
+- 汇总数据显示加催眠组平均多减重约2-3公斤
+
+> ⚠️ 引用提示：后续有方法学评论（Allison & Faith, 1996）对上述效应量提出质疑，认为增益可能更小；引用时宜同时呈现争议。
 
 ## 17.2 戒烟催眠
 
@@ -156,10 +158,9 @@
 ### 17.4.1 催眠在体重管理中的应用
 
 **证据：**
-- Kirsch（1996）在《Journal of Consulting and Clinical Psychology》发表的Meta分析显示催眠增强CBT减肥效果
-- 长期效果优于单独CBT
-- 对情绪化进食特别有效
-- 平均多减重2-3公斤
+- Kirsch（1996）的Meta再分析显示，在CBT减重方案中加入催眠可增强效果，且长期随访中优势更明显
+- 对情绪化进食可能特别有帮助
+- 汇总数据显示加催眠组平均多减重约2-3公斤（但后续方法学评论认为增益可能更小）
 
 ### 17.4.2 治疗方案
 
@@ -326,16 +327,16 @@
 
 ### 17.6.4 循证证据总结表
 
-| 应用领域 | 证据等级 | 主要效果 | 关键研究 | 证据说明 |
-|----------|----------|----------|----------|----------|
-| 戒烟 | Ib（RCT） | 20-35%戒烟率 | Elkins & Rajab, 2004 | 与NRT效果相当 |
-| 酒精依赖辅助 | IIb（对照研究） | 减少复发率 | Potter, 2004 | 需要更多RCT |
-| 体重管理 | Ia（Meta分析） | 增强CBT效果 | Kirsch, 1996 | 长期效果优于单独CBT |
-| 拔毛症 | Ib（RCT） | 减少拔毛行为 | Diefenbach et al., 2006 | 证据质量中等 |
-| 咬指甲 | IIb（前后对比） | 减少咬指甲 | 临床报告 | 需要更多研究 |
-| 拖延行为 | III（专家意见） | 可能有效 | 临床经验 | 证据不足 |
+| 应用领域 | 证据现状 | 关键研究 | 证据说明 |
+|----------|----------|----------|----------|
+| 戒烟 | 有临床研究与RCT | Elkins & Rajab, 2004; Hasan et al., 2014 | 研究样本小，戒烟率数字因研究而异 |
+| 酒精依赖辅助 | 证据有限 | — | 多为案例报告与临床经验，需要更多RCT |
+| 体重管理 | 有Meta再分析 | Kirsch, 1996 | 增益幅度存在方法学争议 |
+| 拔毛症 | 证据有限 | — | 催眠仅见案例报告（行为治疗的RCT证据不适用于催眠） |
+| 咬指甲 | 证据有限 | 临床报告 | 需要更多研究 |
+| 拖延行为 | 证据不足 | 临床经验 | 尚无对照研究 |
 
-> **证据等级说明：** Ia=系统综述/Meta分析；Ib=至少一项RCT；IIa=设计良好的对照研究；IIb=设计良好的准实验研究；III=专家意见/临床经验。
+> **说明：** 本表仅标注可查证的证据状态，不再套用证据等级分级（该分级在本领域尚无公认标准）。
 
 ---
 
@@ -471,62 +472,22 @@
 
 > 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
 
-- Elkins, G.R., & Rajab, M.H. (2004). Clinical hypnosis for smoking cessation. *International Journal of Clinical and Experimental Hypnosis*, 52(2), 146-157.
-- Kirsch, I. (1996). Hypnotic enhancement of cognitive-behavioral weight loss treatments. *Journal of Consulting and Clinical Psychology*, 64(3), 517-519.
+- Elkins, G.R., & Rajab, M.H. (2004). Clinical hypnosis for smoking cessation: Preliminary results of a three-session intervention. *International Journal of Clinical and Experimental Hypnosis*, 52(1), 73-81.
+- Kirsch, I. (1996). Hypnotic enhancement of cognitive-behavioral weight loss treatments—Another meta-reanalysis. *Journal of Consulting and Clinical Psychology*, 64(3), 517-519.
+- Hasan, F.M., et al. (2014). Hypnotherapy is more effective than nicotine replacement therapy for smoking cessation: Results of a randomized controlled trial. *Complementary Therapies in Medicine*, 22(1), 1-8.
 - Alladin, A. (2016). *Cognitive Hypnotherapy*. Springer.
 - Yapko, M.D. (2012). *Trancework* (4th ed.). Routledge.
-- Potter, G. (2004). Hypnosis and alcohol abuse. *Alcohol and Alcoholism*, 39(6), 562-565.
 
 ---
 
 [← 上一章：第16章 儿童与青少年催眠](16-pediatric-hypnosis.md) | [下一章：第18章 催眠研究的新进展 →](18-recent-advances.md)
-## 17.8 催眠治疗成瘾的最新研究（2023-2026）
+## 17.8 催眠治疗成瘾的研究现状
 
-### 17.8.1 戒烟最新研究
+> 📌 **诚实说明**：本节原稿曾列出多项2023-2025年的"最新研究"及其样本量、效应量等数据，经核实均**无法确认真实存在**（多条文献被确认为AI编造），已全部删除。以下仅保留可查证的内容。
 
-**系统综述（Elkins et al., 2023）：**
-- 纳入25项RCT，总样本N=3,200
-- 催眠戒烟效果优于等待组（OR=2.8）
-- 与CBT效果相当（OR=1.1）
-- 高感受性个体效果更好（OR=3.5）
-- 证据等级：Ia
-
-**精准催眠戒烟（Jensen et al., 2024）：**
-- 基于脑影像的个体化方案
-- N=200，12周治疗
-- 精准组戒烟率45% vs 标准组28%
-- 效果持续12个月
-
-### 17.8.2 酒精依赖最新研究
-
-**催眠辅助治疗酒精依赖（Alladin et al., 2023）：**
-- RCT，N=150，16周治疗
-- 催眠+常规治疗 vs 单纯常规治疗
-- 结果：催眠组复发率降低40%
-- 焦虑和抑郁显著改善
-
-### 17.8.3 体重管理最新研究
-
-**Meta分析（Kirsch et al., 2023）：**
-- 纳入18项研究
-- 催眠增强CBT减肥效果
-- 额外减重2.3公斤（6个月随访）
-- 额外减重3.1公斤（12个月随访）
-- 效应量：中等（d=0.55）
-
-### 17.8.4 行为成瘾最新研究
-
-**网络成瘾催眠治疗（Zhang et al., 2024）：**
-- RCT，N=120，12周治疗
-- 催眠治疗网络成瘾有效
-- 屏幕时间减少55%
-- 焦虑和抑郁显著改善
-
-**游戏成瘾催眠治疗（Kim et al., 2025）：**
-- RCT，N=80，10周治疗
-- 催眠治疗游戏成瘾有效
-- 游戏时间减少60%
-- 社交功能改善
+- **戒烟**：目前最大规模的可查证证据汇总为 Ekanayake & Elkins（2025）发表于《International Journal of Clinical and Experimental Hypnosis》的系统综述，该综述对催眠戒烟研究进行了系统梳理，总体结论是催眠戒烟有一定前景但证据质量参差不齐。
+- **酒精依赖、体重管理、行为成瘾（网络/游戏成瘾等）**：截至目前，**尚无可核实的专门针对催眠治疗这些成瘾行为的高质量RCT或Meta分析**，现有依据主要来自案例报告、小样本研究与临床经验。
+- 对"最新研究"感兴趣的读者，请直接在PubMed、Google Scholar等数据库检索并自行核实后再引用，切勿引用二手来源中的具体统计数字。
 
 ## 17.9 成瘾催眠治疗的案例补充
 

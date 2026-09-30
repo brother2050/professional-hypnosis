@@ -168,8 +168,8 @@
 ### 15.2.3 长期效果
 
 **研究证据：**
-- 5年随访研究显示效果持续（Whorwell et al., 2006）
-- 约80%的初始响应者维持效果
+- 长期随访研究显示疗效可维持至少五年（Gonsalkorale et al., 2003）
+- 多数长期随访中的响应者维持了疗效，部分人还进一步改善
 - 自我催眠练习是长期效果的关键
 - 效果可能随时间进一步改善
 
@@ -450,10 +450,10 @@
 > 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
 
 - Elkins, G.R. (2017). *Handbook of Medical and Psychological Hypnosis*. Springer.
-- Jensen, M.P., et al. (2019). Hypnosis for chronic pain management. *American Psychologist*, 74(2), 187-198.
+- Jensen, M.P., & Patterson, D.R. (2014). Hypnotic approaches for chronic pain management: Clinical implications of recent research findings. *American Psychologist*, 69(2), 167-177.
 - Lee, H.H., et al. (2015). Effect of gut-directed hypnotherapy in IBS. *Gut*, 64(2), 226-233.
-- Montgomery, G.H., et al. (2007). Presurgery hypnosis training. *Anesthesia & Analgesia*, 104(4), 912-916.
-- Spiegel, D. (2007). The mind prepared: Hypnosis in surgery. *Journal of the National Cancer Institute*, 99(22), 1683-1684.
+- Montgomery, G.H., et al. (2007). A randomized clinical trial of a brief hypnosis intervention to control side effects in breast surgery patients. *Journal of the National Cancer Institute*, 99(17), 1304-1312.
+- Spiegel, D. (2007). The mind prepared: Hypnosis in surgery. *Journal of the National Cancer Institute*, 99(17), 1280-1281.
 
 ---
 
@@ -638,30 +638,28 @@
 - Derbyshire等人（2004）在《NeuroImage》发表的fMRI研究是催眠镇痛领域的里程碑
 - 催眠暗示下前扣带回皮层（ACC）活动发生特征性改变
 - Rainville等人（1997）在《Science》的经典研究证实催眠可以独立调节疼痛的情感维度
-- Faymonville等人（2006）在《Anesthesiology》发表的PET研究显示催眠镇静状态下前额叶-顶叶注意网络活动模式改变
+- Faymonville等人（2006）发表的综述总结了相关PET研究证据，显示催眠状态下脑活动与功能连接模式发生改变
 
 **肠道定向催眠的机制研究**
-- Lowén等人（2013）在《Gut》发表研究，发现肠道定向催眠可以改变直肠对扩张的感觉阈值
-- Simrén等人（2022）在《Gut》发表的综述总结了脑-肠轴在IBS中的作用及催眠干预的机制
-- 催眠可能通过调节内脏痛觉传入和中枢处理来发挥作用
+- Lowén等人（2013）在《Alimentary Pharmacology & Therapeutics》发表研究，发现催眠治疗后IBS患者脑对内脏刺激的反应发生改变
+- 脑-肠轴在IBS中的作用已有大量综述，催眠被认为可能通过调节内脏痛觉传入和中枢处理发挥作用
 
 ### 15.12.2 关键临床试验
 
 **围手术期催眠**
-- Montgomery等人（2007）在《Anesthesia & Analgesia》发表的RCT是围手术期催眠的经典研究
-- 纳入200名乳腺手术患者，催眠组术前焦虑显著低于对照组
-- Tefikow等人（2013）在《Acta Anaesthesiologica Scandinavica》发表的系统综述纳入了多项围手术期催眠研究
+- Montgomery等人（2007）在《Journal of the National Cancer Institute》发表的RCT（200名乳腺手术患者）是围手术期催眠的经典研究，显示术前简短催眠干预可减少手术副作用
+- Tefikow等人（2013）在《Clinical Psychology Review》发表的荟萃分析纳入了多项围手术期催眠研究，总体支持催眠对手术相关结局的益处，同时指出纳入研究的方法学质量有待提高
 
 **IBS催眠治疗**
 - Whorwell等人（1984）在《The Lancet》发表的开创性RCT证实了肠道定向催眠治疗IBS的有效性
-- Lindfors等人（2012）在《Gut》发表的RCT纳入171名IBS患者，催眠组有效率49% vs 对照组23%
-- Peters等人（2016）在《Gut》发表的RCT显示催眠组与低FODMAP饮食组效果相当
-- Moser等人（2013）在《Alimentary Pharmacology & Therapeutics》发表的长期随访研究显示效果可维持5年以上
+- Lindfors等人（2012）对208名难治性IBS患者的随访研究显示，约49%在治疗后应答，且多数应答者在2-7年随访中维持或进一步改善
+- Peters等人（2016）在《Alimentary Pharmacology & Therapeutics》发表的RCT显示催眠组与低FODMAP饮食组效果相当
+- Moser等人（2013）在《American Journal of Gastroenterology》发表的团体催眠RCT显示，难治性IBS患者在治疗后及12个月随访时生活质量与症状均有改善
 
 **癌症支持治疗**
-- Montgomery等人（2009）在《Journal of the National Cancer Institute》发表的Meta分析纳入化疗相关恶心研究
-- Jensen等人（2012）在《Journal of the National Cancer Institute》发表催眠改善癌症相关疲劳的RCT
-- Stoelb等人（2008）在《Journal of Pain and Symptom Management》发表的系统综述总结了催眠在癌症疼痛管理中的证据
+- 化疗相关恶心呕吐：系统综述显示催眠在减轻化疗相关恶心呕吐方面有积极结果（Richardson et al., 2007）
+- 癌症相关症状：催眠用于癌症患者症状管理有初步研究（如 Jensen et al., 2012 的乳腺癌患者症状试点研究），但高质量RCT仍然有限
+- 催眠镇痛在成人疼痛中的证据有综述可供参考（Stoelb et al., 2009）
 
 ### 15.12.3 中国催眠医学实践
 
@@ -700,30 +698,29 @@
 - 英国国家卫生与临床优化研究所将肠道定向催眠列为IBS的治疗选择
 - 推荐在药物治疗无效后考虑使用
 
-**欧洲肠道定向催眠共识（2020）：**
-- Vlieger等人（2020）在《Gut》发表欧洲专家共识
-- 确认肠道定向催眠治疗IBS的疗效和安全性
-- 推荐12周标准化方案
+**专业共识：**
+- 肠道定向催眠治疗IBS的疗效与安全性得到多项RCT与长期随访支持
+- 临床实施中普遍推荐约12周的标准化方案
 - 建议由经过专业培训的治疗师实施
 
 ---
 
 ## 15.13 循证证据总结表
 
-| 应用领域 | 证据等级 | 主要效果 | 关键研究 | 证据说明 |
+| 应用领域 | 证据状态 | 主要效果 | 关键研究 | 证据说明 |
 |----------|----------|----------|----------|----------|
-| 围手术期焦虑 | Ib（RCT） | 减少术前焦虑和镇痛需求 | Montgomery et al., 2007 | 200名乳腺手术患者的RCT |
-| IBS症状 | Ia（多项RCT） | 50-80%有效率，效果持续5年以上 | Whorwell et al., 1984; Lindfors et al., 2012 | NICE指南推荐 |
-| 化疗恶心呕吐 | Ib（Meta分析） | 减少化疗相关恶心 | Montgomery et al., 2009 | 多项RCT的汇总分析 |
-| 分娩疼痛 | Ib（RCT） | 减少镇痛药物需求 | Madden et al., 2016 | Cochrane综述纳入 |
-| 牙科焦虑 | Ib（RCT） | 减少牙科焦虑和疼痛 | Alladin, 2016 | 多项研究支持 |
-| 慢性疼痛 | Ia（Meta分析） | 中等镇痛效果 | Jensen & Patterson, 2014 | 多种慢性疼痛类型 |
-| 癌症相关疲劳 | Ib（RCT） | 改善疲劳和生活质量 | Jensen et al., 2012 | 随机对照试验 |
-| 皮肤瘙痒 | IIb（前后对比） | 减少瘙痒和搔抓 | Shenefelt, 2006 | 证据尚需更多RCT |
-| 高血压辅助 | IIb（对照研究） | 辅助降压 | Gay, 2007 | 作为辅助手段 |
-| 偏头痛预防 | Ib（RCT） | 减少发作频率 | Alladin, 2016 | 效果与药物预防相当 |
+| 围手术期焦虑 | RCT支持 | 减少术前焦虑和镇痛需求 | Montgomery et al., 2007 | 200名乳腺手术患者的RCT（JNCI） |
+| IBS症状 | 多项RCT与长期随访支持 | 症状缓解，疗效可维持数年 | Whorwell et al., 1984; Gonsalkorale et al., 2003; Peters et al., 2016 | NICE指南推荐 |
+| 化疗恶心呕吐 | 系统综述支持 | 减少化疗相关恶心 | Richardson et al., 2007 | 多项RCT的系统评价 |
+| 分娩疼痛 | Cochrane综述 | 证据尚不足以确定疗效 | Madden et al., 2016 | Cochrane综述纳入多项研究但结论谨慎 |
+| 牙科焦虑 | 证据有限 | 可能减少焦虑 | — | 尚缺乏高质量RCT |
+| 慢性疼痛 | 综述与荟萃分析支持 | 中等镇痛效果 | Jensen & Patterson, 2014; Thompson et al., 2019 | 多种慢性疼痛类型 |
+| 癌症相关症状 | 初步研究 | 改善部分症状 | Jensen et al., 2012 | 试点研究，尚缺大型RCT |
+| 皮肤瘙痒 | 证据有限 | 可能减少瘙痒和搔抓 | — | 证据尚需更多RCT |
+| 高血压辅助 | 证据不足 | 不宜作为降压依据 | — | 仅可作为辅助放松手段 |
+| 偏头痛预防 | 初步研究 | 可能减少发作 | — | 不应替代药物预防 |
 
-> **证据等级说明：** Ia=系统综述/Meta分析；Ib=至少一项RCT；IIa=设计良好的对照研究；IIb=设计良好的准实验研究。以上引用均为已正式发表的研究，可在PubMed等数据库检索验证。
+> **证据说明：** 以上条目仅标注可查证的证据状态；所有引用均为已正式发表的研究，可通过PubMed等数据库检索验证。
 
 ---
 
