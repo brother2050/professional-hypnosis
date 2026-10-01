@@ -231,7 +231,7 @@
 > 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
 
 - Erickson, M.H. (1952). Deep hypnosis and its induction. In L.M. LeCron (Ed.), *Experimental Hypnosis*. Macmillan.
-- Kroger, W.S. (2008). *Clinical and Experimental Hypnosis* (2nd ed.). Lippincott Williams & Wilkins.
+- Kroger, W.S., & Yapko, M.D. (2007). *Clinical and Experimental Hypnosis: In Medicine, Dentistry, and Psychology* (2nd ed.). Lippincott Williams & Wilkins.
 - Yapko, M.D. (2012). *Trancework* (4th ed.). Routledge.
 
 ---
@@ -451,7 +451,7 @@
 
 ### 基础理解题
 
-1. **概念辨析**：区分催眠深度的四个维度（放松深度、注意聚焦深度、暗示响应深度、体验沉浸深度），并解释为什么这种多维理解对临床实践很重要。
+1. **概念辨析**：催眠深度是单一维度还是多维度的？请结合本章的深度分级（浅催眠、中催眠、深催眠、梦游态）讨论不同深度的特征差异及其临床意义。
 
 2. **技术比较**：对比倒数深化法和身体扫描深化法的机制差异，分析各自的优势和局限性。
 

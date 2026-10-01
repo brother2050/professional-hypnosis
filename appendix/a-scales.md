@@ -181,7 +181,7 @@
 - **青少年（13–17 岁）**：接近成人评估方式，但需注意自主性动机，避免权威服从式暗示
 
 **推荐工具：**
-- **儿童催眠感受性量表（Children's Hypnotic Susceptibility Scale, CHSS, London, 1963）**：为儿童设计的标准化催眠反应性测量工具，另有后续修订版本（Cooper & London, 1978）
+- **儿童催眠感受性量表（Children's Hypnotic Susceptibility Scale, CHSS, London & Cooper, 1963）**：为儿童设计的标准化催眠反应性测量工具（含 12 个项目），另有后续修订版本
 - **斯坦福催眠临床量表·儿童版（Stanford Hypnotic Clinical Scale for Children, Morgan & Hilgard, 1978–79）**：常模覆盖 3–16 岁儿童与青少年，对年幼儿童采用想象熟悉经验的诱导方式
 - **游戏化想象评估（临床自编）**：「想象你的手是气球」「让玩偶安静睡着」等任务，观察暗示反应的自然流露
 
