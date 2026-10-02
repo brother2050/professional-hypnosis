@@ -1,0 +1,538 @@
+=====chapters/00-theory-evolution.md=====
+=====chapters/01-introduction.md=====
+## 1.13 关键术语中英对照表
+
+| 中文术语 | 英文术语 | 缩写/备注 |
+|---------|---------|----------|
+| 催眠 | hypnosis | — |
+| 催眠术/催眠治疗 | hypnotism / hypnotherapy | — |
+| 催眠感受性/可暗示性 | hypnotic suggestibility | — |
+| 暗示 | suggestion | — |
+| 催眠诱导 | hypnotic induction | — |
+| 深化 | deepening | — |
+| 唤醒/结束 | emergence | — |
+| 自我催眠 | self-hypnosis | SH |
+| 后催眠暗示 | post-hypnotic suggestion | PHS |
+| 意识改变状态 | altered state of consciousness | ASC |
+| 注意力聚焦 | focused attention | — |
+| 失控体验 | dissociation | 注意与“解离”译名区分 |
+| 默认模式网络 | default mode network | DMN |
+| 中央执行网络 | central executive network | CEN |
+| 突显网络 | salience network | SN |
+| 前扣带回 | anterior cingulate cortex | ACC |
+| 下行疼痛抑制通路 | descending pain inhibitory pathway | — |
+| 认知行为疗法 | cognitive behavioral therapy | CBT |
+| 功能性磁共振成像 | functional magnetic resonance imaging | fMRI |
+| 脑电图 | electroencephalography | EEG |
+| 弥散张量成像 | diffusion tensor imaging | DTI |
+| 随机对照试验 | randomized controlled trial | RCT |
+| 循证医学证据等级 | level of evidence | 如Ia级 |
+=====chapters/02-history.md=====
+## 关键术语中英对照表（历史编）
+
+| 中文术语 | 英文术语 | 缩写/备注 |
+|---------|---------|----------|
+| 麦斯默主义/催眠磁疗 | mesmerism | 旧称“动物磁力学说” |
+| 动物磁力 | animal magnetism | 已废弃的理论概念 |
+| 麦斯麦术施行者 | magnetizer | — |
+| 类催眠状态 | artificial somnambulism | 麦斯默后学用语 |
+| 布雷德术/凝视催眠 | Braidism / nervous sleep | 布雷德1843年命名 |
+| 暗示治疗 | suggestive therapeutics | 伯恩海姆 |
+| 普遍可暗示性 | universal suggestibility | 南锡学派 |
+| 后催眠暗示 | post-hypnotic suggestion | — |
+| 舞台催眠 | stage hypnosis | — |
+| 临床催眠 | clinical hypnosis | — |
+| 状态论 | state theory | — |
+| 非状态论/社会认知论 | nonstate / sociocognitive theory | — |
+| 社会角色理论 | social role theory | 萨宾 |
+| 合作原则 | cooperation principle | 艾瑞克森学派 |
+| 利用技术 | utilization technique | 艾瑞克森 |
+| 意象引导 | guided imagery | — |
+| 催眠感受性量表 | Stanford Hypnotic Susceptibility Scale | SHSS |
+| 哈佛团体催眠感受性量表 | Harvard Group Scale of Hypnotic Susceptibility | HGSHS |
+| 艾瑞克森催眠 | Ericksonian hypnosis | — |
+| 神经语言程序学 | neuro-linguistic programming | NLP（历史相关，证据有限） |
+| 动力精神病学 | dynamic psychiatry | — |
+| 实验心理学 | experimental psychology | — |
+=====chapters/03-neuroscience.md=====
+### 3.10.4 关键术语中英对照
+
+| 中文 | 英文 | 缩写 |
+|------|------|------|
+| 催眠感受性 | Hypnotic suggestibility | - |
+| 默认网络 | Default mode network | DMN |
+| 执行控制网络 | Executive control network | ECN |
+| 凸显网络 | Salience network | SN |
+| 中脑导水管周围灰质 | Periaqueductal gray | PAG |
+| 延髓头端腹内侧区 | Rostral ventromedial medulla | RVM |
+| 前扣带皮层 | Anterior cingulate cortex | ACC |
+| 背外侧前额叶皮层 | Dorsolateral prefrontal cortex | DLPFC |
+| 层级预测加工 | Hierarchical predictive processing | HPP |
+| 预测误差 | Prediction error | PE |
+| 皮层兴奋/抑制平衡 | Excitation/inhibition balance | E/I balance |
+| 经颅直流电刺激 | Transcranial direct current stimulation | tDCS |
+| 经颅磁刺激 | Transcranial magnetic stimulation | TMS |
+| 随机噪声刺激 | Transcranial random noise stimulation | tRNS |
+| 神经反馈 | Neurofeedback | NF |
+| 内感受 | Interoception | - |
+| 下行疼痛抑制通路 | Descending pain inhibitory pathway | DPIP |
+
+---
+
+## 3.11 网络神经科学视角下的催眠：深度解析
+=====chapters/04-psychological-models.md=====
+### 4.8.5 关键术语中英对照
+
+| 中文 | 英文 | 缩写 |
+|------|------|------|
+| 分离理论 | Dissociation Theory | - |
+| 隐蔽观察者 | Hidden Observer | - |
+| 社会认知理论 | Social-Cognitive Theory | - |
+| 期望效应 | Expectancy Effect | - |
+| 预测编码 | Predictive Coding | PC |
+| 预测加工 | Predictive Processing | PP |
+| 先验/先验权重 | Prior / Prior Precision | - |
+| 新分离理论 | Neodissociation Theory | - |
+| 监督监控系统 | Supervisor / Executive Monitor | - |
+| 催眠感受性 | Hypnotic Susceptibility / Hypnotizability | - |
+| 意识改变状态 | Altered State of Consciousness | ASC |
+| 催眠深度 | Hypnotic Depth | - |
+| 催眠感受性量表 | Stanford Hypnotic Susceptibility Scale | SHSS |
+
+---
+=====chapters/05-consciousness-suggestibility.md=====
+### 5.9.5 关键术语中英对照
+
+| 中文 | 英文 | 缩写 |
+|------|------|------|
+| 意识 | Consciousness | — |
+| 意识状态 | State of Consciousness | — |
+| 全局工作空间理论 | Global Workspace Theory | GWT |
+| 整合信息理论 | Integrated Information Theory | IIT |
+| 整合信息量 | Integrated Information (Phi) | Φ |
+| 预测加工/受控幻觉 | Predictive Processing / Controlled Hallucination | PP |
+| 暗示感受性 | Suggestibility | — |
+| 催眠感受性 | Hypnotic Susceptibility | — |
+| 直接暗示 | Direct Suggestion | — |
+| 间接暗示 | Indirect Suggestion | — |
+| 意动暗示 | Ideomotor Suggestion | — |
+| 悖论暗示 | Paradoxical Suggestion | — |
+| 批判监控 | Critical Monitoring | — |
+| 解离 | Dissociation | — |
+| 入静/催眠诱导 | Induction | — |
+
+---
+=====chapters/06-induction-techniques.md=====
+## 附录E：关键术语中英对照
+
+| 中文 | 英文 |
+| --- | --- |
+| 催眠诱导 | Hypnotic Induction |
+| 渐进放松诱导 | Progressive Relaxation Induction |
+| 凝视固定/眼睑固定 | Eye Fixation / Gaze Induction |
+| 快速诱导 | Rapid Induction |
+| 握手诱导 | Handshake Induction |
+| 自然主义诱导 | Naturalistic Induction |
+| 困惑技术 | Confusion Technique |
+| 震惊/惊讶诱导 | Shock / Startle Induction |
+| 直接暗示 | Direct Suggestion |
+| 间接暗示 | Indirect Suggestion |
+| 暗示感受性 | Hypnotic Suggestibility |
+| 意念运动信号 | Ideomotor Signal |
+| 数字遗忘 | Number Block / Number Forgetting |
+| 混淆技术/过载 | Overloading / Tonal Ambiguity |
+| 深度指标 | Depth Indicators |
+| 诱导脚本 | Induction Script |
+| 允许式语言 | Permissive Language |
+| 阻抗 | Resistance |
+
+=====chapters/07-deepening.md=====
+## 附录E：关键术语中英对照
+
+| 中文 | 英文 |
+| --- | --- |
+| 深化技术 | Deepening Technique |
+| 倒数深化法 | Countdown Deepening |
+| 身体扫描 | Body Scan |
+| 楼梯意象 | Staircase Imagery |
+| 电梯意象 | Elevator Imagery |
+| 递进式深化/分段深化 | Fractionation |
+| 催眠深度 | Hypnotic Depth / Trance Depth |
+| 深度锚 | Depth Anchor |
+| 安全之所/安全地带 | Safe Place / Safe Haven Imagery |
+| 意象通道 | Imagery Modality (Visual / Auditory / Kinesthetic) |
+| 稳定化 | Stabilization |
+| 允许式语言 | Permissive Language |
+| 确认式暗示 | Ratification Suggestion |
+| 耐受窗口 | Window of Tolerance |
+| 沉浸体验 | Absorption |
+| 暗示响应性 | Suggestibility / Hypnotic Responsiveness |
+| 唤醒 | Awakening / Emerging |
+| 深度指标 | Depth Indicators |
+
+=====chapters/08-suggestion-design.md=====
+## 8.14 关键术语中英对照表
+
+| 中文术语 | 英文术语 | 简要说明 |
+|---------|---------|---------|
+| 暗示 | Suggestion | 引导知觉、认知、行为或生理反应的沟通信息 |
+| 暗示感受性 | Suggestibility | 对暗示产生反应的个体特质或状态倾向 |
+| 暗示阶梯法 | Suggestion Laddering | 按难度分级逐级植入暗示的技术 |
+| 直接暗示 | Direct Suggestion | 明确、命令式的暗示表述 |
+| 间接暗示 | Indirect Suggestion | 借由隐喻、蕴含、允许等方式传递的暗示 |
+| 后催眠暗示 | Post-hypnotic Suggestion | 约定在催眠后特定条件下触发的暗示 |
+| 条件暗示 | Conditional / Cue-triggered Suggestion | 以特定条件或线索为触发器的暗示 |
+| 自我暗示 | Auto-suggestion / Autosuggestion | 由个体自身施加的暗示（库埃法） |
+| 隐喻暗示 | Metaphorical Suggestion | 通过故事同构映射传递的暗示 |
+| 信念校准 | Belief Calibration | 使暗示强度与来访者信念水平匹配的过程 |
+| 表征通道 / 表征系统 | Representational Channel / System | 视觉、听觉、动觉等信息表征方式 |
+| 谓词系统 | Predicate System | 语言中体现表征通道的动词/形容词选择 |
+| 证据锚 | Evidence Anchor | 佐证暗示内容的真实体验片段 |
+| 许可式暗示 | Permissive Suggestion | 以允许、邀请口吻给出的暗示 |
+| 蕴含式暗示 | Embedded Suggestion | 藏于句子结构中、绕过意识审查的暗示 |
+| 期望理论 | Expectancy Theory | Kirsch等提出的暗示效果期望解释模型 |
+| 意念动力反应 | Ideodynamic Response | 由意念自动引发的动作或生理反应 |
+| 可信度 | Credibility / Plausibility | 暗示被来访者主观接受的程度 |
+
+=====chapters/09-emergence-post-hypnotic.md=====
+## 9.12 关键术语中英对照表
+
+| 中文术语 | 英文术语 | 简要说明 |
+|---------|---------|---------|
+| 唤醒 / 出神 | Emergence / Awakening | 从催眠状态过渡回常规清醒状态的过程 |
+| 渐进计数唤醒 | Progressive Count-Up Emergence | 以递增计数配合能量注入的唤醒技术 |
+| 手法松动技术 | Handshake Disruption Technique | 埃里克森式利用动作中断制造可塑状态的技术 |
+| 后催眠暗示 | Post-hypnotic Suggestion | 约定在催眠结束后按条件触发的暗示 |
+| 后催眠暗示安装 | Post-hypnotic Installation | 将后催眠暗示植入潜意识的完整流程 |
+| 触发条件 | Trigger Condition / Cue | 激活后催眠暗示的特定情境或信号 |
+| 响应行为 | Response Behavior | 触发后自动执行的具体行为反应 |
+| 撤销条款 | Revocation Clause | 允许来访者随时终止暗示的安全机制 |
+| 安全阀 | Safety Valve | 防止暗示失控的保护性设置 |
+| 心理预演 | Mental Rehearsal / Ideomotor Rehearsal | 在想象中演练目标行为以强化暗示 |
+| 渐进式升级 | Progressive Escalation | 跨会话逐步增强后催眠暗示的策略 |
+| 残余恍惚 | Residual Trance | 唤醒不彻底导致的轻微恍惚残留状态 |
+| 现实定向 | Reality Orientation | 唤醒后确认清醒度与环境感知的校准环节 |
+| 状态校准 | State Calibration | 用量化方式确认唤醒程度的操作 |
+| 自动化内化 | Automatic Internalization | 暗示脱离触发依赖、成为自发反应的最终阶段 |
+| 治疗契约 | Therapeutic Contract | 治疗师与来访者关于暗示内容与边界的约定 |
+| 催眠后行为 | Post-hypnotic Behavior | 催眠结束后由暗示引发的行为表现 |
+=====chapters/10-self-hypnosis.md=====
+## 10.15 关键术语中英对照表
+
+| 中文术语 | 英文术语 |
+|----------|----------|
+| 自我催眠 | Self-hypnosis |
+| 自我暗示 | Autosuggestion |
+| 渐进式肌肉放松 | Progressive Muscle Relaxation (PMR) |
+| 深化 | Deepening |
+| 唤醒/觉醒 | Emergence / Alerting |
+| 意象引导 | Guided Imagery |
+| 安全处所 | Safe Place / Safe Haven |
+| 锚定 | Anchoring |
+| 感受性/暗示感受性 | Hypnotic Suggestibility |
+| 催眠状态 | Hypnotic State / Trance |
+| 阻抗 | Resistance |
+| 沉思状态 | Meditative State |
+| 生物反馈 | Biofeedback |
+| 神经反馈 | Neurofeedback |
+| 正念 | Mindfulness |
+| 自我效能感 | Self-efficacy |
+=====chapters/11-group-stage.md=====
+## 11.14 关键术语中英对照表
+
+| 中文术语 | 英文术语 |
+|----------|----------|
+| 团体催眠 | Group Hypnosis |
+| 舞台催眠 | Stage Hypnosis |
+| 临床催眠 | Clinical Hypnosis |
+| 团体动力 | Group Dynamics |
+| 从众效应 | Conformity Effect |
+| 志愿者筛选 | Volunteer Selection / Screening |
+| 快速诱导 | Rapid Induction |
+| 握手诱导 | Handshake Induction |
+| 手臂悬浮 | Arm Levitation |
+| 分层暗示 | Layered / Multi-level Suggestion |
+| 后催眠暗示 | Post-hypnotic Suggestion |
+| 知情同意 | Informed Consent |
+| 唤醒/结束程序 | Emergence / Alerting Procedure |
+| 催眠表演 | Hypnotic Performance / Demonstration |
+| 感受性筛选 | Suggestibility Screening |
+| 在线团体催眠 | Online Group Hypnosis |
+=====chapters/12-pain-management.md=====
+## 12.17 关键术语中英对照表
+
+| 中文术语 | 英文术语 | 说明 |
+|---|---|---|
+| 催眠镇痛 | Hypnotic analgesia | 通过催眠暗示降低疼痛感知 |
+| 疼痛门控 | Pain gate / Gate control | 调节疼痛信号向中枢传递的意象技术 |
+| 手套麻醉 | Glove anesthesia | 先在手部建立麻木感再转移至患处的传导技术 |
+| 分离 | Dissociation | 意识与疼痛体验分离的催眠现象 |
+| 时间扭曲 | Time distortion | 改变时间主观体验的催眠现象 |
+| 疼痛灾难化 | Pain catastrophizing | 将疼痛后果放大、灾难化解释的认知倾向 |
+| 运动恐惧 | Kinesiophobia | 因恐惧疼痛而回避身体活动 |
+| 数字评定量表 | Numeric Rating Scale (NRS) | 0–10分疼痛强度自评工具 |
+| 神经病理性疼痛症状量表 | Neuropathic Pain Symptom Inventory (NPSI) | 神经病理性疼痛多维评估 |
+| 中枢敏化 | Central sensitization | 中枢神经系统对痛觉信号的放大 |
+| 自我催眠 | Self-hypnosis | 患者自主实施的催眠练习 |
+| 后催眠暗示 | Post-hypnotic suggestion | 催眠结束后持续起效的暗示 |
+| 围手术期催眠 | Perioperative hypnosis | 覆盖术前、术中、术后的催眠干预 |
+| 主观痛苦单位 | Subjective Units of Distress (SUD) | 0–10主观痛苦程度评分 |
+
+---
+
+[← 上一章：第11章 团体催眠与舞台催眠](11-group-stage.md) | [下一章：第13章 焦虑、恐惧与创伤处理 →](13-anxiety-trauma.md)
+=====chapters/13-anxiety-trauma.md=====
+## 13.15 关键术语中英对照表
+
+| 中文术语 | 英文术语 | 说明 |
+|---|---|---|
+| 创伤后应激障碍 | Post-Traumatic Stress Disorder (PTSD) | 创伤事件后出现的持续性应激障碍 |
+| 复杂性创伤后应激障碍 | Complex PTSD (C-PTSD) | 长期反复创伤所致，伴情绪调节与自我组织受损 |
+| 安全地带 | Safe place / Safe state | 催眠中构建的内在安全意象空间 |
+| 容器技术 | Container technique | 将创伤材料暂时意象化封存的稳定化技术 |
+| 观察者分离 | Observer dissociation / Watching-self | 以旁观视角接触创伤记忆的催眠技术 |
+| 想象暴露 | Imaginal exposure | 在安全环境中想象接触创伤/恐惧刺激 |
+| 系统脱敏 | Systematic desensitization | 渐进式接触恐惧刺激并配对放松 |
+| 锚定 | Anchoring | 将特定刺激与心理状态配对建立条件反射 |
+| 眼动脱敏与再加工 | EMDR (Eye Movement Desensitization and Reprocessing) | 常与催眠比较的创伤治疗方法 |
+| 闪回 | Flashback | 创伤记忆的侵入性再体验 |
+| 高警觉 | Hyperarousal | 持续的过度警觉与惊跳反应 |
+| 解离 | Dissociation | 意识、记忆、身份或感知的断裂体验 |
+| 主观痛苦单位 | Subjective Units of Distress (SUD) | 0–10主观痛苦程度评分 |
+| 创伤后应激检查表 | PTSD Checklist (PCL-5) | PTSD症状自评量表 |
+| 灾难化解释 | Catastrophic misinterpretation | 对身体感觉的灾难化认知（惊恐核心） |
+| 再巩固 | Reconsolidation | 记忆被激活后可被修改的神经机制 |
+
+---
+
+[← 上一章：第12章 催眠镇痛与疼痛管理](12-pain-management.md) | [下一章：第14章 催眠在心理治疗中的整合应用 →](14-psychotherapy-integration.md)
+=====chapters/14-psychotherapy-integration.md=====
+## 14.17 关键术语中英对照表
+
+| 中文术语 | 英文术语 | 说明 |
+|----------|----------|------|
+| 催眠整合治疗 | Hypnotic Integration Therapy | 将催眠嵌入主流心理治疗框架 |
+| 认知行为催眠治疗 | Cognitive-Behavioral Hypnotherapy (CBH) | Alladin 提出的整合模型 |
+| 有限再抚育 | Limited Reparenting | 图式疗法核心治疗关系模式 |
+| 年龄回溯 | Age Regression | 回到早期年龄体验的催眠技术 |
+| 认知解离 | Cognitive Defusion | ACT 中降低语言-认知控制的技术 |
+| 情绪耐受窗 | Window of Tolerance | Siegel 提出的最佳唤起区间 |
+| 双侧加工 | Bilateral Processing | EMDR 的核心加工机制 |
+| 观察性自我 | Observing Self | 接触式自我/超越概念化的自我 |
+| 隐喻剧本 | Metaphorical Script | 个体化暗示叙事文本 |
+| 桥接暗示 | Bridging Suggestion | 连接催眠体验与日常生活的暗示 |
+| 前瞻暗示 | Future Age Progression | 面向未来场景的催眠排练 |
+| 共同决策 | Shared Decision-Making | 医患协作确定治疗方案 |
+| 治疗联盟 | Therapeutic Alliance | 合作、目标、联结三成分（WAI） |
+| 特异性效应 | Specific Effects | 区别于共同因素的疗法专属效应 |
+| 动机式访谈 | Motivational Interviewing (MI) | 以改变矛盾为核心的咨询方法 |
+| 叙事疗法 | Narrative Therapy | 以重写生命故事为核心的后现代疗法 |
+
+## 14.18 催眠 + EMDR 整合技术详解（标准操作步骤）
+=====chapters/15-medical-applications.md=====
+## 15.19 关键术语中英对照表
+
+| 中文术语 | 英文术语 | 说明 |
+|----------|----------|------|
+| 医学催眠 | Medical Hypnosis / Clinical Hypnosis in Medicine | 催眠在医学场景中的辅助应用 |
+| 催眠镇静 | Hypnosedation | 催眠替代或减少静脉镇静（Faymonville） |
+| 肠道定向催眠治疗 | Gut-Directed Hypnotherapy | Whorwell 发展的 IBS 标准方案 |
+| 脑-肠轴 | Brain-Gut Axis | 中枢与肠神经系统的双向通信 |
+| 预期性恶心呕吐 | Anticipatory Nausea and Vomiting (ANV) | 化疗相关条件化反应 |
+| 条件化味觉厌恶 | Conditioned Taste Aversion (CTA) | 味道-不适体验的条件联结 |
+| 反条件化 | Counter-Conditioning | 用新联结替代旧条件反射 |
+| 围手术期 | Perioperative | 术前、术中、术后全程 |
+| 麻醉药节省效应 | Anesthetic-Sparing Effect | 催眠降低麻醉药需求量 |
+| 患者控制镇静 | Patient-Controlled Sedation (PCS) | 患者自行按键给药的镇静模式 |
+| 视觉模拟评分 | Visual Analogue Scale (VAS) | 疼痛主观测量 |
+| 数字评分量表 | Numeric Rating Scale (NRS) | 0-10 疼痛评分 |
+| 恢复质量评分 | Quality of Recovery-15 (QoR-15) | 术后恢复质量量表 |
+| 心率变异性 | Heart Rate Variability (HRV) | 自主神经功能指标 |
+| 催眠感受性 | Hypnotic Susceptibility | 对暗示反应的个体特质 |
+| 知情同意 | Informed Consent | 医疗决策自主权保障程序 |
+| 多学科协作 | Multidisciplinary Collaboration | 催眠与医学团队的配合模式 |
+=====chapters/16-pediatric-hypnosis.md=====
+## 16.18 关键术语中英对照表
+
+| 中文术语 | 英文术语 | 说明 |
+| --- | --- | --- |
+| 儿童催眠 | Pediatric Hypnosis | 儿童与青少年催眠的统称 |
+| 自我催眠 | Self-Hypnosis | 个体自主诱导催眠状态的技术 |
+| 暗示感受性 | Hypnotic Suggestibility | 对暗示的反应敏感度 |
+| 自我强化暗示 | Ego Strengthening | 增强自信与自我效能的暗示技术 |
+| 安全地想象 | Safe Place Imagery | 构建内心安全场所的稳定化技术 |
+| 故事隐喻治疗 | Metaphoric Therapy | 通过故事间接传递暗示的疗法 |
+| 意象脱敏 | Imagery Desensitization | 在想象中分级降低焦虑反应 |
+| 干床训练 | Dry Bed Training | 遗尿症的行为-催眠综合训练 |
+| 选择性缄默症 | Selective Mutism | 特定场合无法说话的焦虑障碍 |
+| 考试焦虑 | Test Anxiety | 与评价情境相关的焦虑反应 |
+| 创伤知情照护 | Trauma-Informed Care | 以安全与赋权为核心的照护原则 |
+| 未来时间线预演 | Future Time Projection | 预演未来成功场景的暗示技术 |
+| 锚定技术 | Anchoring | 将状态与特定刺激建立条件反射 |
+| 知情同意 | Informed Consent | 充分告知后的自愿同意过程 |
+=====chapters/17-addiction-habits.md=====
+## 17.15 关键术语中英对照表
+
+| 中文术语 | 英文术语 | 说明 |
+| --- | --- | --- |
+| 成瘾 | Addiction | 强迫性物质使用或行为模式 |
+| 行为成瘾 | Behavioral Addiction | 非物质相关成瘾行为（游戏、赌博等） |
+| 渴求 | Craving | 强烈的使用冲动与心理渴求 |
+| 渴求冲浪 | Urge Surfing | 观察渴求而不反应的正念-催眠技术 |
+| 戒断综合征 | Withdrawal Syndrome | 停止使用后出现的身心症状群 |
+| 复发 | Relapse | 戒断后重新出现成瘾行为 |
+| 戒断违规效应 | Abstinence Violation Effect | 复吸一次即全盘放弃的认知偏差 |
+| 动机性访谈 | Motivational Interviewing | 以激发内在动机为核心的访谈技术 |
+| 厌恶疗法 | Aversion Therapy | 将成瘾行为与不快感受建立联结 |
+| 身份重构暗示 | Identity-Based Suggestion | 以“我是谁”为核心的自我概念暗示 |
+| 功能替代 | Functional Replacement | 用健康行为替代成瘾的心理功能 |
+| 自我效能 | Self-Efficacy | 对自己完成戒断能力的信念 |
+| 伤害减少 | Harm Reduction | 以降低危害为目标的干预策略 |
+| 物质使用障碍 | Substance Use Disorder | 临床诊断名，含轻中重程度 |
+| 持续戒断率 | Continuous Quit Rate | 治疗后保持完全戒断的比例 |
+| 复发预防 | Relapse Prevention | 识别高危情境并建立应对技能的干预 |
+=====chapters/18-recent-advances.md=====
+### 18.8.8 关键术语中英对照表
+
+| 中文 | 英文 | 缩写 |
+| --- | --- | --- |
+| 无创脑刺激 | Non-invasive Brain Stimulation | NIBS |
+| 经颅磁刺激 | Transcranial Magnetic Stimulation | TMS/rTMS |
+
+| 经颅直流电刺激 | Transcranial Direct Current Stimulation | tDCS |
+| 经颅交流电刺激 | Transcranial Alternating Current Stimulation | tACS |
+| 经颅聚焦超声 | Transcranial Focused Ultrasound | tFUS |
+| 脑机接口 | Brain-Computer Interface | BCI |
+| 神经反馈 | Neurofeedback | NF |
+| 闭环刺激 | Closed-loop Stimulation | — |
+| 虚拟现实 | Virtual Reality | VR |
+| 增强现实 | Augmented Reality | AR |
+| 混合现实 | Mixed Reality | MR |
+| 人工智能 | Artificial Intelligence | AI |
+| 大语言模型 | Large Language Model | LLM |
+| 数字疗法 | Digital Therapeutics | DTx |
+| 数字表型 | Digital Phenotyping | — |
+| 暗示反应量表 | Suggestibility Rating Scale | SRS |
+| 功能性近红外光谱 | Functional Near-infrared Spectroscopy | fNIRS |
+
+---
+
+[← 上一章：第17章 成瘾行为与习惯改变](17-addiction-habits.md) | [下一章：第19章 神经影像学与催眠机制 →](19-neuroimaging.md)
+=====chapters/19-neuroimaging.md=====
+### 19.10.4 关键术语中英对照
+
+| 中文 | 英文 | 缩写 |
+|------|------|------|
+| 神经影像 | Neuroimaging | — |
+| 实时fMRI神经反馈 | Real-time fMRI neurofeedback | rt-fMRI-NF |
+| 超扫描/双脑记录 | Hyperscanning | — |
+| 脑间同步 | Inter-brain synchrony | IBS（注意与肠易激综合征缩写区分） |
+| EEG微状态 | EEG microstate | — |
+| 源定位 | Source localization | — |
+| 功能磁共振成像 | Functional magnetic resonance imaging | fMRI |
+| 脑电图 | Electroencephalography | EEG |
+| 脑磁图 | Magnetoencephalography | MEG |
+| 功能近红外光谱 | Functional near-infrared spectroscopy | fNIRS |
+| 血氧水平依赖信号 | Blood-oxygen-level-dependent signal | BOLD |
+| 机器学习 | Machine learning | ML |
+| 支持向量机 | Support vector machine | SVM |
+| 图神经网络 | Graph neural network | GNN |
+| 类激活映射（可解释性） | Gradient-weighted Class Activation Mapping | Grad-CAM |
+| 预注册 | Pre-registration | — |
+| 生态效度 | Ecological validity | — |
+
+---
+
+=====chapters/20-ai-vr.md=====
+### 20.6.8 关键术语中英对照表
+
+| 中文 | 英文 | 缩写 |
+| --- | --- | --- |
+| 人工智能 | Artificial Intelligence | AI |
+| 虚拟现实 | Virtual Reality | VR |
+| 增强现实 | Augmented Reality | AR |
+| 混合现实 | Mixed Reality | MR |
+| 脑机接口 | Brain-Computer Interface | BCI |
+| 闭环神经反馈 | Closed-loop Neurofeedback | — |
+| 经颅直流电刺激 | Transcranial Direct Current Stimulation | tDCS |
+| 经颅交流电刺激 | Transcranial Alternating Current Stimulation | tACS |
+| 重复经颅磁刺激 | Repetitive TMS | rTMS |
+| 大语言模型 | Large Language Model | LLM |
+| 自动语音识别 | Automatic Speech Recognition | ASR |
+| 文本转语音 | Text-to-Speech | TTS |
+| 数字疗法 | Digital Therapeutics | DTx |
+| 软件即医疗器械 | Software as a Medical Device | SaMD |
+| 感觉夹带 | Sensory Entrainment | — |
+| 存在感/临场感 | Presence | — |
+| 晕动症 | Cybersickness | — |
+| 化疗相关恶心呕吐 | Chemotherapy-induced Nausea and Vomiting | CINV |
+| 联邦学习 | Federated Learning | FL |
+| 神经权利 | Neurorights | — |
+
+---
+
+[← 上一章：第19章 神经影像学与催眠机制](19-neuroimaging.md) | [下一章：第21章 跨文化催眠与比较研究 →](21-cross-cultural.md)
+=====chapters/21-cross-cultural.md=====
+## 21.12 关键术语中英对照表
+
+| 中文 | 英文 | 备注 |
+|-----|------|------|
+| 跨文化催眠 | cross-cultural hypnosis | 比较不同文化中的催眠现象与实践 |
+| 文化适应 | cultural adaptation | 对干预进行本土化调整的过程 |
+| 文化能力 | cultural competence | 从业者跨文化工作的能力 |
+| 共同基础法 | Etic approach | 跨文化比较的普遍性视角 |
+| 本土视角法 | Emic approach | 文化内部的意义视角 |
+| 催眠感受性 | hypnotic suggestibility | 对暗示的反应性特质 |
+| 解离 | dissociation | 意识、记忆、身份的分离现象 |
+| 转换障碍 | conversion disorder | 心理冲突以躯体症状表达 |
+| 躯体化 | somatization | 心理问题以躯体主诉呈现 |
+| 萨满 | shaman | 传统社会的仪式疗愈者 |
+| 出神/恍惚状态 | trance / altered state of consciousness (ASC) | 意识状态改变的通称 |
+| 文化隐喻 | cultural metaphor | 文化共享的象征意义系统 |
+| 权力距离 | power distance | 对权力不平等的接受程度 |
+| 高语境文化 | high-context culture | 信息依赖语境与暗示的沟通文化 |
+| 医疗民族志 | medical anthropology | 疾病与疗愈的文化研究 |
+| 污名管理 | stigma management | 降低技术污名的策略 |
+| 传统医学 | traditional medicine | 各文化的本土疗愈体系 |
+| 神经多样性 | neurodiversity | 神经功能差异的正常化视角 |
+
+---
+
+[← 上一章：第20章 催眠与人工智能/虚拟现实](20-ai-vr.md) | [下一章：第22章 催眠伦理、法律与专业规范 →](22-ethics-legal.md)
+=====chapters/22-ethics-legal.md=====
+## 22.12 关键术语中英对照表
+
+| 中文 | 英文 | 备注 |
+|-----|------|------|
+| 知情同意 | informed consent | 治疗伦理的核心程序 |
+| 知情同意书 | informed consent form | 书面记录文件 |
+| 胜任力/专业能力 | competence | 在受训范围内执业 |
+| 多重关系 | multiple relationships | 职业角色外的关系 |
+| 边界 | boundaries | 治疗关系的行为界限 |
+| 保密 | confidentiality | 不泄露个案信息的义务 |
+| 保密例外 | limits of confidentiality | 法定报告等例外情形 |
+| 监护人同意 | parental consent / guardian consent | 未成年人程序 |
+| 同意能力 | capacity to consent | 理解与决定的能力 |
+| 不伤害原则 | nonmaleficence | 四原则之一 |
+| 有利原则 | beneficence | 四原则之一 |
+| 尊重自主 | respect for autonomy | 四原则之一 |
+| 公正原则 | justice | 四原则之一 |
+| 记忆污染/记忆偏差 | memory contamination / memory distortion | 暗示导致的记忆改变 |
+| 虚构记忆/虚假记忆 | confabulation / false memory | 无事实基础的“回忆” |
+| 伪证 | perjury | 法庭虚假陈述 |
+| 侵权责任 | tort liability | 民事责任 |
+| 人格权 | personality rights | 隐私、名誉、肖像等 |
+| 敏感个人信息 | sensitive personal information | PIPL用语 |
+| 心理治疗 | psychotherapy | 医疗行为（中国语境） |
+| 心理咨询 | psychological counseling | 非医疗心理服务 |
+| 非法行医 | illegal medical practice | 无资质从事诊疗 |
+| 行业自律 | self-regulation | 行业守则与监督 |
+| 督导 | supervision | 专业质量保障机制 |
+| 危机干预 | crisis intervention | 风险应对流程 |
+| 知情同意能力评估 | capacity assessment | 判断同意有效性的评估 |
+| 风险告知 | risk disclosure | 告知潜在风险的义务 |
+| 伦理审查 | ethics review | 研究与新服务的伦理评估 |
+
+---
+
+[← 上一章：第21章 跨文化催眠与比较研究](21-cross-cultural.md) | [→ 附录 A：催眠感受性量表 →](../appendix/a-scales.md)
