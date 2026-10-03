@@ -131,3 +131,4 @@
 - [文献核实状态与审计记录](references/verification-status.md)
 - [练习题参考答案（要点版）](references/练习题参考答案.md)
 - [编辑规范（全书质量守则）](references/编辑规范.md)
+- [许可协议（CC BY-NC-SA 4.0）](LICENSE.md)
