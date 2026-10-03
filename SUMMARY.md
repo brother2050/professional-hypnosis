@@ -6,6 +6,7 @@
 
 - [README：全书导览](README.md)
 - [催眠实战速用手册（只看这份就能上手）](ACTION-GUIDE.md)
+- [实操示例库（100+ 条台词与对话示例）](EXAMPLES.md)
 - [核心知识速览（30 分钟版）](CORE-SUMMARY.md)
 - [免责声明与安全警示](DISCLAIMER.md)
 
