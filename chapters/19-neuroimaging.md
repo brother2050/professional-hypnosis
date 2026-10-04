@@ -29,8 +29,11 @@
 
 **感觉暗示：**
 - 颜色视觉暗示→梭状回色彩加工区活动改变（Kosslyn et al., 2000）
+
 - 痛觉暗示→前扣带回、岛叶、体感皮层活动降低（Derbyshire et al., 2004）
+
 - 听觉暗示→初级听觉皮层活动改变
+
 - 味觉暗示→岛叶味觉区活动改变（Kosslyn et al., 2000）
 
 **运动暗示：**
@@ -49,8 +52,11 @@
 
 **Hoeft et al. (2012) 的里程碑研究：**
 - 样本：N=123（高感受性 vs 低感受性）
+
 - 方法：静息态fMRI + 机器学习
+
 - 发现：高感受性个体的ACC-PFC功能连接更强，DMN-ECN耦合模式不同
+
 - 意义：首次实现基于脑影像的感受性预测
 
 > **⚠️ 文献说明**：上述Hoeft et al. （2012）研究为已验证文献。后续进展请查阅PubMed获取最新研究成果。本章原稿中2023年以后的引用（Stagg et al., 2024；Terhune et al., 2025；Bhatt et al., 2023；Rainville et al., 2024；Dienes et al., 2023；Fingelkurts et al., 2024等）多经核实查无此文，已删除或改写。
@@ -70,7 +76,9 @@
 ### 19.2.2 ERP 研究
 
 - **P300**：催眠暗示可影响P300等事件相关电位成分，提示注意力资源分配发生改变（Jensen et al., 2001）
+
 - **N100/N200**：痛觉相关ERP成分可能发生变化
+
 - **错误相关负波（ERN）**：催眠暗示是否影响错误监控过程，是有待研究的问题
 
 ### 19.2.3 最新EEG研究
@@ -84,7 +92,9 @@
 ### 19.3.1 PET 研究
 
 - 代谢变化：丘脑和扣带回代谢降低
+
 - 受体研究：阿片受体和多巴胺系统
+
 - 局限性：空间分辨率有限、辐射暴露
 
 ### 19.3.2 近红外光谱（fNIRS）
@@ -145,13 +155,17 @@
 ### 19.6.1 短期神经可塑性
 
 - 催眠暗示可以在单次催眠中改变感觉皮层的功能组织
+
 - 身体意象暗示可即时改变体感皮层的空间表征
+
 - 催眠镇痛时的即时脑活动变化反映功能重组
 
 ### 19.6.2 长期神经可塑性
 
 - 自我催眠训练可能改变前额叶-扣带回连接模式
+
 - 长期冥想与催眠训练者可能发展出更高的催眠感受性
+
 - 神经可塑性为催眠治疗的长期效果提供了机制解释
 
 ## 19.7 最新技术进展
@@ -160,14 +174,17 @@
 
 **经颅磁刺激（TMS）：**
 - 基于个体脑连接定位的左dlPFC TMS可短暂提高催眠感受性（Faerman et al., 2024）
+
 - 刺激ACC等痛觉调制脑区是否改变痛觉暗示效果，是有待研究的问题
 
 **经颅直流电刺激（tDCS）：**
 - tDCS刺激前额叶可能影响催眠感受性，效应尚不一致（综述见Perri et al., 2024）
+
 - 阳极tDCS刺激运动皮层可能增强运动暗示效果
 
 **聚焦超声（FUS）：**
 - FUS可实现更深脑区的非侵入性刺激
+
 - 与催眠/暗示感受性的结合研究尚处早期探索阶段
 - 可能用于靶向调控催眠相关脑区
 
@@ -184,6 +201,8 @@
 - 成本较低，便于推广
 
 ## 19.8 临床转化应用
+
+> 深度与脑状态的实操对应见[深度分级实操指南](../DEPTH-GUIDE.md)。
 
 ### 19.8.1 基于神经标记物的个体化催眠
 
@@ -206,14 +225,23 @@
 > 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
 
 - Hoeft, F., et al. (2012). Functional brain basis of hypnotizability. *Archives of General Psychiatry*, 69(10), 1064-1072.
+
 - Jiang, H., White, M.P., Greicius, M.D., Waelde, L.C., & Spiegel, D. (2017). Brain activity and functional connectivity associated with hypnosis. *Cerebral Cortex*, 27(3), 1745-1762.
+
 - Oakley, D.A., & Halligan, P.W. (2013). Hypnotic suggestion: Opportunities for cognitive neuroscience. *Nature Reviews Neuroscience*, 14(8), 565-576.
+
 - Rainville, P., et al. (1997). Hypnosis modulates activity in brain structures involved in the regulation of consciousness. *Journal of Cognitive Neuroscience*, 9(1), 1-16.
+
 - Derbyshire, S.W.G., et al. (2004). Cerebral activation during hypnotically suggested and imagined analgesia. *PNAS*, 101(37), 13331-13335.
+
 - McGeown, W.J., Mazzoni, G., Venneri, A., & Kirsch, I. (2009). Hypnotic induction decreases anterior default mode activity. *Consciousness and Cognition*, 18(3), 848-855.
+
 - Jensen, S.M., Barabasz, A., Barabasz, M., & Warner, D. (2001). EEG P300 event-related markers of hypnosis. *American Journal of Clinical Hypnosis*, 44(2), 127-139.
+
 - Faerman, A., Bishop, J.H., Spiegel, D., et al. (2024). SHIFT: a preregistered randomized controlled trial of connectivity-targeted TMS to increase hypnotizability. *Nature Mental Health*.
+
 - Perri, R.L., Donato, M.A., & Di Filippo, G. (2024). Non-invasive brain stimulation (NIBS), hypnosis, and hypnotizability: Literature review and future directions. *International Journal of Clinical and Experimental Hypnosis*, 72(4), 371-384.
+
 - Landry, M., Lifshitz, M., & Raz, A. (2017). Brain correlates of hypnosis: A systematic review and meta-analytic exploration. *Neuroscience & Biobehavioral Reviews*, 81, 75-98.
 
 ## 实践思考
@@ -226,9 +254,13 @@
 ## 未来研究方向
 
 1. **大规模队列研究**：建立催眠神经影像的大型数据库
+
 2. **纵向研究**：追踪催眠训练对脑结构和功能的长期影响
+
 3. **多模态整合**：结合fMRI、EEG、基因等多层面数据
+
 4. **临床转化**：将神经影像发现转化为临床工具
+
 5. **个体化方案**：基于神经标记物的精准催眠
 
 ---
@@ -273,7 +305,9 @@ EEG微状态分析将连续EEG信号分解为若干准稳定拓扑图（微状�
 
 **微状态分析的方法学要点：**
 - 催眠态与清醒态的微状态参数对比
+
 - 微状态转换动力学与暗示响应能力的关系
+
 - 与源定位方法结合，提高空间解释力
 
 ### 19.9.4 多模态融合方法在催眠研究中的进展
@@ -307,8 +341,11 @@ EEG微状态分析将连续EEG信号分解为若干准稳定拓扑图（微状�
 机器学习方法（SVM、随机森林、深度神经网络、图神经网络等）被用于从脑影像数据预测催眠感受性与催眠深度。方法学上需要关注：
 
 - **过拟合风险**：影像特征维度高、催眠样本量小，内部交叉验证易高估性能
+
 - **外部验证缺失**：跨样本、跨设备的泛化能力普遍未经检验
+
 - **可解释性**：Grad-CAM等归因方法可用于揭示模型关注的脑区，但不能替代机制验证
+
 - **多模态融合**：结构+功能+弥散影像的互补信息可能提高预测精度，但数据需求更高
 
 各算法的具体准确率与AUC因缺乏可靠文献来源，不予引用。
@@ -379,7 +416,9 @@ EEG微状态分析将连续EEG信号分解为若干准稳定拓扑图（微状�
 ### 19.10.2 影像技术临床转化的可能路径
 
 - **筛选-增强-验证闭环**：以影像/脑电指标筛选适合人群，以神经反馈或脑刺激增强低感受性者的暗示反应，再以客观指标验证疗效。
+
 - **治疗过程质控**：便携成像（如fNIRS）有望作为“治疗过程质控”工具，帮助优化诱导话术与暗示节奏。
+
 - **疗效预测**：治疗前脑电/影像特征对疗效的预测价值值得研究，但目前尚无可临床应用的可靠模型。
 
 ### 19.10.3 影像技术临床转化案例（情景示例）
