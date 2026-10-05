@@ -12,7 +12,11 @@
     "chapter_files": "chapters/",
     "appendices": 57,
     "appendix_dir": "appendix/",
-    "modules": ["case-studies/", "scripts/", "exercises/"]
+    "modules": [
+      "case-studies/",
+      "scripts/",
+      "exercises/"
+    ]
   },
   "guides": {
     "action": "ACTION-GUIDE.md",
@@ -29,5 +33,12 @@
     "evidence_audit": "references/verification-status.md",
     "answer_keys": "references/练习题参考答案.md"
   },
-  "notes": "教学案例为改编示例；引文经2026-09全书审计，仅保留可核实文献。"
+  "notes": "教学案例为改编示例；引文经2026-09全书审计，仅保留可核实文献。",
+  "stats": {
+    "md_files": 97,
+    "appendix_files": 57,
+    "cjk_chars": 593295,
+    "chapters": 23,
+    "guides": 5
+  }
 }
