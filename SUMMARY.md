@@ -2,6 +2,10 @@
 
 > 本书的完整文件目录，按阅读顺序组织。可直接用于 GitBook / Docsify 等平台发布。
 
+## 前言
+
+- [前言（成书说明）](PREFACE.md)
+
 ## 使用指引
 
 - [README：全书导览](README.md)

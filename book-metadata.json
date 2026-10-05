@@ -1,0 +1,33 @@
+{
+  "title": "专业催眠学：理论、技术与实战",
+  "title_en": "Professional Hypnosis: Theory, Technique & Practice",
+  "language": "zh-CN",
+  "version": "1.2.17",
+  "updated": "2026-10-05",
+  "license": "CC BY-NC-SA 4.0",
+  "license_file": "LICENSE.md",
+  "disclaimer": "DISCLAIMER.md",
+  "structure": {
+    "chapters": 23,
+    "chapter_files": "chapters/",
+    "appendices": 57,
+    "appendix_dir": "appendix/",
+    "modules": ["case-studies/", "scripts/", "exercises/"]
+  },
+  "guides": {
+    "action": "ACTION-GUIDE.md",
+    "examples": "EXAMPLES.md",
+    "depth": "DEPTH-GUIDE.md",
+    "teaching": "TEACHING-GUIDE.md",
+    "summary": "CORE-SUMMARY.md",
+    "toc": "SUMMARY.md"
+  },
+  "quality": {
+    "style_guide": "references/编辑规范.md",
+    "checker": "tools/quality-check.py",
+    "ci": ".github/workflows/quality.yml",
+    "evidence_audit": "references/verification-status.md",
+    "answer_keys": "references/练习题参考答案.md"
+  },
+  "notes": "教学案例为改编示例；引文经2026-09全书审计，仅保留可核实文献。"
+}

@@ -125,6 +125,32 @@ def check_terms():
                 problems.append(f'[术语] {rel}: "{bad}" x{n}（应为「{good}」）')
 
 
+def check_stats():
+    """README 内容统计 vs 实测：防统计漂移"""
+    import json
+    readme = open(os.path.join(ROOT, 'README.md'), encoding='utf-8').read()
+    n_md = 0
+    cjk = 0
+    n_app = len([f for f in os.listdir(os.path.join(ROOT, 'appendix')) if f.endswith('.md')])
+    for dp, dn, fn in os.walk(ROOT):
+        rel_parts = os.path.relpath(dp, ROOT).split(os.sep)
+        if any(x in rel_parts for x in ('.git', '.openclaw', 'tools', '.github')):
+            continue
+        for f in fn:
+            if f.endswith('.md'):
+                n_md += 1
+                cjk += sum(1 for ch in open(os.path.join(dp, f), encoding='utf-8').read() if '\u4e00' <= ch <= '\u9fff')
+    m = re.search(r'\| 总文件数 \| (\d+) 个 \|', readme)
+    if m and int(m.group(1)) != n_md:
+        problems.append(f'[统计] README 总文件数 {m.group(1)} ≠ 实测 {n_md}')
+    m = re.search(r'\| 总字数 \| ~(\d+) 万字 \|', readme)
+    if m and abs(int(m.group(1)) - round(cjk / 10000)) > 1:
+        problems.append(f'[统计] README 总字数 {m.group(1)}万 ≠ 实测 {round(cjk/10000)}万')
+    m = re.search(r'\| 附录 \| (\d+) 个 \|', readme)
+    if m and int(m.group(1)) != n_app:
+        problems.append(f'[统计] README 附录 {m.group(1)} ≠ 实测 {n_app}')
+
+
 def check_template():
     d = os.path.join(ROOT, 'chapters')
     for f in sorted(os.listdir(d)):
@@ -145,6 +171,7 @@ def main():
         check_refs()
         check_terms()
         check_template()
+        check_stats()
     if problems:
         print(f'❌ 发现 {len(problems)} 项问题：')
         for x in problems:
