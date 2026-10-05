@@ -245,6 +245,8 @@
 - Koch, S. C., et al. (2014). Effects of dance movement therapy and dance on health-related psychological outcomes. *The Arts in Psychotherapy*, *41*(1), 46–64.
 - Bradt, J., Dileo, C., & Shim, M. (2013). Music interventions for preoperative anxiety. *Cochrane Database of Systematic Reviews*, (6).
 
+> 相关主题检索：附录J（主题交叉引用索引）｜附录L（全书索引）
+
 ---
 
 [← 返回目录](../README.md)
