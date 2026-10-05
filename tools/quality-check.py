@@ -146,6 +146,13 @@ def check_stats():
     m = re.search(r'\| 总字数 \| ~(\d+) 万字 \|', readme)
     if m and abs(int(m.group(1)) - round(cjk / 10000)) > 1:
         problems.append(f'[统计] README 总字数 {m.group(1)}万 ≠ 实测 {round(cjk/10000)}万')
+    meta = json.load(open(os.path.join(ROOT, 'book-metadata.json'), encoding='utf-8'))
+    mv = re.search(r'\*版本：(v[\d.]+)', readme)
+    if mv and meta.get('version') != mv.group(1).lstrip('v'):
+        problems.append(f"[统计] metadata 版本 {meta.get('version')} ≠ README {mv.group(1)}")
+    dm = re.search(r'\*版本：(v[\d.]+)', open(os.path.join(ROOT, 'DISCLAIMER.md'), encoding='utf-8').read())
+    if mv and dm and dm.group(1) != mv.group(1):
+        problems.append(f"[统计] DISCLAIMER 版本 {dm.group(1)} ≠ README {mv.group(1)}")
     m = re.search(r'\| 附录 \| (\d+) 个 \|', readme)
     if m and int(m.group(1)) != n_app:
         problems.append(f'[统计] README 附录 {m.group(1)} ≠ 实测 {n_app}')
