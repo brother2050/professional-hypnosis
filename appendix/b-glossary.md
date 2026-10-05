@@ -589,7 +589,7 @@ AI提供建议、人类做最终决策的协作模式，是AI辅助催眠的安�
 **Mesmer, Franz Anton（梅斯梅尔）**
 动物磁力理论的创始人。
 
-**Mesmerism / Animal Magnetism（麦斯默主义 / 动物磁力）**
+**Mesmerism / Animal Magnetism（梅斯梅尔主义 / 动物磁力）**
 以弥漫性"磁性流体"解释疗愈的早期理论与实践。已废弃的理论概念，属于催眠史前史。
 
 **Metaphor（隐喻，含隐喻暗示 metaphorical suggestion）**
