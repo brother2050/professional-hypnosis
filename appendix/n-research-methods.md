@@ -226,7 +226,7 @@
 - Cochrane Handbook for Systematic Reviews of Interventions
 - CONSORT 2010 Statement （RCT报告标准）
 - GRADE Working Group. (2013). *Handbook for grading the quality of evidence*.
-- Patterson, D. R., & Jensen, M. P. (2003). Hypnosis and clinical pain. *Psychological Bulletin*, *129*(4), 495–521.
+- Patterson, D. R., & Jensen, M. P. (2003). Hypnosis and clinical pain. *Psychological Bulletin*, *129*(4), 495-521.
 
 ---
 

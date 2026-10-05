@@ -28,14 +28,14 @@ ENS 的关键特征包括：
 
 迷走神经（第 X 对脑神经）是脑肠轴中信息流量最大的通路：
 
-- **传入纤维（约 80–90%）**：其胞体位于结状神经节与颈静脉节，中枢端终止于孤束核（nucleus tractus solitarius, NTS）。NTS 再投射至臂旁核、下丘脑（室旁核、弓状核）、杏仁核、岛叶皮层与前扣带回——即内感受（interoception）与情绪处理的核心网络。
-- **传出纤维（约 10–20%）**：主要为节前副交感胆碱能纤维，其中一部分为**胆碱能抗炎通路（cholinergic anti-inflammatory pathway）**的组成部分，通过释放乙酰胆碱作用于巨噬细胞表面的 α7nAChR，抑制 TNF-α、IL-1β、IL-6 等促炎细胞因子的释放。
+- **传入纤维（约 80-90%）**：其胞体位于结状神经节与颈静脉节，中枢端终止于孤束核（nucleus tractus solitarius, NTS）。NTS 再投射至臂旁核、下丘脑（室旁核、弓状核）、杏仁核、岛叶皮层与前扣带回——即内感受（interoception）与情绪处理的核心网络。
+- **传出纤维（约 10-20%）**：主要为节前副交感胆碱能纤维，其中一部分为**胆碱能抗炎通路（cholinergic anti-inflammatory pathway）**的组成部分，通过释放乙酰胆碱作用于巨噬细胞表面的 α7nAChR，抑制 TNF-α、IL-1β、IL-6 等促炎细胞因子的释放。
 
 这一解剖学事实具有直接的临床意义：**任何通过迷走神经张力（vagal tone）增强副交感活动的干预，都可能同时降低内脏高敏感、改善胃肠动力并抑制全身性低度炎症**。心率变异性（HRV）中的高频成分（HF-HRV）与呼吸性窦性心律不齐（RSA）被视为迷走张力的非侵入性指标，GDH 治疗后 HF-HRV 的升高已在多项研究中被观察到。
 
 ### 1.3 肠道微生物组：网络中的「虚拟器官」
 
-人体肠道定植约 **10^13–10^14 个微生物**，基因数量是人类基因组的 100 倍以上。肠道菌群通过以下机制参与脑肠轴：
+人体肠道定植约 **10^13-10^14 个微生物**，基因数量是人类基因组的 100 倍以上。肠道菌群通过以下机制参与脑肠轴：
 
 1. **神经递质合成**：某些菌株（如 *Lactobacillus*、*Bifidobacterium*）可合成 GABA；*Escherichia*、*Bacillus* 合成多巴胺与去甲肾上腺素；多种菌参与色氨酸-5-HT 代谢。但需注意：**绝大部分微生物合成的神经递质不直接穿越血脑屏障**，其对中枢的影响主要通过迷走传入、免疫信号与代谢物介导。
 2. **短链脂肪酸（SCFA）**：丁酸、丙酸、乙酸由膳食纤维经菌群发酵产生，调节肠屏障完整性、组蛋白去乙酰化酶（HDAC）活性、小胶质细胞成熟与色氨酸代谢。
@@ -66,7 +66,7 @@ ENS 的关键特征包括：
 催眠状态下最一致的生理改变之一是**交感-副交感平衡向副交感侧移动**：
 
 - HF-HRV 升高、LF/HF 比值下降、皮肤电导下降；
-- 呼吸频率减慢、外周血管扩张（手部皮温上升常达 1–3°C）；
+- 呼吸频率减慢、外周血管扩张（手部皮温上升常达 1-3°C）；
 - 对应激性心理任务（Trier 社会应激测试、Stroop 任务）的皮质醇与心率反应钝化。
 
 在肠道层面，副交感优势对应：**消化液分泌正常化、胃窦与结肠推进性蠕动恢复、内脏平滑肌张力下降、内脏痛阈升高**。GDH 中的“温暖的手放在腹部”意象（见第六节脚本）即是通过躯体感觉-自主神经耦合，将暗示的镇静效应锚定于内脏区域。
@@ -138,7 +138,7 @@ GDH 是 IBS 心理治疗中证据最强的手段：
 - **成人 vs 儿童**：儿童青少年 IBS/功能性腹痛的证据同样积极（如 Rutten 等的远程/数字化 GDH 试验），多数研究报告较高的治疗反应率。
 - **给药形式**：个别治疗、小组治疗、远程（音频/网络/App）模式均有效；数字化 GDH（如 Nerva、Regulora 等产品）在真实世界中报告的完成率与获益率与面对面模式接近，是扩大可及性的关键方向。
 
-**疗效维度**：腹痛频率与强度、腹胀、排便急迫与不规则、疲劳、焦虑抑郁共病、生活质量、就医与用药减少。疗效通常在 6–12 周疗程后达到平台，部分患者在治疗结束后 3–6 个月进一步改善（“延迟获益”现象）。
+**疗效维度**：腹痛频率与强度、腹胀、排便急迫与不规则、疲劳、焦虑抑郁共病、生活质量、就医与用药减少。疗效通常在 6-12 周疗程后达到平台，部分患者在治疗结束后 3-6 个月进一步改善（“延迟获益”现象）。
 
 ### 4.2 炎症性肠病（IBD）
 
@@ -215,7 +215,7 @@ FAPS/中枢介导的胃肠疼痛（disorders of gut-brain interaction 的高敏�
 
 - **医学评估**：确认诊断（罗马 IV/罗马 IV 更新版 DGBI 标准），排除报警征象（消瘦、便血、贫血、夜间症状、发热、家族史、新发症状 >50 岁），完成必要的内镜/影像与炎症指标。
 - **心理评估**：PHQ-9、GAD-7、躯体症状量表、催眠感受性简测（HGSHS:A 或自评易感性）、述情障碍量表（TAS-20）、童年创伤筛查（安全筛查用）。
-- **基线数据**：症状日记（腹痛 0–10 分、腹胀、排便 Bristol 分型与频率、生活质量 IBS-QOL）、HRV 基线、用药记录。
+- **基线数据**：症状日记（腹痛 0-10 分、腹胀、排便 Bristol 分型与频率、生活质量 IBS-QOL）、HRV 基线、用药记录。
 - **共同设定目标**：例如"12 周内腹痛天数减少 50%"“停用或减量急救用药”“恢复社交用餐”。
 
 ### 6.2 疗程结构
@@ -223,18 +223,18 @@ FAPS/中枢介导的胃肠疼痛（disorders of gut-brain interaction 的高敏�
 | 阶段 | 周次 | 内容 | 家庭练习 |
 |------|------|------|----------|
 | 建构期 | 1 | 心理教育、脑肠轴图解、催眠示范、目标设定 | 自我催眠音频 15 分钟/日 |
-| 核心期 | 2–5 | 肠道定向意象：温暖、抚平、宽阔河流、屏障修复 | 每日 20 分钟，症状记录 |
-| 强化期 | 6–9 | 症状特异暗示、抗敏化、情绪-肠道链接处理 | 触发情境前短版练习 |
-| 巩固期 | 10–12 | 自我效能、复发预防、独立自导练习 | 按需练习，长期自助 |
+| 核心期 | 2-5 | 肠道定向意象：温暖、抚平、宽阔河流、屏障修复 | 每日 20 分钟，症状记录 |
+| 强化期 | 6-9 | 症状特异暗示、抗敏化、情绪-肠道链接处理 | 触发情境前短版练习 |
+| 巩固期 | 10-12 | 自我效能、复发预防、独立自导练习 | 按需练习，长期自助 |
 | 随访 | 3、6、12 月 | 疗效维持评估、强化课 | 维持性练习 |
 
-**每次会谈结构（50–60 分钟）**：症状回顾与日记复习（10 分钟）→ 现实问题讨论与认知重构（10 分钟）→ 催眠诱导与肠道定向干预（25–30 分钟）→ 唤醒、讨论、家庭作业布置（5–10 分钟）。
+**每次会谈结构（50-60 分钟）**：症状回顾与日记复习（10 分钟）→ 现实问题讨论与认知重构（10 分钟）→ 催眠诱导与肠道定向干预（25-30 分钟）→ 唤醒、讨论、家庭作业布置（5-10 分钟）。
 
-**形式选择**：个别、小组（6–10 人，同样有效且具成本效益）、远程视频、或数字化音频程序配合阶段性会谈；对儿童需使用发展适配的语言与意象（如“肚子里的小火炉”“让小船在肚子里慢慢漂流”）。
+**形式选择**：个别、小组（6-10 人，同样有效且具成本效益）、远程视频、或数字化音频程序配合阶段性会谈；对儿童需使用发展适配的语言与意象（如“肚子里的小火炉”“让小船在肚子里慢慢漂流”）。
 
-### 6.3 标准催眠脚本（完整版，约 25–30 分钟）
+### 6.3 标准催眠脚本（完整版，约 25-30 分钟）
 
-> **使用说明**：以下脚本为治疗师朗读模板，可用录音制作家庭练习音频。朗读时语速放慢、句间留白 3–5 秒、"……"处更长停顿；带 *标记处可结合患者个体化意象替换。脚本内容为临床参考，实施前应接受正规催眠训练与督导。
+> **使用说明**：以下脚本为治疗师朗读模板，可用录音制作家庭练习音频。朗读时语速放慢、句间留白 3-5 秒、"……"处更长停顿；带 *标记处可结合患者个体化意象替换。脚本内容为临床参考，实施前应接受正规催眠训练与督导。
 
 #### 第一部分：诱导（约 5 分钟）
 
@@ -296,9 +296,9 @@ FAPS/中枢介导的胃肠疼痛（disorders of gut-brain interaction 的高敏�
 
 欢迎回来。"
 
-### 6.4 简版日常练习脚本（5–8 分钟，用于复发预防与急救）
+### 6.4 简版日常练习脚本（5-8 分钟，用于复发预防与急救）
 
-"（三口深呼吸）……温暖的双手放在腹部……吸气，把宁静吸进来……呼气，把紧张呼出去……想象温暖的水流过你的肠道……宽阔、平静、顺畅……肠道的肌肉一层一层松开……疼痛与不适，像风一样吹远……大脑说：安全……肠道说：平静……（停留 2–3 分钟意象）……做三次深呼吸……睁开眼睛，继续。"
+"（三口深呼吸）……温暖的双手放在腹部……吸气，把宁静吸进来……呼气，把紧张呼出去……想象温暖的水流过你的肠道……宽阔、平静、顺畅……肠道的肌肉一层一层松开……疼痛与不适，像风一样吹远……大脑说：安全……肠道说：平静……（停留 2-3 分钟意象）……做三次深呼吸……睁开眼睛，继续。"
 
 **触发情境前使用**（如重要会议、外出就餐、通勤前）：30 秒“手放腹部 + 一口深呼吸 + '温暖、宽阔、平静'三个关键词”的**微型锚定技术**。
 
@@ -331,9 +331,9 @@ DGBI 患者常陷入“吃了→不舒服→恐惧该食物→饮食范围缩小
 
 ### 7.3 饮食-催眠联合路径（推荐）
 
-**第 1–4 周**：不做严格排除饮食，仅做催眠 + 正念进食训练，观察症状-饮食日志的相关性；
-**第 5–8 周**：若需要，在营养师指导下进行低 FODMAP 或针对性排除（如乳糖、果糖、咖啡因、酒精）；
-**第 9–12 周**：催眠辅助下的逐项再引入，目标是**最大化的饮食多样性**，避免长期限制；
+**第 1-4 周**：不做严格排除饮食，仅做催眠 + 正念进食训练，观察症状-饮食日志的相关性；
+**第 5-8 周**：若需要，在营养师指导下进行低 FODMAP 或针对性排除（如乳糖、果糖、咖啡因、酒精）；
+**第 9-12 周**：催眠辅助下的逐项再引入，目标是**最大化的饮食多样性**，避免长期限制；
 **全程**：GDH 处理食物恐惧与预期性症状，监测焦虑与饮食失调筛查指标。
 
 ---
@@ -388,21 +388,21 @@ App 驱动的 GDH（如 Regulora、Nerva、Mahana-IBS 等）已获部分监管�
 
 ## 参考文献（代表性）
 
-1. Whorwell PJ, Prior A, Faragher EB. Controlled trial of hypnotherapy in the treatment of severe refractory irritable bowel syndrome. *Lancet*. 1984;2:1232–1234.
-2. Lindfors P, Unge P, Nyhlin H, et al. Long-term effects of hypnotherapy in patients with refractory irritable bowel syndrome. *Scand J Gastroenterol*. 2012;47:414–420.
-3. Peters SL, Yao CK, Philpott H, et al. Randomised clinical trial: the efficacy of gut-directed hypnotherapy is similar to that of the low FODMAP diet for the treatment of irritable bowel syndrome. *Aliment Pharmacol Ther*. 2016;44:447–459.
-4. Gonsalkorale WM, Houghton LA, Whorwell PJ. Hypnotherapy in irritable bowel syndrome: a large-scale audit of a clinical service with examination of factors influencing responsiveness. *Am J Gastroenterol*. 2002;97:954–961.
-5. Lowén MBO, Mayer EA, Sjöberg M, et al. Effect of hypnotherapy and educational intervention on brain response to visceral stimuli in irritable bowel syndrome. *Aliment Pharmacol Ther*. 2013;37:1184–1197.
-6. Palsson OS. Standardized hypnosis treatment for irritable bowel syndrome: the North Carolina protocol. *Int J Clin Exp Hypn*. 2006;54:51–64.
-7. Keefer L, Keshavarzian A. Feasibility and acceptability of gut-directed hypnosis on inflammatory bowel disease. *Int J Clin Exp Hypn*. 2007;55(4):457–466.
-8. Mayer EA, Naliboff BD, Craig AD. Neuroimaging of the brain-gut axis: from basic understanding to treatment of functional GI disorders. *Gastroenterology*. 2006;131:1925–1942.
-9. Cryan JF, Dinan TG. Mind-altering microorganisms: the impact of the gut microbiota on brain and behaviour. *Nat Rev Neurosci*. 2012;13:701–712.
-10. Tracey KJ. The inflammatory reflex. *Nature*. 2002;420:853–859.
-11. Miller V, Whorwell PJ. Hypnotherapy for functional gastrointestinal disorders: a review. *Int J Clin Exp Hypn*. 2009;57(3):279–292.
-12. Lövdahl J, Törnblom H, Ringström G, Palsson OS, Simrén M. Randomised clinical trial: individual versus group hypnotherapy for irritable bowel syndrome. *Aliment Pharmacol Ther*. 2022;55(12):1501–1511.
-13. Lövdahl J, Ringström G, Agerforz P, Törnblom H, Simrén M. Nurse-administered, gut-directed hypnotherapy in IBS: efficacy and factors predicting a positive response. *Am J Clin Hypn*. 2015;58(1):100–114.
-14. Drossman DA. Functional gastrointestinal disorders: history, pathophysiology, clinical features, and Rome IV. *Gastroenterology*. 2016;150:1262–1279.
-15. Miller V, Carruthers HR, Morris J, et al. Hypnotherapy for irritable bowel syndrome: an audit of one thousand adult patients. *Aliment Pharmacol Ther*. 2015;41:844–855.
+1. Whorwell PJ, Prior A, Faragher EB. Controlled trial of hypnotherapy in the treatment of severe refractory irritable bowel syndrome. *Lancet*. 1984;2:1232-1234.
+2. Lindfors P, Unge P, Nyhlin H, et al. Long-term effects of hypnotherapy in patients with refractory irritable bowel syndrome. *Scand J Gastroenterol*. 2012;47:414-420.
+3. Peters SL, Yao CK, Philpott H, et al. Randomised clinical trial: the efficacy of gut-directed hypnotherapy is similar to that of the low FODMAP diet for the treatment of irritable bowel syndrome. *Aliment Pharmacol Ther*. 2016;44:447-459.
+4. Gonsalkorale WM, Houghton LA, Whorwell PJ. Hypnotherapy in irritable bowel syndrome: a large-scale audit of a clinical service with examination of factors influencing responsiveness. *Am J Gastroenterol*. 2002;97:954-961.
+5. Lowén MBO, Mayer EA, Sjöberg M, et al. Effect of hypnotherapy and educational intervention on brain response to visceral stimuli in irritable bowel syndrome. *Aliment Pharmacol Ther*. 2013;37:1184-1197.
+6. Palsson OS. Standardized hypnosis treatment for irritable bowel syndrome: the North Carolina protocol. *Int J Clin Exp Hypn*. 2006;54:51-64.
+7. Keefer L, Keshavarzian A. Feasibility and acceptability of gut-directed hypnosis on inflammatory bowel disease. *Int J Clin Exp Hypn*. 2007;55(4):457-466.
+8. Mayer EA, Naliboff BD, Craig AD. Neuroimaging of the brain-gut axis: from basic understanding to treatment of functional GI disorders. *Gastroenterology*. 2006;131:1925-1942.
+9. Cryan JF, Dinan TG. Mind-altering microorganisms: the impact of the gut microbiota on brain and behaviour. *Nat Rev Neurosci*. 2012;13:701-712.
+10. Tracey KJ. The inflammatory reflex. *Nature*. 2002;420:853-859.
+11. Miller V, Whorwell PJ. Hypnotherapy for functional gastrointestinal disorders: a review. *Int J Clin Exp Hypn*. 2009;57(3):279-292.
+12. Lövdahl J, Törnblom H, Ringström G, Palsson OS, Simrén M. Randomised clinical trial: individual versus group hypnotherapy for irritable bowel syndrome. *Aliment Pharmacol Ther*. 2022;55(12):1501-1511.
+13. Lövdahl J, Ringström G, Agerforz P, Törnblom H, Simrén M. Nurse-administered, gut-directed hypnotherapy in IBS: efficacy and factors predicting a positive response. *Am J Clin Hypn*. 2015;58(1):100-114.
+14. Drossman DA. Functional gastrointestinal disorders: history, pathophysiology, clinical features, and Rome IV. *Gastroenterology*. 2016;150:1262-1279.
+15. Miller V, Carruthers HR, Morris J, et al. Hypnotherapy for irritable bowel syndrome: an audit of one thousand adult patients. *Aliment Pharmacol Ther*. 2015;41:844-855.
 
 ---
 

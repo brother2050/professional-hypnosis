@@ -148,15 +148,15 @@ IFS 催眠工作的典型流程：在催眠/专注状态下识别承载代际情
 
 ### AA.4.3　家庭系统催眠的治疗结构
 
-一次典型的家庭系统催眠会谈（90–120 分钟）结构如下：
+一次典型的家庭系统催眠会谈（90-120 分钟）结构如下：
 
 | 阶段 | 时间 | 内容 | 目标 |
 |---|---|---|---|
-| 1. 系统访谈 | 20–30 分钟 | 三代图谱更新、近期家族事件、症状的系统语境 | 形成系统假设 |
-| 2. 诱导与稳定化 | 10–15 分钟 | 催眠诱导、安全地带、“自我”锚定 | 建立可回返的观察位置 |
-| 3. 系统意象工作 | 30–40 分钟 | 代际圆圈、空椅对话、归还仪式、祖先意象 | 情绪加工与象征性转化 |
-| 4. 再入与整合 | 10–15 分钟 | 唤醒、叙事化、区分事实与意象 | 巩固、防止记忆混淆 |
-| 5. 家庭作业 | 5–10 分钟 | 家族访谈任务（询问长辈）、仪式建议 | 将改变带入现实系统 |
+| 1. 系统访谈 | 20-30 分钟 | 三代图谱更新、近期家族事件、症状的系统语境 | 形成系统假设 |
+| 2. 诱导与稳定化 | 10-15 分钟 | 催眠诱导、安全地带、“自我”锚定 | 建立可回返的观察位置 |
+| 3. 系统意象工作 | 30-40 分钟 | 代际圆圈、空椅对话、归还仪式、祖先意象 | 情绪加工与象征性转化 |
+| 4. 再入与整合 | 10-15 分钟 | 唤醒、叙事化、区分事实与意象 | 巩固、防止记忆混淆 |
+| 5. 家庭作业 | 5-10 分钟 | 家族访谈任务（询问长辈）、仪式建议 | 将改变带入现实系统 |
 
 其中第 4 阶段的“区分事实与意象”是不可省略的伦理技术：治疗师在唤醒后须明确邀请来访者复述“哪些是你事先知道的家族事实，哪些是刚才意象中出现的”，并在记录中分栏书写。
 
@@ -170,7 +170,7 @@ IFS 催眠工作的典型流程：在催眠/专注状态下识别承载代际情
 
 **背景**：H 女士，34 岁，高校教师。因“每逢冬天傍晚出现强烈恐慌”就诊，精神科诊断惊恐障碍，药物疗效有限。家族史：外祖母为大屠杀幸存者，晚年长期失眠与“黄昏时分的恐惧”；母亲为幸存者子女，一生回避谈论战争。
 
-**干预**：12 次催眠治疗。前 3 次为稳定化与安全地带训练；第 4–6 次在催眠中进行“代际圆圈”工作——H 在意象中以外祖母、母亲、自己的三圈结构观察“恐惧的传递”，治疗师反复使用非断言性语言：“你此刻的意象里，外祖母是这样站着的——这不一定是真实的样子，这是你内在的家族图景。”第 7–9 次进行“归还仪式”：H 在意象中将一份“黄昏的恐惧”双手递还外祖母，同时保留一份“爱与哀悼”给自己。第 10–12 次整合，并鼓励 H 真实采访母亲（家族作业），将母亲口述的家族史与催眠意象分栏记录。
+**干预**：12 次催眠治疗。前 3 次为稳定化与安全地带训练；第 4-6 次在催眠中进行“代际圆圈”工作——H 在意象中以外祖母、母亲、自己的三圈结构观察“恐惧的传递”，治疗师反复使用非断言性语言：“你此刻的意象里，外祖母是这样站着的——这不一定是真实的样子，这是你内在的家族图景。”第 7-9 次进行“归还仪式”：H 在意象中将一份“黄昏的恐惧”双手递还外祖母，同时保留一份“爱与哀悼”给自己。第 10-12 次整合，并鼓励 H 真实采访母亲（家族作业），将母亲口述的家族史与催眠意象分栏记录。
 
 **结果**：恐慌发作频率下降（自我报告减少约 70%），冬季傍晚可正常活动；更重要的是 H 与母亲完成了首次关于战争的长谈，母亲的叙事出现连贯化迹象。**要点**：意象工作需与真实家族访谈并行，用现实信息校正象征工作，防止象征固化为“记忆”。
 
@@ -258,17 +258,17 @@ IFS 催眠工作的典型流程：在催眠/专注状态下识别承载代际情
 
 ## 参考文献（精选）
 
-1. Bowlby, J. (1969/1982). *Attachment and Loss* (Vols. 1–2). Basic Books.
+1. Bowlby, J. (1969/1982). *Attachment and Loss* (Vols. 1-2). Basic Books.
 2. Cottrell, E. C., & Seckl, J. R. (2009). Prenatal stress, glucocorticoids and the programming of adult disease. *Frontiers in Behavioral Neuroscience*, 3, 19.
-3. Creswell, J. D., et al. (2012). Mindfulness-Based Stress Reduction training reduces loneliness and pro-inflammatory gene expression in older adults: A small randomized controlled trial. *Brain, Behavior, and Immunity*, 26, 1095–1101.
-4. Dias, B. G., & Ressler, K. J. (2014). Parental olfactory experience influences behavior and neural structure in subsequent generations. *Nature Neuroscience*, 17(1), 89–96.
-5. Fonagy, P., Steele, H., & Steele, M. (1991). Maternal representations of attachment during pregnancy predict infant-mother attachment. *Child Development*, 62(5), 891–905.
-6. Heijmans, B. T., et al. (2008). Persistent epigenetic differences associated with prenatal exposure to famine. *PNAS*, 105(44), 17046–17049.
+3. Creswell, J. D., et al. (2012). Mindfulness-Based Stress Reduction training reduces loneliness and pro-inflammatory gene expression in older adults: A small randomized controlled trial. *Brain, Behavior, and Immunity*, 26, 1095-1101.
+4. Dias, B. G., & Ressler, K. J. (2014). Parental olfactory experience influences behavior and neural structure in subsequent generations. *Nature Neuroscience*, 17(1), 89-96.
+5. Fonagy, P., Steele, H., & Steele, M. (1991). Maternal representations of attachment during pregnancy predict infant-mother attachment. *Child Development*, 62(5), 891-905.
+6. Heijmans, B. T., et al. (2008). Persistent epigenetic differences associated with prenatal exposure to famine. *PNAS*, 105(44), 17046-17049.
 7. Main, M., & Hesse, E. (1990). Parents' unresolved traumatic experiences are related to infant disorganized attachment status. In M. Greenberg et al. (Eds.), *Attachment in the Preschool Years*. University of Chicago Press.
 8. Rakoff, V. (1966). A multiple family group as part of an after-care program. *Canadian Psychiatric Association Journal*.
 9. Schwartz, R. C. (2021). *No Bad Parts: Healing Trauma and Restoring Wholeness with IFS*. Sounds True.
-10. van IJzendoorn, M. H. (1995). Adult attachment representations, parental responsiveness, and infant attachment: A meta-analysis. *Psychological Bulletin*, 117(3), 387–403.
-11. Yehuda, R., et al. (2016). Holocaust exposure induced intergenerational effects on FKBP5 methylation. *Biological Psychiatry*, 80(5), 372–380.
+10. van IJzendoorn, M. H. (1995). Adult attachment representations, parental responsiveness, and infant attachment: A meta-analysis. *Psychological Bulletin*, 117(3), 387-403.
+11. Yehuda, R., et al. (2016). Holocaust exposure induced intergenerational effects on FKBP5 methylation. *Biological Psychiatry*, 80(5), 372-380.
 12. Yapko, M. D. (2012). *Trancework: An Introduction to the Practice of Clinical Hypnosis* (4th ed.). Routledge.
 13. 国际催眠学会（ISH）伦理委员会：《催眠实践伦理指南》相关章节：记忆与暗示性。（引用前请核实具体版本与年份）
 

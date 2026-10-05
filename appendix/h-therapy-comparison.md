@@ -158,9 +158,9 @@
 ## 参考文献
 
 - Alladin, A. (2016). *Cognitive hypnotherapy*. Wiley.
-- Kirsch, I., Montgomery, G., & Sapirstein, G. (1995). Hypnosis as an adjunct to cognitive-behavioral psychotherapy: A meta-analysis. *Journal of Consulting and Clinical Psychology*, *63*(2), 214–220.
+- Kirsch, I., Montgomery, G., & Sapirstein, G. (1995). Hypnosis as an adjunct to cognitive-behavioral psychotherapy: A meta-analysis. *Journal of Consulting and Clinical Psychology*, *63*(2), 214-220.
 - Yapko, M. D. (2012). *Trancework* (4th ed.). Routledge.
-- Patterson, D. R., & Jensen, M. P. (2003). Hypnosis and clinical pain. *Psychological Bulletin*, *129*(4), 495–521.
+- Patterson, D. R., & Jensen, M. P. (2003). Hypnosis and clinical pain. *Psychological Bulletin*, *129*(4), 495-521.
 
 ---
 
@@ -242,7 +242,7 @@
 ## 参考文献（补充）
 
 - Malchiodi, C. A. (2012). *Handbook of art therapy* (2nd ed.). Guilford Press.
-- Koch, S. C., et al. (2014). Effects of dance movement therapy and dance on health-related psychological outcomes. *The Arts in Psychotherapy*, *41*(1), 46–64.
+- Koch, S. C., et al. (2014). Effects of dance movement therapy and dance on health-related psychological outcomes. *The Arts in Psychotherapy*, *41*(1), 46-64.
 - Bradt, J., Dileo, C., & Shim, M. (2013). Music interventions for preoperative anxiety. *Cochrane Database of Systematic Reviews*, (6).
 
 > 相关主题检索：附录J（主题交叉引用索引）｜附录L（全书索引）
