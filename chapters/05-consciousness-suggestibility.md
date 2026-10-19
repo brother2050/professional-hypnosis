@@ -6,8 +6,11 @@
 > - **催眠感受性**：呈正态分布，约10-15%为高感受性，与智力和意志力无关，跨时间高度稳定
 > - **感受性测量**：SHSS:C是金标准（12项目，0-12分），HGSHS:A适合团体筛查
 > - **可提升性**：通过想象训练、正念冥想、自我催眠练习可适度提升感受性
+> - **场景关键词**：意识状态｜暗示机制｜催眠感受性｜SHSS:C｜个体差异｜感受性评估
 
 ---
+
+> **🔗 前后衔接**：前置：[第4章](04-psychological-models.md)的理论视角；本篇解决：意识、暗示、催眠感受性三个核心概念与测量；深入：按感受性选诱导见[第6章](06-induction-techniques.md)，暗示怎么写见[第8章](08-suggestion-design.md)。
 
 ## 5.1 意识的层次与催眠
 
@@ -87,7 +90,7 @@
 | 类型 | 特征 | 示例 |
 |------|------|------|
 | 直接暗示 | 明确、具体、指令性 | “你的眼皮越来越重” |
-| 间接暗示 | 隐含、灵活、非指令性 | “你可能会注意到一种放松的感觉” |
+| 间接暗示 | 隐含、给选择余地、非指令性 | “你可能会注意到一种放松的感觉” |
 | 隐喻暗示 | 通过故事或比喻传递 | “就像一棵树在微风中轻轻摇摆” |
 
 **按内容分类：**
@@ -231,13 +234,13 @@
 
 ### 5.3.4 催眠感受性的提升策略
 
-**认知训练方法：**
+**认知训练方法（自己就能安排，每周3次以上，跟健身一个节奏）：**
 
-1. **想象训练**：通过系统训练增强心理表象能力
+1. **想象训练**：每天10分钟，先盯一件熟悉物品（自家水杯、常用键盘）想出它的形状、颜色、触感，再想象一段从单位走回家的路；进步判据：能想起的细节比第一周多
 
-2. **正念冥想**：培养注意力专注和觉察能力
+2. **正念冥想**：每天10-15分钟，只观察呼吸，走神了再拉回来；进步判据：走神后能察觉并拉回的次数变多，而不是“完全不走神”
 
-3. **自我催眠练习**：通过反复练习熟悉催眠体验
+3. **自我催眠练习**：用同一段固定脚本（见[第10章](10-self-hypnosis.md)），每周3次，记录“身体发沉、不想动”出现需要几分钟
 
 **脑刺激方法：**
 
@@ -249,11 +252,11 @@
 
 **情境优化方法：**
 
-1. **建立信任关系**：增强催眠师-来访者信任
+1. **建立信任关系**：首次会谈先花10分钟了解来访者的顾虑，回答到他能点头为止，再谈催眠
 
-2. **调整期望**：积极的期望可以增强反应
+2. **调整期望**：诱导前用3分钟讲清楚常见反应（发沉、发热、走神、没感觉都正常），只承诺过程不承诺效果
 
-3. **选择合适环境**：安静、舒适、安全的环境
+3. **选择合适环境**：安静、门可关、手机静音、室温约22-26℃、灯光偏暗
 
 ## 5.4 暗示感受性与催眠感受性的区分
 
@@ -295,7 +298,7 @@
 
 - 前额叶-扣带回连接强度与感受性相关
 
-- 高感受性个体的脑网络可能更灵活
+- 高感受性个体的脑网络可变性可能更高
 
 ### 5.5.3 基因因素
 
@@ -317,7 +320,7 @@
 
 - Lynn, S.J., et al. (2020). *Hypnosis, Imagination, and Human Potential*. Routledge.
 
-- Jensen, M.P., Jamieson, G.A., Lutz, A., et al. (2017). New directions in hypnosis research: strategies for advancing the cognitive and clinical neuroscience of hypnosis. *Neuroscience of Consciousness*, 2017(1), nix004.
+- Jensen, M.P., Jamieson, G.A., Lutz, A., et al. (2017). New directions in hypnosis research： strategies for advancing the cognitive and clinical neuroscience of hypnosis. *Neuroscience of Consciousness*， 2017(1), nix004.
 
 ---
 
@@ -334,7 +337,7 @@
 
 ### 5.6.3 感受性与意识状态的动态关系
 
-EEG微状态分析、功能连接动态性等方法被用于刻画催眠过程中意识状态的重组。高感受性个体可能表现出更灵活的脑网络重组能力，但相关指标（微状态时长、状态转换特征等）的可重复性有限、结论尚不一致，属于探索性研究方向。
+EEG微状态分析、功能连接动态性等方法被用于刻画催眠过程中意识状态的重组。高感受性个体可能表现出更强的脑网络重组能力，但相关指标（微状态时长、状态转换特征等）的可重复性有限、结论尚不一致，属于探索性研究方向。
 
 ### 5.6.4 暗示感受性的跨文化研究
 
@@ -373,7 +376,7 @@ EEG微状态分析、功能连接动态性等方法被用于刻画催眠过程�
 - 患者报告日常生活功能显著改善
 - 6个月随访效果保持稳定
 
-**临床启示：** 即使初始感受性中等偏低的患者，通过系统训练仍可获得有意义的临床改善。关键在于：(1) 准确评估感受性水平；(2) 设计匹配其能力的干预方案；(3) 通过前期训练提升感受性基础；(4) 使用灵活的暗示策略适应个体特点。
+**临床启示：** 即使初始感受性中等偏低的患者，通过系统训练仍可获得有意义的临床改善。关键在于：(1) 准确评估感受性水平；(2) 设计匹配其能力的干预方案；(3) 通过前期训练提升感受性基础；(4) 暗示措辞用允许式、可选择的说法，并配合其主导想象通道（他常说“感觉”就多用体感描述，常说“画面”就多用视觉描述）。
 
 ## 5.7 意识研究与催眠的理论整合
 
@@ -410,22 +413,22 @@ EEG微状态分析、功能连接动态性等方法被用于刻画催眠过程�
 > 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。（补充）
 
 **新近研究：**
-- Terhune, D.B., et al. (2023). Multimodal neuroimaging prediction of hypnotic susceptibility. *Biological Psychiatry*, 94(12), 1023-1033.
+- Terhune, D.B., et al. (2023). Multimodal neuroimaging prediction of hypnotic susceptibility. *Biological Psychiatry*， 94(12), 1023-1033.
 
-- Greening, S.G., et al. (2024). Genome-wide association study of hypnotic susceptibility. *Molecular Psychiatry*, 29(6), 1845-1857.
+- Greening, S.G., et al. (2024). Genome-wide association study of hypnotic susceptibility. *Molecular Psychiatry*， 29(6), 1845-1857.
 
-- Landry, M., et al. (2025). EEG microstate dynamics in high and low hypnotizable individuals. *NeuroImage*, 291, 120856.
+- Landry, M., et al. (2025). EEG microstate dynamics in high and low hypnotizable individuals. *NeuroImage*， 291, 120856.
 
-- Heap, M., et al. (2024). Cross-cultural variations in hypnotic susceptibility. *British Journal of Psychology*, 115(4), 789-812.
+- Heap, M., et al. (2024). Cross-cultural variations in hypnotic susceptibility. *British Journal of Psychology*， 115(4), 789-812.
 
-- Oakley, D.A., et al. (2025). Modifiability of hypnotic susceptibility: A meta-analysis. *Psychological Bulletin*, 151(2), 234-267.
+- Oakley, D.A., et al. (2025). Modifiability of hypnotic susceptibility： A meta-analysis. *Psychological Bulletin*， 151(2), 234-267.
 
 **理论前沿：**
-- Baars, B.J. (2023). Global workspace theory and hypnosis. *Neuroscience of Consciousness*, 2023(1), niad012.
+- Baars, B.J. (2023). Global workspace theory and hypnosis. *Neuroscience of Consciousness*， 2023(1), niad012.
 
-- Tononi, G., et al. (2024). Integrated information and hypnotic states. *Entropy*, 26(8), 678.
+- Tononi, G., et al. (2024). Integrated information and hypnotic states. *Entropy*， 26(8), 678.
 
-- Hobson, J.A., et al. (2025). A predictive processing account of hypnosis. *Trends in Cognitive Sciences*, 29(3), 245-259.
+- Hobson, J.A., et al. (2025). A predictive processing account of hypnosis. *Trends in Cognitive Sciences*， 29(3), 245-259.
 
 ## 5.9 意识状态连续谱与暗示机制：综合补充
 

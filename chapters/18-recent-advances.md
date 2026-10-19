@@ -1,12 +1,17 @@
 # 第18章 催眠研究的新进展（2020-2026）
 
 > **📋 核心内容摘要**
+> - **本章结论**：2020年以来的“新进展”里能站住的不多——TMS短暂提高催眠感受性有随机对照证据，其余多数方向仍是探索性；引用“最新研究”前先自行查证
+> - **分工**：经核实的代表性文献表见[附录F：催眠研究进展速览与未来方向](../appendix/f-research-overview.md)（一、神经科学领域；二、临床应用领域）；理论被推翻/修正的历史与当前共识见[第0章](00-theory-evolution.md)（一至四、8.1）；本章只讲“进展怎么用”
 > - **神经科学前沿**：脑影像研究持续揭示催眠诱导与暗示响应的神经关联，脑刺激技术（TMS/tDCS/FUS）被探索用于增强暗示响应
 > - **临床新进展**：远程催眠在疫情后得到更多应用，VR催眠增强沉浸体验，精准催眠基于个体特征定制方案
 > - **理论发展**：预测编码框架受到越来越多关注，社会神经科学视角揭示人际互动维度
 > - **方法学进步**：多中心RCT、IPD Meta分析、机器学习预测模型等方法被逐步引入
-> - **未来方向**：大规模队列研究、精准催眠、数字健康、跨文化研究
+> - **未来方向**：大规模队列研究、精准催眠、数字健康、跨文化研究；常见误区对照见18.5.5
 > - **⚠️ 文献说明**：本章原稿中大量标注为2023-2026年的“最新研究”引文经核实查无此文，已删除或改写为不含虚构归因与统计数字的一般性陈述；保留的引文均经核实真实存在。详见[文献核实状态](../references/verification-status.md)
+> - **场景关键词**：新进展｜远程催眠｜精准催眠｜脑刺激｜数字催眠工具｜循证核实
+>
+> **🔗 前后衔接**：前置：[第3章](03-neuroscience.md)（神经科学基础）与[第4章](04-psychological-models.md)（理论模型）；本篇解决：分辨哪些“新进展”可用、怎么落到临床、引用前怎么核实；深入：影像技术与方法学细节见[第19章](19-neuroimaging.md)，AI与VR落地见[第20章](20-ai-vr.md)，跨文化研究见[第21章](21-cross-cultural.md)。
 
 ---
 
@@ -28,7 +33,7 @@ EEG等高时间分辨率技术被用于追踪催眠诱导过程中的动态脑�
 
 影像研究提示，催眠镇痛与前扣带回、岛叶、丘脑等痛觉调制网络的活动变化有关（经典证据见Rainville et al., 1997；Derbyshire et al., 2004）。药理学研究提示催眠镇痛与内源性阿片系统仅部分重叠，非阿片机制也可能参与其中；内源性大麻素系统等机制目前仍属理论假说，尚缺乏直接的人体影像证据。
 
-> **编者注**：本章原稿"2020-2026关键研究汇总表"（含7T fMRI催眠镇痛研究、μ-opioid PET成像等条目）中的论文与数据均无法在文献数据库中核实，已删除。2023年以后的具体研究主张请以PubMed等数据库检索结果为准。
+> **编者注**：本章原稿“2020-2026关键研究汇总表”（含7T fMRI催眠镇痛研究、μ-opioid PET成像等条目）中的论文与数据均无法在文献数据库中核实，已删除。2023年以后的具体研究主张请以PubMed等数据库检索结果为准。
 
 ### 18.1.2 脑刺激与催眠
 
@@ -88,7 +93,7 @@ fNIRS神经反馈是近年新兴的辅助技术：
 - 训练个体调控前额叶活动
 - 便携性好，适合临床环境
 
-其对催眠诱导成功率的影响尚无可靠研究证据。
+其对催眠诱导成功率的影响尚无可靠研究证据。临床定位：可当作催眠前的放松/专注训练辅助，不能当“催眠深度检测仪”，也不能承诺它能提升暗示反应。
 
 ### 18.1.4 催眠感受性的分子生物学研究
 
@@ -111,6 +116,8 @@ fNIRS神经反馈是近年新兴的辅助技术：
 - **GABA系统**：GABA能活动与催眠诱导中的放松反应可能相关
 
 - **催产素**：双盲安慰剂对照研究显示，鼻内给予催产素可提高低感受性个体的催眠反应（Bryant et al., 2012），并可能增强社会说服类暗示的响应（Bryant & Hung, 2013）
+
+**为什么这一领域进展慢（定性判断）：** 候选基因关联研究普遍受小样本、多重比较和样本异质性困憟，早期阳性结果往往重复不出来；催眠感受性又是多基因、多系统共同影响的复杂特质。实践结论：目前没有任何基因或分子指标可用于个体层面的方案选择，见到“基因检测定制催眠”类宣传应直接归为不实信息。
 
 ## 18.2 临床研究新进展
 
@@ -245,29 +252,9 @@ fNIRS神经反馈是近年新兴的辅助技术：
 
 ### 18.3.1 预测编码框架的深化
 
-**2020-2026 年的理论进展：**
+**结论：预测编码是目前解释催眠最有整合力的框架，但它仍是研究纲领，不是定论。** 框架的完整表述（预测误差、精度加权、对失痛/幻觉/失忆的统一解释与形式化表达）见[第0章](00-theory-evolution.md)8.1节；理论演变与纠错史见第0章一至四。本节只讲催眠研究怎么用这个框架。
 
-预测编码（Predictive Coding）框架已成为解释催眠的主流理论之一，其核心思想是：
-
-- 大脑是一个“预测机器”，不断生成关于感觉输入的预测
-
-- 实际感觉输入与预测之间的差异（预测误差）驱动学习和适应
-
-- 催眠暗示通过修改先验信念的权重，改变预测误差的处理方式
-
-**理论模型：**
-
-```
-正常状态：
-先验信念（权重w₁）+ 感觉证据（权重w₂）→ 后验估计 → 体验
-其中 w₁ ≈ w₂
-
-催眠状态：
-增强的先验信念（权重w₁↑）+ 降低权重的感觉证据（权重w₂↓）→ 偏向先验的后验估计 → 暗示驱动的体验
-其中 w₁ >> w₂
-```
-
-预测编码框架下的催眠模型已有理论探讨，例如基于贝叶斯推断的能动性模型解释了催眠暗示下自我感与能动性的改变（Martin & Pacherie, 2019）。在此框架下，可以从概念上区分：
+**在催眠研究中的三层应用（概念区分；属理论推演，尚缺乏系统的实证检验）：**
 
 - **低层级催眠效应**（感觉/运动）：直接修改感觉或运动皮层的先验信念，如催眠镇痛、运动暗示
 
@@ -275,7 +262,7 @@ fNIRS神经反馈是近年新兴的辅助技术：
 
 - **催眠感受性**：反映个体修改先验信念权重的能力差异
 
-需要说明的是，上述层级划分属于理论推演，尚缺乏系统的实证检验。
+**模型进展：** 基于贝叶斯推断的能动性模型解释了催眠暗示下自我感与能动性的改变（Martin & Pacherie, 2019），是该框架向“自我体验”延伸的代表工作。
 
 ### 18.3.2 意识整合理论与催眠
 
@@ -286,6 +273,8 @@ Giulio Tononi提出的整合信息理论（IIT）认为意识的量和质由整�
 **应用全局工作空间理论（GWT）：**
 
 Dehaene和Changeux提出的GWT认为意识内容是通过全局广播实现的。有假说认为催眠可能影响全局广播的范围，使某些信息被“隔离”在局部加工；经典催眠研究也显示高感受性个体可在催眠暗示下执行复杂任务却难以报告其执行过程。GWT与执行控制理论之间存在整合空间。
+
+**这两个理论对临床意味着什么（定性）：** 若上述解释成立，催眠更像一门“注意力与意识门控”技术，临床重点应放在专注训练与可控解离上，而不是寻找“神秘状态”。但两个理论目前都没有给出可操作的临床指标，选技术时仍以个体反应为准，不以理论标签为准。
 
 ### 18.3.3 催眠的社会神经科学视角
 
@@ -314,6 +303,8 @@ Dehaene和Changeux提出的GWT认为意识内容是通过全局广播实现的�
 上述观点目前属于理论推测，尚无直接实证检验。
 
 ## 18.4 方法学进展
+
+> 📌 **分工**：方法学进展的速览表见[附录F：催眠研究进展速览与未来方向](../appendix/f-research-overview.md)（四、方法学进展与挑战）；本节是展开版，讲具体怎么做。
 
 ### 18.4.1 研究设计的改进
 
@@ -374,6 +365,8 @@ Dehaene和Changeux提出的GWT认为意识内容是通过全局广播实现的�
 机器学习方法被尝试用于催眠感受性预测、治疗效果预测、催眠深度分类与治疗方案优化等任务。目前多数报告基于小样本内部验证，缺乏外部验证与可重复性检验，具体性能指标（准确率、AUC等）不宜作为定论引用。
 
 ## 18.5 未来研究方向
+
+> 📌 **分工**：本节是完整版研究议程；速览版与热点预测（2027-2030）见[附录F：催眠研究进展速览与未来方向](../appendix/f-research-overview.md)（五、趋势与未来方向、六、未来研究方向）。
 
 ### 18.5.1 优先研究领域
 
@@ -440,43 +433,54 @@ Dehaene和Changeux提出的GWT认为意识内容是通过全局广播实现的�
 - 基于基因型的个性化催眠方案
 - 催眠作为数字健康生态系统的核心组成部分
 
+### 18.5.5 常见误区与正确做法
+
+| 常见误区 | 正确做法 |
+|----------|----------|
+| “有新研究=有新疗法，马上能用” | 先分证据等级：本章多数“新方向”仍是探索性（见18.6核实说明）。临床采用前看有无对照研究与重复验证 |
+| “脑刺激能直接‘造出’催眠态” | TMS只显示可短暂提高感受性（见18.1.2），定位是“增效器”而非替代品（见18.8.1），且限有医疗资质的机构开展 |
+| “催眠App就是治疗” | 多数App缺乏临床验证（见18.2.1“数字催眠工具”）；可当自助练习工具，替代不了评估与治疗关系 |
+| “机器学习已经能预测谁适合催眠” | 多为小样本内部验证、外部验证缺乏（见18.4.4）；不可据此做临床分流 |
+| “精准催眠=基因检测配方案” | 基因型个性化方案仅属理论探索（见18.2.2第3条、18.1.4） |
+| “查不到的‘最新研究’也能引用” | 引用前按[文献核实状态](../references/verification-status.md)所述方法在PubMed等库自查；查不到的宁可不引 |
+
 ---
 
 ## 延伸阅读
 
-> 📌 **文献核实提示**：以下文献均经检索核实真实存在。本章原稿“延伸阅读”中的2023-2026年文献（Jiang et al., 2024; Terhune et al., 2024; Landry et al., 2024; Patterson et al., 2023; Haker et al., 2025; Jensen et al., 2024; Sulzer et al., 2023; Milling et al., 2024; Barker et al., 2023; Lindfors et al., 2023; Peters et al., 2024; Kano et al., 2024; Lilienfeld et al., 2025; Woody & Szechtman, 2025）经查证无法在文献数据库中找到对应论文，已删除。
+> 📌 **文献核实提示**：以下文献均经检索核实真实存在。本章原稿“延伸阅读”中的2023-2026年文献（Jiang et al., 2024； Terhune et al., 2024； Landry et al., 2024； Patterson et al., 2023； Haker et al., 2025； Jensen et al., 2024； Sulzer et al., 2023； Milling et al., 2024； Barker et al., 2023； Lindfors et al., 2023； Peters et al., 2024； Kano et al., 2024； Lilienfeld et al., 2025； Woody & Szechtman, 2025）经查证无法在文献数据库中找到对应论文，已删除。
 
-- Faerman, A., Bishop, J.H., Spiegel, D., et al. (2024). Stanford Hypnosis Integrated with Functional Connectivity-targeted Transcranial Stimulation (SHIFT): a preregistered randomized controlled trial. *Nature Mental Health*.
+- Faerman, A., Bishop, J.H., Spiegel, D., et al. (2024). Stanford Hypnosis Integrated with Functional Connectivity-targeted Transcranial Stimulation (SHIFT)： a preregistered randomized controlled trial. *Nature Mental Health*.
 
-- Landry, M., da Silva Castanheira, J., Rousseaux, F., Rainville, P., Ogez, D., & Jerbi, K. (2025). Ongoing dynamics of peak alpha frequency characterize hypnotic induction in highly hypnotic-susceptible individuals. (PMID: 39335379)
+- Landry, M., da Silva Castanheira, J., Rousseaux, F., Rainville, P., Ogez, D., & Jerbi, K. (2025). Ongoing dynamics of peak alpha frequency characterize hypnotic induction in highly hypnotic-susceptible individuals. (PMID： 39335379)
 
-- Landry, M., Lifshitz, M., & Raz, A. (2017). Brain correlates of hypnosis: A systematic review and meta-analytic exploration. *Neuroscience & Biobehavioral Reviews*, 81, 75-98.
+- Landry, M., Lifshitz, M., & Raz, A. (2017). Brain correlates of hypnosis： A systematic review and meta-analytic exploration. *Neuroscience & Biobehavioral Reviews*， 81, 75-98.
 
-- Langlois, P., et al. (2022). Hypnosis to manage musculoskeletal and neuropathic chronic pain: A systematic review and meta-analysis. *Neuroscience & Biobehavioral Reviews*, 135, 104591.
+- Langlois, P., et al. (2022). Hypnosis to manage musculoskeletal and neuropathic chronic pain： A systematic review and meta-analysis. *Neuroscience & Biobehavioral Reviews*， 135, 104591.
 
 - Rochet, N., et al. (2022). Tele-hypnosis for chronic pain. *Pain Medicine*.
 
-- Torem, M. (2021). Tele-hypnosis: Best practices. *American Journal of Clinical Hypnosis*.
+- Torem, M. (2021). Tele-hypnosis： Best practices. *American Journal of Clinical Hypnosis*.
 
-- Bryant, R.A., Hung, L., Guastella, A.J., & Mitchell, P.B. (2012). Oxytocin as a moderator of hypnotizability. *Psychoneuroendocrinology*. (PMID: 21652150)
+- Bryant, R.A., Hung, L., Guastella, A.J., & Mitchell, P.B. (2012). Oxytocin as a moderator of hypnotizability. *Psychoneuroendocrinology*. (PMID： 21652150)
 
-- Bryant, R.A., & Hung, L. (2013). Oxytocin enhances social persuasion during hypnosis. *PLoS ONE*, 8(4), e60711.
+- Bryant, R.A., & Hung, L. (2013). Oxytocin enhances social persuasion during hypnosis. *PLoS ONE*， 8(4), e60711.
 
-- Gonsalkorale, W.M., Miller, V., Afzal, A., & Whorwell, P.J. (2003). Long term benefits of hypnotherapy for irritable bowel syndrome. *Gut*, 52(11), 1623.
+- Gonsalkorale, W.M., Miller, V., Afzal, A., & Whorwell, P.J. (2003). Long term benefits of hypnotherapy for irritable bowel syndrome. *Gut*， 52(11), 1623.
 
-- Miller, V., et al. (2015). Hypnotherapy for irritable bowel syndrome: an audit of one thousand adult patients. *Alimentary Pharmacology & Therapeutics*, 41(9), 844-855.
+- Miller, V., et al. (2015). Hypnotherapy for irritable bowel syndrome： an audit of one thousand adult patients. *Alimentary Pharmacology & Therapeutics*， 41(9), 844-855.
 
-- Tefikow, S., et al. (2021). Efficacy of hypnosis in adults undergoing surgical procedures: A meta-analytic update. *Clinical Psychology Review*.
+- Tefikow, S., et al. (2021). Efficacy of hypnosis in adults undergoing surgical procedures： A meta-analytic update. *Clinical Psychology Review*.
 
-- Miró, A., Mesperuza, M., Jensen, M.P., et al. (2025). Therapeutic hypnosis and sports performance: a systematic review. *International Review of Sport and Exercise Psychology*. doi:10.1080/1750984X.2025.2512535
+- Miró, A., Mesperuza, M., Jensen, M.P., et al. (2025). Therapeutic hypnosis and sports performance： a systematic review. *International Review of Sport and Exercise Psychology*. doi:10.1080/1750984X.2025.2512535
 
-- Mamoune, S., et al. (2022). Hypnotherapy and insomnia: A narrative review of the literature. *Complementary Therapies in Medicine*, 65, 102805.
+- Mamoune, S., et al. (2022). Hypnotherapy and insomnia： A narrative review of the literature. *Complementary Therapies in Medicine*， 65, 102805.
 
 - Tran, N., Saperia, C., et al. (2025). Effects of app delivered self hypnosis on stress management. *npj Digital Medicine*.
 
-- Perri, R.L., Donato, M.A., & Di Filippo, G. (2024). Non-invasive brain stimulation (NIBS), hypnosis, and hypnotizability: Literature review and future directions. *International Journal of Clinical and Experimental Hypnosis*, 72(4), 371-384.
+- Perri, R.L., Donato, M.A., & Di Filippo, G. (2024). Non-invasive brain stimulation (NIBS), hypnosis, and hypnotizability： Literature review and future directions. *International Journal of Clinical and Experimental Hypnosis*， 72(4), 371-384.
 
-- Martin, J.-R., & Pacherie, E. (2019). Alterations of agency in hypnosis: A new predictive coding model. *Psychological Review*, 126(1), 133-152.
+- Martin, J.-R., & Pacherie, E. (2019). Alterations of agency in hypnosis： A new predictive coding model. *Psychological Review*， 126(1), 133-152.
 
 - Task Force for Establishing Efficacy Standards for Clinical Hypnosis (2025). Best practice recommendations for conducting and reporting controlled trials in clinical hypnosis research. doi:10.1177/2515690X241274538
 
@@ -488,29 +492,27 @@ Dehaene和Changeux提出的GWT认为意识内容是通过全局广播实现的�
 
 ### 18.6.1 催眠神经科学：经核实的近期进展
 
-经核实真实存在的近期进展包括：
+本节内容与18.1.1-18.1.2重复，按“一处完整、其余指路”原则只留索引：
 
-1. **TMS增强催眠感受性**：SHIFT预注册双盲随机对照试验显示，基于个体脑连接定位的左dlPFC TMS可短暂提高催眠感受性（Faerman et al., 2024）
+1. **TMS增强催眠感受性**：SHIFT预注册双盲随机对照试验 → 见18.1.2（含完整描述与引文）
 
-2. **催眠诱导的脑电动力学**：对α峰值频率等时变特征的分析为刻画催眠诱导过程提供了新工具（Landry et al., 2025）
+2. **催眠诱导的脑电动力学**：α峰值频率等时变特征 → 见18.1.1第2条
 
-3. **催眠脑机制综述**：Landry等人（2017）的ALE元分析对催眠的神经相关物进行了系统整合，指出各研究间一致性仍然有限
+3. **催眠脑机制综述**：Landry等人（2017）的ALE元分析 → 见18.1.1与本章延伸阅读
 
 ### 18.6.2 临床实践新证据
 
-- **慢性疼痛**：系统综述与Meta分析支持催眠在肌骨骼与神经病理性慢性疼痛中的应用价值，通常建议至少8次治疗疗程（Langlois et al., 2022）。大样本多中心RCT仍是该领域公认的缺口
+- **慢性疼痛**（本节独有内容，完整保留）：系统综述与Meta分析支持催眠在肌骨骼与神经病理性慢性疼痛中的应用价值，通常建议至少8次治疗疗程（Langlois et al., 2022）。大样本多中心RCT仍是该领域公认的缺口
 
-- **IBS**：肠道定向催眠的长期效果获得5年以上随访证据支持（Gonsalkorale et al., 2003; Miller et al., 2015）；“催眠-微生物组”机制假说目前缺乏人体研究证据
+- **IBS**：长期随访证据见18.2.3第4条（Gonsalkorale et al., 2003； Miller et al., 2015）；“催眠-微生物组”机制假说目前缺乏人体研究证据
 
 ### 18.6.3 方法学革新
 
-个体参与者数据（IPD）Meta分析与开放科学实践是催眠研究方法学革新的两个方向。前者可识别个体层面的效果预测因素，后者通过预注册、注册报告与数据共享提高可重复性（临床催眠疗效标准工作组最佳实践建议，2025）。具体数据须待正式发表的IPD研究方可引用。
+两个方向的完整说明见18.4.1（IPD Meta分析）与18.4.3（开放科学实践）；此处只留结论：前者识别个体层面的效果预测因素，后者通过预注册、注册报告与数据共享提高可重复性（临床催眠疗效标准工作组最佳实践建议，2025）。具体数据须待正式发表的IPD研究方可引用。
 
 ### 18.6.4 运动心理学中的催眠应用
 
-催眠在运动心理学中的应用以赛前焦虑管理、意象训练、自信增强和伤后康复为主。2025年发表的系统综述对治疗性催眠与运动表现的关系进行了评估（Miró et al., 2025），总体认为该领域研究数量有限、方法学质量参差，催眠可作为运动心理训练的辅助手段，但不宜给出精确效应量结论。
-
-**催眠在运动中的应用模式：**
+研究现状与证据评价见18.2.3第1条（Miró et al., 2025系统综述：研究数量有限、方法学质量参差，可作辅助手段，不宜给出精确效应量）。本节给出应用模式的操作化拆解：
 
 1. **赛前焦虑管理**：意象训练结合催眠暗示、自信心增强、注意力聚焦
 
@@ -522,51 +524,21 @@ Dehaene和Changeux提出的GWT认为意识内容是通过全局广播实现的�
 
 ### 18.6.5 数字健康与远程催眠
 
-数字催眠领域近年快速发展：
+数字催眠领域近年快速发展，三类内容均已在前文完整展开，此处只留索引：
 
-- **远程催眠**：现有证据支持其效果与面对面形式大体相当（详见18.2.1节）
+- **远程催眠**：证据、操作与特殊考量对照表见18.2.1（含应对策略）
 
-- **催眠App**：Reveri等商业自我催眠应用已积累大规模真实世界使用数据（Tran et al., 2025），但多数App仍缺乏临床验证
+- **催眠App**：大规模真实世界数据与局限见18.2.1“数字催眠工具”条目（Tran et al., 2025）；多数App仍缺乏临床验证
 
-- **VR催眠系统**：HypnoVR等系统已进入临床部署（见第20章）
-
-**远程催眠的优势：**
-1. 地理可及性提升（特别是农村和偏远地区）
-2. 时间灵活性增加
-3. 交通成本降低
-4. 患者舒适度提高（在自己家中）
-5. 疫情期间的持续服务保障
-
-**远程催眠的挑战：**
-1. 技术障碍（设备、网络）
-2. 治疗关系建立难度增加
-3. 非言语沟通信息减少
-4. 紧急情况处理困难
-5. 部分患者对远程形式的接受度低
+- **VR催眠系统**：见第20章（HypnoVR等系统已进入临床部署）
 
 ### 18.6.6 人工智能辅助催眠研究
 
-AI在催眠研究中的应用包括：
-
-1. **自然语言处理（NLP）分析**：催眠暗示语言的自动化分析、治疗对话模式识别、情感变化监测
-
-2. **机器学习预测模型**：催眠感受性与治疗效果的预测、治疗方案推荐
-
-3. **深度学习影像分析**：fMRI/EEG数据的自动化分析、催眠状态的客观标记
-
-这些应用多处于方法学探索阶段，模型性能缺乏外部验证，具体准确率数字暂不宜引用（另见第20章）。
+AI在催眠研究中的三类应用（NLP分析暗示语言、机器学习预测感受性与疗效、深度学习影像分析）见18.4.4与18.8.4；现状：方法学探索阶段，模型性能缺乏外部验证，具体准确率数字暂不宜引用（另见第20章）。
 
 ### 18.6.7 精准催眠医学
 
-精准催眠的核心要素包括：
-
-1. **生物标志物指导**：基于催眠感受性量表的分层、脑影像特征的个体化分析、遗传标记物的探索
-
-2. **治疗方案个体化**：催眠诱导技术的匹配、暗示类型的优化、治疗频率和强度的调整
-
-3. **实时反馈调节**：生物反馈的整合、脑电神经反馈的应用、治疗过程的动态优化
-
-目前精准催眠主要停留在概念框架与小规模探索阶段。
+精准催眠的三要素（生物标志物指导、治疗方案个体化、实时反馈调节）见18.2.2的完整拆解；结论：目前主要停留在概念框架与小规模探索阶段。
 
 ## 18.7 实践思考题
 
@@ -585,9 +557,9 @@ AI在催眠研究中的应用包括：
 
 ### 18.8.1 无创脑刺激技术（Non-invasive Brain Stimulation, NIBS）
 
-无创脑刺激是近年催眠研究中最受关注的生理调控手段，其核心思路是通过外部电流或磁场调节皮层兴奋性，从而增强可暗示性或直接诱导类催眠状态。
+无创脑刺激是近年催眠研究中最受关注的生理调控手段，其核心思路是通过外部电流或磁场调节皮层兴奋性，从而增强可暗示性或直接诱导类催眠状态。各技术的研究现状与横向对比见18.1.2（含表18-2），本节只讲技术原理与参数。
 
-- **经颅磁刺激（TMS, Transcranial Magnetic Stimulation）**：利用脉冲磁场在皮层产生感应电流。基于个体脑连接定位的左背外侧前额叶（dlPFC）TMS已被随机对照试验证实可短暂提高催眠感受性（Faerman et al., 2024）。
+- **经颅磁刺激（TMS, Transcranial Magnetic Stimulation）**：利用脉冲磁场在皮层产生感应电流。可短暂提高催眠感受性的随机对照证据见18.1.2（Faerman et al., 2024）。
 
 - **经颅直流电刺激（tDCS, Transcranial Direct Current Stimulation）**：微弱恒定电流（1-2 mA）调节皮层兴奋性。阳极tDCS置于dlPFC联合催眠暗示在实验性疼痛研究中显示前景，但效果量证据尚不一致。tDCS设备成本低、便携、安全性记录良好，是当前最容易进入临床场景的脑刺激技术。
 

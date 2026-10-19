@@ -2,8 +2,8 @@
   "title": "专业催眠学：理论、技术与实战",
   "title_en": "Professional Hypnosis: Theory, Technique & Practice",
   "language": "zh-CN",
-  "version": "1.2.19",
-  "updated": "2026-10-05",
+  "version": "1.3.0",
+  "updated": "2026-10-19",
   "license": "CC BY-NC-SA 4.0",
   "license_file": "LICENSE.md",
   "disclaimer": "DISCLAIMER.md",
@@ -24,7 +24,8 @@
     "depth": "DEPTH-GUIDE.md",
     "teaching": "TEACHING-GUIDE.md",
     "summary": "CORE-SUMMARY.md",
-    "toc": "SUMMARY.md"
+    "toc": "SUMMARY.md",
+    "llm_usage": "references/llm-usage.md"
   },
   "quality": {
     "style_guide": "references/编辑规范.md",
@@ -33,12 +34,12 @@
     "evidence_audit": "references/verification-status.md",
     "answer_keys": "references/练习题参考答案.md"
   },
-  "notes": "教学案例为改编示例；引文经2026-09全书审计，仅保留可核实文献。",
+  "notes": "教学案例为改编示例；引文经2026-09全书审计，仅保留可核实文献。v1.3.0 完成中文人性化×操作强化×LLM工程化专项（20分片并行审修）。",
   "stats": {
-    "md_files": 97,
+    "md_files": 98,
     "appendix_files": 57,
-    "cjk_chars": 593295,
+    "cjk_chars": 704938,
     "chapters": 23,
-    "guides": 5
+    "guides": 6
   }
 }

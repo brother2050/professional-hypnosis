@@ -2,12 +2,14 @@
 
 ## 说明
 
-本文件标注本书中引用的文献的核实状态。读者在引用任何文献前，请务必独立核实。
+本文件记录本书引用文献的核实状态与审计经过。引用任何文献前，请务必独立核实。
+
+> **🔗 前后衔接**：前置：无；本篇解决：每条引文能不能用、怎么核实；深入：[核心参考文献](core-papers.md)（条目版）与[编辑规范](编辑规范.md)第 1 节（引文规则）。
 
 **核实方法（2026-09-30 已按此方法完成全书审计）：**
-- PubMed: https://pubmed.ncbi.nlm.nih.gov
-- Google Scholar: https://scholar.google.com
-- PsycINFO: 通过图书馆访问
+- PubMed： https://pubmed.ncbi.nlm.nih.gov
+- Google Scholar： https://scholar.google.com
+- PsycINFO： 通过图书馆访问
 
 ---
 
@@ -28,11 +30,11 @@
 | Derbyshire, S.W.G., et al. | 2004 | Cerebral activation during hypnotically suggested analgesia | PNAS | ✅ 已验证 |
 | Faymonville, M.E., et al. | 2000 | Neural mechanisms of antinociceptive effects of hypnosis | Anesthesiology | ✅ 已验证 |
 | Hoeft, F., et al. | 2012 | Functional brain basis of hypnotizability | Archives of General Psychiatry | ✅ 已验证 |
-| Oakley, D.A., & Halligan, P.W. | 2013 | Hypnotic suggestion: Opportunities for cognitive neuroscience | Nature Reviews Neuroscience | ✅ 已验证 |
+| Oakley, D.A., & Halligan, P.W. | 2013 | Hypnotic suggestion： Opportunities for cognitive neuroscience | Nature Reviews Neuroscience | ✅ 已验证 |
 | Patterson, D.R., & Jensen, M.P. | 2003 | Hypnosis and clinical pain | Psychological Bulletin | ✅ 已验证 |
 | Montgomery, G.H., et al. | 2010 | A meta-analysis of hypnotically induced analgesia | IJCEH | ✅ 已验证 |
 | Thompson, T., et al. | 2019 | The effectiveness of hypnosis for pain relief | Anaesthesia | ✅ 已验证 |
-| Elkins, G.R., et al. | 2015 | Advancing research and practice: Revised APA Division 30 definition | IJCEH | ✅ 已验证 |
+| Elkins, G.R., et al. | 2015 | Advancing research and practice： Revised APA Division 30 definition | IJCEH | ✅ 已验证 |
 | Valentine, K.E., et al. | 2019 | The efficacy of hypnosis for treating anxiety | IJCEH | ✅ 已验证 |
 | Lynn, S.J., et al. | 2020 | Hypnosis, Imagination, and Human Potential | Routledge | ✅ 经典著作 |
 | Yapko, M.D. | 2012 | Trancework (4th ed.) | Routledge | ✅ 经典教材 |
@@ -44,37 +46,37 @@
 | Weitzenhoffer, A.M., & Hilgard, E.R. | 1959 | Stanford Hypnotic Susceptibility Scale Form A | Consulting Psychologists Press | ✅ 经典量表 |
 | Weitzenhoffer, A.M., & Hilgard, E.R. | 1962 | Stanford Hypnotic Susceptibility Scale Form C | Consulting Psychologists Press | ✅ 经典量表 |
 | Shor, R.E., & Orne, E.C. | 1962 | Harvard Group Scale of Hypnotic Susceptibility | Consulting Psychologists Press | ✅ 经典量表 |
-| Spanos, N.P. | 1986 | Hypnotic behavior: A social-psychological interpretation | Behavioral and Brain Sciences | ✅ 已验证 |
+| Spanos, N.P. | 1986 | Hypnotic behavior： A social-psychological interpretation | Behavioral and Brain Sciences | ✅ 已验证 |
 | Kirsch, I. | 1985 | Response expectancy as a determinant of experience | American Psychologist | ✅ 已验证 |
-| Barber, T.X. | 1969 | Hypnosis: A Scientific Approach | Van Nostrand Reinhold | ✅ 经典著作 |
+| Barber, T.X. | 1969 | Hypnosis： A Scientific Approach | Van Nostrand Reinhold | ✅ 经典著作 |
 | Woody, E.Z., & Bowers, K.S. | 1994 | A frontal assault on dissociated control | Guilford Press | ✅ 已验证 |
 | Kohen, D.T., & Olness, K. | 2011 | Hypnosis and Hypnotherapy with Children (4th ed.) | Routledge | ✅ 已验证 |
 | Rossi, E.L. | 1980 | Collected Papers of Milton H. Erickson (4 vols.) | Irvington | ✅ 经典著作 |
 | Wagstaff, G.F. | 2014 | Stage hypnosis | Routledge | ✅ 已验证 |
 | Lee, H.H., et al. | 2015 | Effect of gut-directed hypnotherapy in IBS | Gut | ✅ 已验证 |
-| Torem, M. | 2021 | Tele-hypnosis: Best practices | American Journal of Clinical Hypnosis | ✅ 已验证 |
+| Torem, M. | 2021 | Tele-hypnosis： Best practices | American Journal of Clinical Hypnosis | ✅ 已验证 |
 | Rochet, N., et al. | 2022 | Tele-hypnosis for chronic pain | Pain Medicine | ✅ 已验证 |
 | Rosendahl, J., Alldredge, C.T., & Haddenhorst, A. | 2024 | Meta-analytic evidence on the efficacy of hypnosis for mental and somatic health issues | Frontiers in Psychology | ✅ 已验证 |
 | Jensen, M.P., Jamieson, G.A., Lutz, A., et al. | 2017 | New directions in hypnosis research | Neuroscience of Consciousness | ✅ 已验证 |
-| Faerman, A., Bishop, J.H., et al. | 2024 | SHIFT: TMS提高催眠感受性的预注册RCT | Nature Mental Health | ✅ 已验证 |
-| Stein, M., Faerman, D., Thompson, T., Kirsch, I., Lynn, S.J., & Terhune, D.B. | 2025 | Revisiting the domain of suggestion: A meta-analysis | Personality and Individual Differences | ✅ 已验证 |
+| Faerman, A., Bishop, J.H., et al. | 2024 | SHIFT： TMS提高催眠感受性的预注册RCT | Nature Mental Health | ✅ 已验证 |
+| Stein, M., Faerman, D., Thompson, T., Kirsch, I., Lynn, S.J., & Terhune, D.B. | 2025 | Revisiting the domain of suggestion： A meta-analysis | Personality and Individual Differences | ✅ 已验证 |
 | Task Force for Establishing Efficacy Standards for Clinical Hypnosis | 2025 | Best practice recommendations for clinical hypnosis trials | （见PMID 39403729） | ✅ 已验证 |
 | Gonsalkorale, W.M., et al. | 2003 | Long term benefits of hypnotherapy for IBS | Gut | ✅ 已验证 |
-| Miller, V., et al. | 2015 | Hypnotherapy for IBS: an audit of one thousand adult patients | Alimentary Pharmacology & Therapeutics | ✅ 已验证 |
-| Tefikow, S., et al. | 2013/2021 | Hypnosis in surgery: meta-analysis及其更新 | Clinical Psychology Review | ✅ 已验证 |
+| Miller, V., et al. | 2015 | Hypnotherapy for IBS： an audit of one thousand adult patients | Alimentary Pharmacology & Therapeutics | ✅ 已验证 |
+| Tefikow, S., et al. | 2013/2021 | Hypnosis in surgery： meta-analysis及其更新 | Clinical Psychology Review | ✅ 已验证 |
 | Langlois, P., et al. | 2022 | Hypnosis for musculoskeletal/neuropathic chronic pain | Neuroscience & Biobehavioral Reviews | ✅ 已验证 |
-| Ramondo, N., Gignac, G.E., Pestell, C.F., & Byrne, S.M. | 2021 | Clinical hypnosis as an adjunct to CBT: updated meta-analysis | IJCEH | ✅ 已验证 |
-| Mamoune, S., et al. | 2022 | Hypnotherapy and insomnia: narrative review | Complementary Therapies in Medicine | ✅ 已验证 |
+| Ramondo, N., Gignac, G.E., Pestell, C.F., & Byrne, S.M. | 2021 | Clinical hypnosis as an adjunct to CBT： updated meta-analysis | IJCEH | ✅ 已验证 |
+| Mamoune, S., et al. | 2022 | Hypnotherapy and insomnia： narrative review | Complementary Therapies in Medicine | ✅ 已验证 |
 | Tran, N., Saperia, C., et al. | 2025 | App-delivered self-hypnosis and stress management | npj Digital Medicine | ✅ 已验证 |
-| Landry, M., Lifshitz, M., & Raz, A. | 2017 | Brain correlates of hypnosis: systematic review | Neuroscience & Biobehavioral Reviews | ✅ 已验证 |
+| Landry, M., Lifshitz, M., & Raz, A. | 2017 | Brain correlates of hypnosis： systematic review | Neuroscience & Biobehavioral Reviews | ✅ 已验证 |
 | Landry, M., et al. | 2025 | Peak alpha frequency and hypnotic induction | （见PMID 39335379） | ✅ 已验证 |
 | Miró, A., Mesperuza, M., Jensen, M.P., et al. | 2025 | Therapeutic hypnosis and sports performance | International Review of Sport and Exercise Psychology | ✅ 已验证 |
 | Martin, J.-R., & Pacherie, E. | 2019 | Alterations of agency in hypnosis | Psychological Review | ✅ 已验证 |
 | Bryant, R.A., Hung, L., et al. | 2012/2013 | 催产素与催眠感受性/社会说服 | Psychoneuroendocrinology / PLoS ONE | ✅ 已验证 |
-| Benham, G., Woody, E.Z., Wilson, S., & Nash, M.R. | 2006 | Expect the unexpected: responsiveness to hypnosis | Journal of Personality and Social Psychology | ✅ 已验证 |
+| Benham, G., Woody, E.Z., Wilson, S., & Nash, M.R. | 2006 | Expect the unexpected： responsiveness to hypnosis | Journal of Personality and Social Psychology | ✅ 已验证 |
 | Fingelkurts, A.A., & Fingelkurts, A.A. | 2014 | EEG与催眠相关脑电研究 | （脑电方法学系列） | ✅ 已验证 |
 | Jiang, H., et al. | 2017 | Brain activity and functional connectivity associated with hypnosis | Cerebral Cortex | ✅ 已验证 |
-| Erickson, M.H. | 1959 | Further clinical techniques of hypnosis: Utilization techniques | American Journal of Clinical Hypnosis | ✅ 已验证 |
+| Erickson, M.H. | 1959 | Further clinical techniques of hypnosis： Utilization techniques | American Journal of Clinical Hypnosis | ✅ 已验证 |
 
 ---
 
@@ -85,7 +87,7 @@
 - 原标注“高度怀疑为AI编造”的2023-2026年文献（Landry/Jiang/Bhatt/Dienes/Stagg/Yoo/Garrison/Vogel/Gruzelier/Fingelkurts/Terhune/Hoeft/Raz/Montgomery/Jensen/Thompson/Milling/Bryant/Yapko/Matthews/Spiegel/Maples-Keller/Rivera/Mendez/Braffman/Gironda/Patterson/Gonzalez/Wang/Chen/Li/Kim/Zhang等 2023-2026 年条目）**经检索全部查无此文，已连同其编造的效应量、样本量与数据表从正文删除**。
 - 正文中一批带精确卷期页的“引文”（如 *The Lancet* 荟萃分析、*JAMA Psychiatry* 多中心RCT、假GWAS位点表、12国催眠感受性对比表等）**确认为编造**，已删除或改写为不含归因与数字的诚实表述。
 - 原“其他待验证文献”中可核实者（如 Benham 2006、Fingelkurts 2014、Jiang 2017 等）已确认并保留（更正了错误的年份/格式）；不可核实者已从正文删除。
-- 本次审计后新增/改挂的引文**均可出示核实来源**（PubMed/期刊官网/DOI），审计明细存档于项目审计日志。
+- 本次审计后新增/改挂的引文**均可出示核实来源**（PubMed/期刊官网/DOI），审计过程与结论以本文件记录为准。
 
 **给读者的建议：** 本书正文现在只保留可核实的引文；如需引用任何文献（包括✅清单中的），仍请按下列方法独立核实。
 
@@ -97,7 +99,9 @@
 - ⚠️ **待验证**：可能真实存在，但未经独立核实
 - ❌ **高度怀疑编造**：年份为2023-2026年的文献，极可能是AI编造
 
-**建议：** 对于所有标注为“待验证”或“高度怀疑编造”的文献，请通过PubMed或Google Scholar进行核实后再使用。
+**当前状态（审计后）**：✅清单之外已无残留条目——⚠️/❌两类已从正文删除或定性化改写（清理记录见上节）。上述标记保留下来，供识别历史审计记录，以及日后新增引文的初筛。
+
+**建议：** 对于日后新增引文，以及历史审计记录中标注为“待验证”或“高度怀疑编造”的材料，请通过PubMed或Google Scholar核实后再使用。
 
 ---
 
@@ -107,7 +111,7 @@
 
 ## 核实方法详细指南
 
-对每一条“待验证”文献，建议按以下标准化流程逐项核实（单条耗时约3-10分钟）：
+对每一条新增或存疑文献（含历史“待验证”标记），建议按以下标准化流程逐项核实（单条耗时约3-10分钟）：
 
 **第一步：题名精确检索。** 将论文标题放入 Google Scholar 用双引号精确匹配检索（`"exact title"`）。若无结果，去掉引号用关键词组合再试，并尝试标题的常见变体（英式/美式拼写、连字符差异）。
 

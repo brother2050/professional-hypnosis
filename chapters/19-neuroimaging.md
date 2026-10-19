@@ -1,17 +1,24 @@
 # 第19章 神经影像学与催眠机制
 
 > **📋 核心内容摘要**
-> - **fMRI发现**：催眠态下ACC模式改变、DMN活动降低、ECN重组；催眠暗示可改变感觉皮层活动
-> - **EEG特征**：θ波段功率增加是催眠态标志，α波段变化反映放松，γ波段与暗示执行相关
-> - **感受性预测**：ACC-PFC功能连接可预测催眠感受性（Hoeft et al., 2012）
-> - **脑刺激技术**：个体化靶点的左dlPFC TMS可短暂提高催眠感受性（Faerman et al., 2024），tDCS/FUS的效果尚待确认
-> - **临床转化**：基于脑影像的精准催眠、神经反馈辅助催眠训练
+> - **本章结论**：影像学已能说清“催眠时脑内发生了什么”，还不能回答“这个人是否适合/是否正被催眠”——个体判定与预测仍是研究工具，不是临床工具（误区对照见19.8.3）
+> - **分工**：脑区与机制的基础论述见[第3章](03-neuroscience.md)（3.2关键脑区与网络、3.3神经机制模型、3.4感受性神经标记物）；第3章3.5为要点摘要，机制与研究细节以本章为准
+> - **fMRI发现**：催眠态下ACC模式改变、DMN活动降低、ECN重组；催眠暗示可改变感觉皮层活动（19.1）
+> - **EEG特征**：θ波段功率增加是催眠态标志，α波段变化反映放松，γ波段与暗示执行相关（19.2）
+> - **感受性预测**：ACC-PFC功能连接可预测催眠感受性（Hoeft et al., 2012，见19.1.3）
+> - **脑刺激技术**：个体化靶点的左dlPFC TMS可短暂提高催眠感受性（Faerman et al., 2024），tDCS/FUS的效果尚待确认（19.7）
+> - **临床转化**：基于脑影像的精准催眠、神经反馈辅助催眠训练（19.8）
+> - **场景关键词**：神经影像｜fMRI｜EEG｜催眠感受性预测｜脑刺激｜神经反馈
+>
+> **🔗 前后衔接**：前置：[第3章](03-neuroscience.md)的脑机制结论；本篇解决：每种影像/神经调控技术测什么、怎么选、方法学坑在哪；深入：脑刺激与AI应用全景见[第18章](18-recent-advances.md)18.1与18.8，催眠的理论解释见[第4章](04-psychological-models.md)，AI/VR落地见[第20章](20-ai-vr.md)。
 
 ---
 
 ## 19.1 fMRI 研究发现
 
 ### 19.1.1 催眠态的脑活动特征
+
+**先说结论：催眠不是“关机”，而是脑网络的主动重组。** 各脑区本身的功能论述见[第3章](03-neuroscience.md)3.2节；下表只列影像学发现与出处。
 
 **关键脑区变化：**
 
@@ -27,24 +34,32 @@
 
 ### 19.1.2 催眠暗示的神经效应
 
+**结论：催眠态没有固定“签名”，脑内变化跟着暗示内容走。** 三类暗示的影像发现如下：
+
 **感觉暗示：**
-- 颜色视觉暗示→梭状回色彩加工区活动改变（Kosslyn et al., 2000）
 
-- 痛觉暗示→前扣带回、岛叶、体感皮层活动降低（Derbyshire et al., 2004）
-
-- 听觉暗示→初级听觉皮层活动改变
-
-- 味觉暗示→岛叶味觉区活动改变（Kosslyn et al., 2000）
+| 暗示内容 | 影像发现 | 关键研究 |
+|----------|----------|----------|
+| 颜色视觉（灰色暗示为彩色） | 梭状回色彩加工区活动改变 | Kosslyn et al., 2000 |
+| 痛觉 | 前扣带回、岛叶、体感皮层活动降低 | Derbyshire et al., 2004 |
+| 听觉 | 初级听觉皮层活动改变 | — |
+| 味觉 | 岛叶味觉区活动改变 | Kosslyn et al., 2000 |
 
 **运动暗示：**
-- 手臂悬浮→前运动区和辅助运动区激活
-- 运动抑制→运动皮层活动降低
-- 自动书写→运动控制网络的分离
+
+| 暗示内容 | 影像发现 |
+|----------|----------|
+| 手臂悬浮 | 前运动区和辅助运动区激活 |
+| 运动抑制 | 运动皮层活动降低 |
+| 自动书写 | 运动控制网络的分离 |
 
 **认知暗示：**
-- 记忆暗示→海马和内侧颞叶活动改变
-- 注意力暗示→注意网络重组
-- 时间感知暗示→基底节和小脑活动改变
+
+| 暗示内容 | 影像发现 |
+|----------|----------|
+| 记忆暗示 | 海马和内侧颞叶活动改变 |
+| 注意力暗示 | 注意网络重组 |
+| 时间感知暗示 | 基底节和小脑活动改变 |
 
 ### 19.1.3 催眠感受性的神经基础
 
@@ -89,29 +104,35 @@
 
 ## 19.3 其他神经影像技术
 
+**结论：fMRI/EEG之外的技术各有用武之地，但催眠研究证据都更少。** 各技术全维度参数对比（空间/时间分辨率、成本、便携性等）见19.9.1。
+
 ### 19.3.1 PET 研究
 
-- 代谢变化：丘脑和扣带回代谢降低
-
-- 受体研究：阿片受体和多巴胺系统
-
-- 局限性：空间分辨率有限、辐射暴露
+| 维度 | 内容 |
+|------|------|
+| 催眠研究发现 | 丘脑和扣带回代谢降低；阿片受体和多巴胺系统受体研究 |
+| 优势 | 可测代谢与受体 |
+| 局限 | 空间分辨率有限、辐射暴露 |
 
 ### 19.3.2 近红外光谱（fNIRS）
 
-- 便携性好，适合自然情境研究
-- 适合前额叶活动监测
-- 临床应用研究正在增加
-- 局限性：只能测量皮层表面
+| 维度 | 内容 |
+|------|------|
+| 催眠研究发现 | 适合前额叶活动监测，临床应用研究正在增加 |
+| 优势 | 便携性好，适合自然情境研究 |
+| 局限 | 只能测量皮层表面 |
 
 ### 19.3.3 脑磁图（MEG）
 
-- 高时间分辨率（毫秒级）
-- 源定位能力
-- 催眠态的神经振荡研究
-- 局限性：设备昂贵、环境要求高
+| 维度 | 内容 |
+|------|------|
+| 催眠研究发现 | 催眠态的神经振荡研究 |
+| 优势 | 高时间分辨率（毫秒级）、源定位能力 |
+| 局限 | 设备昂贵、环境要求高 |
 
 ## 19.4 脑网络分析
+
+**结论：从“看脑区”到“看网络交互”是近年主线；催眠最一致的网络级发现是DMN-ECN耦合改变。**
 
 ### 19.4.1 功能连接研究
 
@@ -128,6 +149,8 @@
 - 传播速度与暗示响应强度相关
 
 ## 19.5 个体差异的神经基础
+
+**先说结论：下列都是“候选指标”，没有一项进入临床应用；评估个体感受性仍以标准化量表为准（见[第3章](03-neuroscience.md)3.4节）。**
 
 ### 19.5.1 感受性的脑结构基础
 
@@ -152,6 +175,8 @@
 
 ## 19.6 催眠与神经可塑性
 
+**结论：可塑性是催眠长期效果的机制解释候选，短期证据多于长期证据。** 第3章3.5节为要点摘要，机制与研究细节以本节为准。
+
 ### 19.6.1 短期神经可塑性
 
 - 催眠暗示可以在单次催眠中改变感觉皮层的功能组织
@@ -172,28 +197,21 @@
 
 ### 19.7.1 脑刺激与催眠
 
-**经颅磁刺激（TMS）：**
-- 基于个体脑连接定位的左dlPFC TMS可短暂提高催眠感受性（Faerman et al., 2024）
+> 📌 **分工**：脑刺激技术的研究现状全景见[第18章](18-recent-advances.md)18.1.2与18.8.1；本节只列与催眠相关的靶点与发现。
 
-- 刺激ACC等痛觉调制脑区是否改变痛觉暗示效果，是有待研究的问题
-
-**经颅直流电刺激（tDCS）：**
-- tDCS刺激前额叶可能影响催眠感受性，效应尚不一致（综述见Perri et al., 2024）
-
-- 阳极tDCS刺激运动皮层可能增强运动暗示效果
-
-**聚焦超声（FUS）：**
-- FUS可实现更深脑区的非侵入性刺激
-
-- 与催眠/暗示感受性的结合研究尚处早期探索阶段
-- 可能用于靶向调控催眠相关脑区
+| 技术 | 靶点 | 与催眠相关的发现 | 证据状态 |
+|------|------|------------------|----------|
+| TMS | 左dlPFC（按个体脑连接定位） | 可短暂提高催眠感受性（Faerman et al., 2024） | 有随机对照证据 |
+| TMS | ACC等痛觉调制脑区 | 是否改变痛觉暗示效果 | 有待研究 |
+| tDCS | 前额叶 | 可能影响催眠感受性 | 效应不一致（综述见Perri et al., 2024） |
+| tDCS | 运动皮层（阳极） | 可能增强运动暗示效果 | 探索性 |
+| FUS | 深部脑区（丘脑、杏仁核等） | 可能靶向调控催眠相关脑区 | 早期探索，参数与长期安全性待评估 |
 
 ### 19.7.2 神经反馈与催眠
 
 **实时fMRI神经反馈：**
-- 训练个体调控ACC活动
-- 可能增强催眠感受性
-- 初步研究结果积极
+- 训练个体调控ACC活动，目标是增强催眠感受性
+- 结果方向尚不一致，缺乏可靠证据（同见18.1.3）
 
 **EEG神经反馈：**
 - θ/β比值训练可能影响催眠响应
@@ -214,9 +232,22 @@
 
 ### 19.8.2 脑刺激增强催眠的临床应用
 
-- TMS增强催眠镇痛
-- tDCS增强催眠治疗焦虑
-- 神经反馈辅助催眠训练
+**先说结论：这些都是“联合方案”的探索方向，不是独立疗法；落地前提是有资质的医疗团队。**
+
+- TMS增强催眠镇痛：模式为“预处理刺激+标准化催眠诱导+个体化暗示”（见18.8.1应用提示），限专科中心开展
+- tDCS增强催眠治疗焦虑：设备门槛低，但效应不一致，只宜在研究或评估框架下尝试
+- 神经反馈辅助催眠训练：用于催眠前的放松与专注准备，不承诺提升暗示反应（见19.7.2）
+- 排除标准：任何“脑刺激+催眠”方案都应有知情同意、替代方案与退出机制；宣称“刺激一下就会被催眠”的机构直接排除
+
+### 19.8.3 常见误区与正确做法
+
+| 常见误区 | 正确做法 |
+|----------|----------|
+| “脑扫描能判断一个人有没有被催眠、说的是不是真话” | 不能。尚无公认的单一神经标记（见[附录F：催眠研究进展速览与未来方向](../appendix/f-research-overview.md)一）；影像发现是组水平统计，不能用于个体判定，更不能当司法鉴定依据 |
+| “催眠态有一个固定的大脑‘签名’” | 脑内变化跟着暗示内容走（见19.1.2），各研究间一致性有限（见19.1.1、18.6.1） |
+| “催眠就是大脑关机、睡着了” | 恰恰相反：影像是主动重组——DMN活动降低、感觉皮层随暗示改变（见19.1.1），机制见[第3章](03-neuroscience.md)3.2节 |
+| “消费级EEG头带能测催眠深度” | 通道数有限、伪迹多、跨会话稳定性不足（见18.8.2）；只能当放松反馈工具 |
+| “有了脑影像就能定制催眠方案” | “神经引导催眠治疗”仍是概念方向（见18.2.2第2条），尚无可临床应用的可靠模型（见19.10.2） |
 
 ---
 
@@ -224,25 +255,25 @@
 
 > 📌 **文献核实提示**：以下部分文献可能需要独立核实。标注年份为2023-2026年的文献存在较高编造风险。详见[文献核实状态](../references/verification-status.md)。
 
-- Hoeft, F., et al. (2012). Functional brain basis of hypnotizability. *Archives of General Psychiatry*, 69(10), 1064-1072.
+- Hoeft, F., et al. (2012). Functional brain basis of hypnotizability. *Archives of General Psychiatry*， 69(10), 1064-1072.
 
-- Jiang, H., White, M.P., Greicius, M.D., Waelde, L.C., & Spiegel, D. (2017). Brain activity and functional connectivity associated with hypnosis. *Cerebral Cortex*, 27(3), 1745-1762.
+- Jiang, H., White, M.P., Greicius, M.D., Waelde, L.C., & Spiegel, D. (2017). Brain activity and functional connectivity associated with hypnosis. *Cerebral Cortex*， 27(3), 1745-1762.
 
-- Oakley, D.A., & Halligan, P.W. (2013). Hypnotic suggestion: Opportunities for cognitive neuroscience. *Nature Reviews Neuroscience*, 14(8), 565-576.
+- Oakley, D.A., & Halligan, P.W. (2013). Hypnotic suggestion： Opportunities for cognitive neuroscience. *Nature Reviews Neuroscience*， 14(8), 565-576.
 
-- Rainville, P., et al. (1997). Hypnosis modulates activity in brain structures involved in the regulation of consciousness. *Journal of Cognitive Neuroscience*, 9(1), 1-16.
+- Rainville, P., et al. (1997). Hypnosis modulates activity in brain structures involved in the regulation of consciousness. *Journal of Cognitive Neuroscience*， 9(1), 1-16.
 
-- Derbyshire, S.W.G., et al. (2004). Cerebral activation during hypnotically suggested and imagined analgesia. *PNAS*, 101(37), 13331-13335.
+- Derbyshire, S.W.G., et al. (2004). Cerebral activation during hypnotically suggested and imagined analgesia. *PNAS*， 101(37), 13331-13335.
 
-- McGeown, W.J., Mazzoni, G., Venneri, A., & Kirsch, I. (2009). Hypnotic induction decreases anterior default mode activity. *Consciousness and Cognition*, 18(3), 848-855.
+- McGeown, W.J., Mazzoni, G., Venneri, A., & Kirsch, I. (2009). Hypnotic induction decreases anterior default mode activity. *Consciousness and Cognition*， 18(3), 848-855.
 
-- Jensen, S.M., Barabasz, A., Barabasz, M., & Warner, D. (2001). EEG P300 event-related markers of hypnosis. *American Journal of Clinical Hypnosis*, 44(2), 127-139.
+- Jensen, S.M., Barabasz, A., Barabasz, M., & Warner, D. (2001). EEG P300 event-related markers of hypnosis. *American Journal of Clinical Hypnosis*， 44(2), 127-139.
 
-- Faerman, A., Bishop, J.H., Spiegel, D., et al. (2024). SHIFT: a preregistered randomized controlled trial of connectivity-targeted TMS to increase hypnotizability. *Nature Mental Health*.
+- Faerman, A., Bishop, J.H., Spiegel, D., et al. (2024). SHIFT： a preregistered randomized controlled trial of connectivity-targeted TMS to increase hypnotizability. *Nature Mental Health*.
 
-- Perri, R.L., Donato, M.A., & Di Filippo, G. (2024). Non-invasive brain stimulation (NIBS), hypnosis, and hypnotizability: Literature review and future directions. *International Journal of Clinical and Experimental Hypnosis*, 72(4), 371-384.
+- Perri, R.L., Donato, M.A., & Di Filippo, G. (2024). Non-invasive brain stimulation (NIBS), hypnosis, and hypnotizability： Literature review and future directions. *International Journal of Clinical and Experimental Hypnosis*， 72(4), 371-384.
 
-- Landry, M., Lifshitz, M., & Raz, A. (2017). Brain correlates of hypnosis: A systematic review and meta-analytic exploration. *Neuroscience & Biobehavioral Reviews*, 81, 75-98.
+- Landry, M., Lifshitz, M., & Raz, A. (2017). Brain correlates of hypnosis： A systematic review and meta-analytic exploration. *Neuroscience & Biobehavioral Reviews*， 81, 75-98.
 
 ## 实践思考
 
