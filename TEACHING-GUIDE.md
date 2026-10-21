@@ -144,7 +144,7 @@
 | 需求 | 用什么 |
 |------|--------|
 | 课堂讲义 | 各章📋核心内容摘要 + [CORE-SUMMARY](CORE-SUMMARY.md) |
-| 技能示范台词 | [催眠脚本库](scripts/催眠脚本库.md)（17 套）+ [实操示例库](EXAMPLES.md)（100+ 条） |
+| 技能示范台词 | [催眠脚本库](scripts/催眠脚本库.md)（32 套）+ [实操示例库](EXAMPLES.md)（100+ 条） |
 | 课堂练习题 | [训练练习册](exercises/训练练习册.md)（阶段化）+ [练习题参考答案](references/练习题参考答案.md)（对答案） |
 | 案例研讨 | [实战案例集](case-studies/实战案例集.md)（20 案）+ [附录I](appendix/i-failure-difficulties.md)（失败案例） |
 | 评分表格 | 本文 §5 + 训练练习册评估矩阵 + [催眠实战速用手册](ACTION-GUIDE.md) §7（评估与记录模板） |
