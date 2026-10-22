@@ -231,7 +231,7 @@
 
 ---
 
-**相关章节**：参见[第22章](../chapters/22-ethics-legal.md)（催眠伦理、法律与专业规范）、[第20章](../chapters/20-ai-vr.md)（AI/VR 与数字催眠伦理）、[附录AP](ap-quality-assurance.md)「第五部分：伦理合规体系」。
+**相关章节**：想深入可看[第22章](../chapters/22-ethics-legal.md)（催眠伦理、法律与专业规范）、[第20章](../chapters/20-ai-vr.md)（AI/VR 与数字催眠伦理）、[附录AP](ap-quality-assurance.md)「第五部分：伦理合规体系」。
 
 ---
 

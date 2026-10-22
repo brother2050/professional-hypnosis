@@ -15,6 +15,7 @@
   6. 附录字母引用（指向不存在的附录）
   7. 术语变体（催眠易感性/可催眠性/催眠后暗示）
   8. 章节模板四件套（摘要/延伸阅读/思考题/术语表）
+  9. 广谱折叠标点（半角括号/破折号/引号混入中文）
 退出码：0=全绿，1=有问题（可接入 CI）。
 """
 import os, re, sys
@@ -86,6 +87,31 @@ def check_links_anchors_fences_punct():
             if not infence:
                 for m in re.finditer(r'[\u4e00-\u9fff“”）」][,;:?!](?![0-9A-Za-z/.）\]}])', l):
                     problems.append(f'[标点] {rel}:{i} 半角标点混入中文')
+
+
+def check_folded_punct():
+    """9. 广谱折叠标点检测：全角标点被批量折半的残留（括号/破折号/引号）"""
+    pat_paren = re.compile(r'(?<=[\u4e00-\u9fff])\(')
+    pat_dash = re.compile(r'--(?=[\u4e00-\u9fff])|(?<=[\u4e00-\u9fff）」])--')
+    pat_quote = re.compile(r'(?<=[\u4e00-\u9fff，。；：？！、])"|"(?=[\u4e00-\u9fff])')
+    for p in files():
+        rel = os.path.relpath(p, ROOT)
+        infence = False
+        for i, l in enumerate(open(p, encoding='utf-8'), 1):
+            if l.strip().startswith('```'):
+                infence = not infence
+                continue
+            if infence or re.match(r'^\s*\|[\s\-:|]+\|\s*$', l) or l.strip() in ('---', '----', '-----'):
+                continue
+            for seg in re.split(r'(`[^`]*`|\]\([^)]+\))', l):
+                if seg.startswith('`') or seg.startswith(']('):
+                    continue
+                if pat_paren.search(seg):
+                    problems.append(f'[折叠] {rel}:{i} 半角括号混入中文'); break
+                if pat_dash.search(seg):
+                    problems.append(f'[折叠] {rel}:{i} 半角双连字符应为破折号'); break
+                if pat_quote.search(seg):
+                    problems.append(f'[折叠] {rel}:{i} 半角引号混入中文'); break
 
 
 def check_refs():
@@ -174,6 +200,7 @@ def check_template():
 def main():
     quick = '--quick' in sys.argv
     check_links_anchors_fences_punct()
+    check_folded_punct()
     if not quick:
         check_refs()
         check_terms()

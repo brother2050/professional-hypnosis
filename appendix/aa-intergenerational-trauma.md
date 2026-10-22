@@ -290,7 +290,7 @@ IFS 催眠工作的典型流程：在催眠/专注状态下识别承载代际情
 
 ---
 
-*本附录与[第13章](../chapters/13-anxiety-trauma.md)（焦虑、恐惧与创伤处理）、[附录AR](ar-trauma-neurobiology.md)「二、创伤记忆的神经机制」互为补充；表观遗传证据的临床转化见[附录AY](ay-epigenetics-clinical.md)「三、催眠可能的表观遗传效应：假说与证据」；虚假记忆的证据问题见[附录P](p-research-corrections.md)「四、仍有争议的问题」。*
+*本附录与[第13章](../chapters/13-anxiety-trauma.md)（焦虑、恐惧与创伤处理）、[附录AR](ar-trauma-neurobiology.md)「二、创伤记忆的神经机制」互为补充；表观遗传证据的临床转化，想深入可看[附录AY](ay-epigenetics-clinical.md)「三、催眠可能的表观遗传效应：假说与证据」；虚假记忆的证据问题，想深入可看[附录P](p-research-corrections.md)「四、仍有争议的问题」。*
 
 ---
 

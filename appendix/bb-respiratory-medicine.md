@@ -10,7 +10,7 @@
 >
 > **本篇解决什么问题**：回答“呼吸科个案里催眠什么时候能上、上到哪一步”。先用 BB-10.1 的红旗分流卡判断该送医还是该做催眠，再按病种选 BB-8 的四套可照读方案。
 >
-> **🔗 前后衔接**：前置——[第15章](../chapters/15-medical-applications.md) 15.8（呼吸系统应用总览）与[附录AT](at-mind-body-medicine.md) AT.3（催眠与自主神经调节）；本篇解决——呼吸系统各场景的催眠定位、操作卡、完整脚本与安全边界；深入——高风险技术处置见[附录G](g-safety-manual.md)，心血管共病见[附录BA](ba-cardioneurology.md)。
+> **🔗 前后衔接**：前置——[第15章](../chapters/15-medical-applications.md) 15.8（呼吸系统应用总览）与[附录AT](at-mind-body-medicine.md) AT.3（催眠与自主神经调节）；本篇解决——呼吸系统各场景的催眠定位、操作卡、完整脚本与安全边界；深入——高风险技术处置见[附录G](g-safety-manual.md)，心血管共病，想深入可看[附录BA](ba-cardioneurology.md)。
 
 ---
 
@@ -495,7 +495,7 @@ HVS 对催眠反应良好，通常 4-8 次治疗显著改善。训练自我催�
 
 ---
 
-**相关章节参见**：医学催眠的通用框架与术前准备见[第15章](../chapters/15-medical-applications.md) 15.1.2（术前催眠准备）与 15.8（呼吸系统应用）；心身互动与自主神经调节见[附录AT](at-mind-body-medicine.md) AT.1.3、AT.3；镇痛配合见[第12章](../chapters/12-pain-management.md)；焦虑与惊恐处理见[第13章](../chapters/13-anxiety-trauma.md)；心血管共病见[附录BA](ba-cardioneurology.md)，神经免疫机制见[附录AX](ax-neuroimmunology.md)。
+**相关章节参见**：医学催眠的通用框架与术前准备，想深入可看[第15章](../chapters/15-medical-applications.md) 15.1.2（术前催眠准备）与 15.8（呼吸系统应用）；心身互动与自主神经调节，想深入可看[附录AT](at-mind-body-medicine.md) AT.1.3、AT.3；镇痛配合，想深入可看[第12章](../chapters/12-pain-management.md)；焦虑与惊恐处理，想深入可看[第13章](../chapters/13-anxiety-trauma.md)；心血管共病，想深入可看[附录BA](ba-cardioneurology.md)，神经免疫机制，想深入可看[附录AX](ax-neuroimmunology.md)。
 
 ---
 

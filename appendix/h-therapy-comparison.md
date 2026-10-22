@@ -2,7 +2,7 @@
 
 > 催眠与主流疗法的适应证、证据与整合方式对比，供选型与转介参考。
 
-> **🔗 前后衔接**：前置——先读[第14章](../chapters/14-psychotherapy-integration.md)了解整合原理；本篇解决——“这个个案该用哪种疗法、要不要联合、何时转介”；深入——失败与局限见[附录I](i-failure-difficulties.md)，证据等级判读见[附录N](n-research-methods.md)，各适应证证据现状见[附录F](f-research-overview.md)。
+> **🔗 前后衔接**：前置——先读[第14章](../chapters/14-psychotherapy-integration.md)了解整合原理；本篇解决——“这个个案该用哪种疗法、要不要联合、何时转介”；深入——失败与局限见[附录I](i-failure-difficulties.md)，证据等级判读，想深入可看[附录N](n-research-methods.md)，各适应证证据现状，想深入可看[附录F](f-research-overview.md)。
 > - **场景关键词**：疗法比较｜选型｜转介｜CBT｜EMDR｜正念｜药物｜整合
 
 ## 一、催眠与主流疗法的系统比较
