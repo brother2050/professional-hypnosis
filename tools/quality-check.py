@@ -16,6 +16,7 @@
   7. 术语变体（催眠易感性/可催眠性/催眠后暗示）
   8. 章节模板四件套（摘要/延伸阅读/思考题/术语表）
   9. 广谱折叠标点（半角括号/破折号/引号混入中文）
+ 10. 绝对化疗效承诺（根治/治愈率/保证有效/永不复发等）
 退出码：0=全绿，1=有问题（可接入 CI）。
 """
 import os, re, sys
@@ -151,6 +152,30 @@ def check_terms():
                 problems.append(f'[术语] {rel}: "{bad}" x{n}（应为「{good}」）')
 
 
+def check_absolute_claims():
+    """10. 绝对化疗效承诺扫描：禁止承诺治愈/根治/永不复发等（引号内反例与否定语境除外）"""
+    pat = re.compile(r'根治|治愈率|保证(有效|治愈|痊愈|康复)|一定(有效|治好|康复)|永不复发|百分之百(有效|治好)|彻底(治愈|根治|解决)')
+    for p in files():
+        rel = os.path.relpath(p, ROOT)
+        if rel == os.path.join('references', '编辑规范.md'):
+            continue
+        infence = False
+        for i, l in enumerate(open(p, encoding='utf-8'), 1):
+            if l.strip().startswith('```'):
+                infence = not infence
+                continue
+            if infence:
+                continue
+            for m in pat.finditer(l):
+                s = max(0, m.start() - 20)
+                ctx = l[s:m.end() + 20]
+                if re.search(r'不承诺|不宣传|禁止|避免|误区|错误|反面|承诺疗效|非真实|示意|不要|而非', ctx):
+                    continue
+                if re.search(r'[“「『“].{0,30}' + re.escape(m.group(0)), l[:m.end()]):
+                    continue  # 引号内示例
+                problems.append(f'[承诺] {rel}:{i} 绝对化表述「{m.group(0)}」')
+
+
 def check_stats():
     """README 内容统计 vs 实测：防统计漂移"""
     import json
@@ -201,6 +226,7 @@ def main():
     quick = '--quick' in sys.argv
     check_links_anchors_fences_punct()
     check_folded_punct()
+    check_absolute_claims()
     if not quick:
         check_refs()
         check_terms()

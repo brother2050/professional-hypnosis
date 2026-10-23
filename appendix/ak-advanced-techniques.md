@@ -1,8 +1,8 @@
 # 附录AK：高级催眠技术手册
 
 > 📌 **这是什么**：五种进阶催眠技术（部分疗法、自我状态疗法、隐喻治疗、时间线疗法、EMDR 整合）的操作手册，面向已完成基础训练、能独立完成一般暗示疗法的催眠师。**本篇解决什么问题**：每种技术适合谁、步骤怎么走、做到什么程度算成、卡住怎么办；选型先看第六节对比总表与决策树。**去哪里深入**：技术卡壳与失败个案的复盘，想深入可看[附录I](i-failure-difficulties.md)「七、失败案例通用复盘」；创伤场景的稳定化先行原则见[附录AN](an-trauma-informed.md)「3.1 建立安全感」与「4.1 稳定化技术」。
-> **🔗 前后衔接**：前置——诱导、深化、暗示设计与后催眠暗示（[第6章](../chapters/06-induction-techniques.md) 6.2、[第7章](../chapters/07-deepening.md) 7.2、[第8章](../chapters/08-suggestion-design.md) 8.1、[第9章](../chapters/09-emergence-post-hypnotic.md) 9.2）；本篇解决——五种进阶技术的适用条件、步骤、判据与失败分支；深入——失败复盘，想深入可看[附录I](i-failure-difficulties.md)「七、失败案例通用复盘」，共病排序，想深入可看[附录AM](am-complex-cases.md)。
 > - **场景关键词**：部分疗法｜自我状态疗法｜隐喻治疗｜时间线疗法｜EMDR 整合｜技术选择
+> **🔗 前后衔接**：前置——诱导、深化、暗示设计与后催眠暗示（[第6章](../chapters/06-induction-techniques.md) 6.2、[第7章](../chapters/07-deepening.md) 7.2、[第8章](../chapters/08-suggestion-design.md) 8.1、[第9章](../chapters/09-emergence-post-hypnotic.md) 9.2）；本篇解决——五种进阶技术的适用条件、步骤、判据与失败分支；深入——失败复盘，想深入可看[附录I](i-failure-difficulties.md)「七、失败案例通用复盘」，共病排序，想深入可看[附录AM](am-complex-cases.md)。
 >
 > **使用原则**：技术无高低，匹配是关键。选择技术前，先做来访者评估（暗示感受性、人格结构、创伤史、解离倾向、当前症状的功能分析），再选技术，而不是反过来。
 

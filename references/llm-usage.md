@@ -114,7 +114,6 @@
 | 运动表现、比赛 | `appendix/x-sports-performance.md` 二、六 | `appendix/treatment-protocols.md` 运动表现提升协议 |
 | 中国本土化、文化差异 | `appendix/k-chinese-context.md` 三、八 | `chapters/21-cross-cultural.md` |
 | 效果不好、失败案例 | `appendix/i-failure-difficulties.md` 三、五 | `case-studies/实战案例集.md` |
-| `case-studies/场景案例集.md` | 59,298 | ≈29,600 | 分块（按案例号切） |
 | 知情同意、记录表单 | `appendix/practical-tools.md` 知情同意书模板、治疗记录模板 | `chapters/22-ethics-legal.md` 22.2 |
 | 培训、认证、督导 | `appendix/d-certifications.md`;`appendix/e-supervision.md` | `chapters/22-ethics-legal.md` 22.4、22.7 |
 | 研究方法、证据分级 | `appendix/n-research-methods.md` 四、五 | `CORE-SUMMARY.md` 十六 |
@@ -139,7 +138,7 @@
 
 **估算口径（先说怎么算的）：**
 
-- 字节数用 `wc -c` 于 2026-10-23 全书本轮优化完成后实测，与全书 v1.3.3 同步。
+- 字节数用 `wc -c` 于 2026-10-23 全书本轮优化完成后实测，与全书 v1.3.4 同步。
 - 中文按 1 个汉字 ≈ 1.5 token 估算；1 个汉字在 UTF-8 里占 3 字节，所以纯中文文件 **token ≈ 字节 ÷ 2**。
 - 含英文文献条目、代码块、长表格的文件更省 token，按 **字节 ÷ 2.5-3** 折算更保险；上表的“≈token”一律用 ÷ 2 的保守值。
 - 读入建议三档：**一次性读入**（≤16KB，约 8K token 以内）；**可一次读入，紧时分 2 块**（16-32KB）；**分块（按二级节）**（>32KB）。
@@ -149,11 +148,11 @@
 
 | 文件 | 字节 | ≈token | 读入建议 |
 |---|---:|---:|---|
-| `README.md` | 32,167 | ≈16,100 | 分块（按二级节） |
+| `README.md` | 32,174 | ≈16,100 | 分块（按二级节） |
 | `SUMMARY.md` | 8,078 | ≈4,000 | 一次性读入 |
 | `PREFACE.md` | 3,399 | ≈1,700 | 一次性读入 |
 | `DISCLAIMER.md` | 12,543 | ≈6,300 | 一次性读入 |
-| `CORE-SUMMARY.md` | 19,730 | ≈9,900 | 可一次读入，紧时分2块 |
+| `CORE-SUMMARY.md` | 19,758 | ≈9,900 | 可一次读入，紧时分2块 |
 | `ACTION-GUIDE.md` | 67,787 | ≈33,900 | 分块（按二级节） |
 | `EXAMPLES.md` | 50,782 | ≈25,400 | 分块（按二级节） |
 | `DEPTH-GUIDE.md` | 13,251 | ≈6,600 | 一次性读入 |
@@ -194,6 +193,7 @@
 | `scripts/催眠脚本库.md` | 66,643 | ≈33,300 | 分块（按脚本号切） |
 | `exercises/训练练习册.md` | 56,004 | ≈28,000 | 分块（按二级节） |
 | `case-studies/实战案例集.md` | 64,182 | ≈32,100 | 分块（按案例号切） |
+| `case-studies/场景案例集.md` | 59,298 | ≈29,600 | 分块（按案例号切） |
 
 ### 3.4 参考与规范
 
@@ -203,7 +203,7 @@
 | `references/verification-status.md` | 15,077 | ≈7,500 | 一次性读入 |
 | `references/练习题参考答案.md` | 39,248 | ≈19,600 | 分块（按二级节） |
 | `references/编辑规范.md` | 6,978 | ≈3,500 | 一次性读入 |
-| `references/llm-usage.md` | 26,484 | ≈13,200 | 可一次读入，紧时分2块（本文件） |
+| `references/llm-usage.md` | 26,510 | ≈13,300 | 可一次读入，紧时分2块（本文件） |
 
 ### 3.5 附录（57 个）
 
@@ -211,11 +211,11 @@
 |---|---:|---:|---|
 | `appendix/a-scales.md` | 15,692 | ≈7,800 | 一次性读入 |
 | `appendix/aa-intergenerational-trauma.md` | 34,068 | ≈17,000 | 分块（按二级节） |
-| `appendix/ab-creativity-innovation.md` | 28,138 | ≈14,100 | 可一次读入，紧时分2块 |
-| `appendix/ac-extreme-environments.md` | 28,537 | ≈14,300 | 可一次读入，紧时分2块 |
-| `appendix/ad-human-enhancement-ethics.md` | 23,747 | ≈11,900 | 可一次读入，紧时分2块 |
-| `appendix/ae-cross-species.md` | 22,197 | ≈11,100 | 可一次读入，紧时分2块 |
-| `appendix/af-hypnosis-psychedelics.md` | 27,078 | ≈13,500 | 可一次读入，紧时分2块 |
+| `appendix/ab-creativity-innovation.md` | 28,225 | ≈14,100 | 可一次读入，紧时分2块 |
+| `appendix/ac-extreme-environments.md` | 28,607 | ≈14,300 | 可一次读入，紧时分2块 |
+| `appendix/ad-human-enhancement-ethics.md` | 23,813 | ≈11,900 | 可一次读入，紧时分2块 |
+| `appendix/ae-cross-species.md` | 22,293 | ≈11,100 | 可一次读入，紧时分2块 |
+| `appendix/af-hypnosis-psychedelics.md` | 27,120 | ≈13,600 | 可一次读入，紧时分2块 |
 | `appendix/ag-practitioner-self-care.md` | 31,772 | ≈15,900 | 可一次读入，紧时分2块 |
 | `appendix/ah-sleep-medicine.md` | 41,556 | ≈20,800 | 分块（按二级节） |
 | `appendix/ai-aging-dementia.md` | 38,597 | ≈19,300 | 分块（按二级节） |
@@ -229,37 +229,37 @@
 | `appendix/ar-trauma-neurobiology.md` | 36,882 | ≈18,400 | 分块（按二级节） |
 | `appendix/as-emotion-regulation.md` | 35,883 | ≈17,900 | 分块（按二级节） |
 | `appendix/at-mind-body-medicine.md` | 30,661 | ≈15,300 | 可一次读入，紧时分2块 |
-| `appendix/au-cognitive-enhancement.md` | 32,504 | ≈16,300 | 分块（按二级节） |
-| `appendix/av-gut-brain-axis.md` | 45,536 | ≈22,800 | 分块（按二级节） |
-| `appendix/aw-microbiome-brain.md` | 36,512 | ≈18,300 | 分块（按二级节） |
-| `appendix/ax-neuroimmunology.md` | 37,039 | ≈18,500 | 分块（按二级节） |
+| `appendix/au-cognitive-enhancement.md` | 32,588 | ≈16,300 | 分块（按二级节） |
+| `appendix/av-gut-brain-axis.md` | 46,026 | ≈23,000 | 分块（按二级节） |
+| `appendix/aw-microbiome-brain.md` | 36,550 | ≈18,300 | 分块（按二级节） |
+| `appendix/ax-neuroimmunology.md` | 37,099 | ≈18,500 | 分块（按二级节） |
 | `appendix/ay-epigenetics-clinical.md` | 36,965 | ≈18,500 | 分块（按二级节） |
 | `appendix/az-neuroendocrinology.md` | 34,975 | ≈17,500 | 分块（按二级节） |
 | `appendix/b-glossary.md` | 45,011 | ≈22,500 | 分块（按二级节） |
 | `appendix/ba-cardioneurology.md` | 43,544 | ≈21,800 | 分块（按二级节） |
-| `appendix/bb-respiratory-medicine.md` | 36,360 | ≈18,200 | 分块（按二级节） |
-| `appendix/bc-rehabilitation.md` | 37,423 | ≈18,700 | 分块（按二级节） |
-| `appendix/bd-psychopharmacology.md` | 39,856 | ≈19,900 | 分块（按二级节） |
-| `appendix/be-telehealth-digital.md` | 32,496 | ≈16,200 | 分块（按二级节） |
+| `appendix/bb-respiratory-medicine.md` | 36,440 | ≈18,200 | 分块（按二级节） |
+| `appendix/bc-rehabilitation.md` | 37,478 | ≈18,700 | 分块（按二级节） |
+| `appendix/bd-psychopharmacology.md` | 39,908 | ≈20,000 | 分块（按二级节） |
+| `appendix/be-telehealth-digital.md` | 32,643 | ≈16,300 | 分块（按二级节） |
 | `appendix/d-certifications.md` | 15,414 | ≈7,700 | 一次性读入 |
 | `appendix/e-supervision.md` | 19,388 | ≈9,700 | 可一次读入，紧时分2块 |
 | `appendix/f-research-overview.md` | 13,398 | ≈6,700 | 一次性读入 |
 | `appendix/g-safety-manual.md` | 18,458 | ≈9,200 | 可一次读入，紧时分2块 |
-| `appendix/h-therapy-comparison.md` | 14,155 | ≈7,100 | 一次性读入 |
-| `appendix/i-failure-difficulties.md` | 16,122 | ≈8,100 | 可一次读入，紧时分2块 |
-| `appendix/j-cross-reference.md` | 11,579 | ≈5,800 | 一次性读入 |
-| `appendix/k-chinese-context.md` | 17,938 | ≈9,000 | 可一次读入，紧时分2块 |
-| `appendix/l-index.md` | 16,205 | ≈8,100 | 可一次读入，紧时分2块 |
-| `appendix/m-clinical-quickref.md` | 17,869 | ≈8,900 | 可一次读入，紧时分2块 |
-| `appendix/n-research-methods.md` | 17,194 | ≈8,600 | 可一次读入，紧时分2块 |
-| `appendix/o-study-guide.md` | 21,757 | ≈10,900 | 可一次读入，紧时分2块 |
-| `appendix/p-research-corrections.md` | 23,842 | ≈11,900 | 可一次读入，紧时分2块 |
-| `appendix/practical-tools.md` | 18,610 | ≈9,300 | 可一次读入，紧时分2块 |
+| `appendix/h-therapy-comparison.md` | 14,596 | ≈7,300 | 一次性读入 |
+| `appendix/i-failure-difficulties.md` | 16,499 | ≈8,200 | 可一次读入，紧时分2块 |
+| `appendix/j-cross-reference.md` | 11,938 | ≈6,000 | 一次性读入 |
+| `appendix/k-chinese-context.md` | 18,346 | ≈9,200 | 可一次读入，紧时分2块 |
+| `appendix/l-index.md` | 16,508 | ≈8,300 | 可一次读入，紧时分2块 |
+| `appendix/m-clinical-quickref.md` | 18,287 | ≈9,100 | 可一次读入，紧时分2块 |
+| `appendix/n-research-methods.md` | 17,675 | ≈8,800 | 可一次读入，紧时分2块 |
+| `appendix/o-study-guide.md` | 22,109 | ≈11,100 | 可一次读入，紧时分2块 |
+| `appendix/p-research-corrections.md` | 24,140 | ≈12,100 | 可一次读入，紧时分2块 |
+| `appendix/practical-tools.md` | 18,889 | ≈9,400 | 可一次读入，紧时分2块 |
 | `appendix/q-emerging-therapies.md` | 27,633 | ≈13,800 | 可一次读入，紧时分2块 |
 | `appendix/r-health-economics.md` | 24,238 | ≈12,100 | 可一次读入，紧时分2块 |
 | `appendix/s-consciousness-science.md` | 28,796 | ≈14,400 | 可一次读入，紧时分2块 |
 | `appendix/t-patient-experience.md` | 32,737 | ≈16,400 | 分块（按二级节） |
-| `appendix/treatment-protocols.md` | 21,722 | ≈10,900 | 可一次读入，紧时分2块 |
+| `appendix/treatment-protocols.md` | 22,009 | ≈11,000 | 可一次读入，紧时分2块 |
 | `appendix/u-neuroplasticity.md` | 23,692 | ≈11,800 | 可一次读入，紧时分2块 |
 | `appendix/v-historical-cases.md` | 41,887 | ≈20,900 | 分块（按二级节） |
 | `appendix/w-gender-diversity.md` | 29,922 | ≈15,000 | 可一次读入，紧时分2块 |

@@ -2,7 +2,7 @@
   "title": "专业催眠学：理论、技术与实战",
   "title_en": "Professional Hypnosis: Theory, Technique & Practice",
   "language": "zh-CN",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "updated": "2026-10-23",
   "license": "CC BY-NC-SA 4.0",
   "license_file": "LICENSE.md",
@@ -34,11 +34,11 @@
     "evidence_audit": "references/verification-status.md",
     "answer_keys": "references/练习题参考答案.md"
   },
-  "notes": "教学案例为改编示例；引文经2026-09全书审计，仅保留可核实文献。v1.3.0 全书审修；v1.3.1 实战自洽扩充；v1.3.2 全链路挂接；v1.3.3 决策收敛（首推标注＋默认选择速查总表）。",
+  "notes": "教学案例为改编示例；引文经2026-09全书审计，仅保留可核实文献。v1.3.x 系列：全书审修→实战自洽→全链路挂接→决策收敛→终检发布。",
   "stats": {
     "md_files": 100,
     "appendix_files": 57,
-    "cjk_chars": 797831,
+    "cjk_chars": 799209,
     "chapters": 23,
     "guides": 6
   }
